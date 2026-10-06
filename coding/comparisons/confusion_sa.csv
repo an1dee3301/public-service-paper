@@ -1,0 +1,15 @@
+author,none,mentioned,specified,field,silent,only_via_GCC,required_own_text,no,yes
+none,7.0,0.0,0.0,exit_transition,,,,,
+mentioned,3.0,2.0,2.0,exit_transition,,,,,
+specified,0.0,0.0,0.0,exit_transition,,,,,
+none,12.0,0.0,1.0,data_return_export,,,,,
+mentioned,0.0,0.0,0.0,data_return_export,,,,,
+specified,0.0,1.0,0.0,data_return_export,,,,,
+none,10.0,0.0,0.0,financing_alternative,,,,,
+mentioned,4.0,0.0,0.0,financing_alternative,,,,,
+specified,0.0,0.0,0.0,financing_alternative,,,,,
+silent,,,,buyer_consent_to_changes,4.0,0.0,0.0,,
+only_via_GCC,,,,buyer_consent_to_changes,0.0,6.0,3.0,,
+required_own_text,,,,buyer_consent_to_changes,0.0,0.0,1.0,,
+no,,,,incorporates_GCC,,,,4.0,0.0
+yes,,,,incorporates_GCC,,,,1.0,9.0

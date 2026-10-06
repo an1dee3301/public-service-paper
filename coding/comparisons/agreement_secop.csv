@@ -1,0 +1,19 @@
+set,comparison,scheme,level,name,n,agree,raw_agreement,kappa,ci_lo,ci_hi,boot_valid,pabak,weighted_kappa_linear,max_marginal_author,max_marginal_comp,pos_agree,note
+secop,first_pass_model,6_categories,overall,ALL,50,46,0.92,0.8998,0.7971,0.9747,2000,0.904,,0.26,0.28,,
+secop,first_pass_model,6_categories,category,ai_product_or_platform,50,49,0.98,0.9493,0.8229,1.0,2000,0.96,,0.74,0.72,0.963,"one-vs-rest; author n=13, comp n=14, both=13"
+secop,first_pass_model,6_categories,category,ai_development_service,50,50,1.0,1.0,1.0,1.0,2000,1.0,,0.82,0.82,1.0,"one-vs-rest; author n=9, comp n=9, both=9"
+secop,first_pass_model,6_categories,category,cloud_or_software_nonAI,50,49,0.98,0.9436,0.7887,1.0,2000,0.96,,0.76,0.78,0.9565,"one-vs-rest; author n=12, comp n=11, both=11"
+secop,first_pass_model,6_categories,category,individual_professional_ai,50,49,0.98,0.9292,0.7368,1.0,2000,0.96,,0.84,0.82,0.9412,"one-vs-rest; author n=8, comp n=9, both=8"
+secop,first_pass_model,6_categories,category,incidental,50,46,0.92,0.6226,0.1848,0.9117,2000,0.84,,0.86,0.9,0.6667,"one-vs-rest; author n=7, comp n=5, both=4"
+secop,first_pass_model,6_categories,category,unclear,50,49,0.98,0.6575,0.0,1.0,1741,0.96,,0.98,0.96,0.6667,"one-vs-rest; author n=1, comp n=2, both=1"
+secop,second_model_blind,6_categories,overall,ALL,50,39,0.78,0.7265,0.5806,0.8701,2000,0.736,,0.26,0.26,,
+secop,second_model_blind,6_categories,category,ai_product_or_platform,50,48,0.96,0.896,0.7297,1.0,2000,0.92,,0.74,0.74,0.9231,"one-vs-rest; author n=13, comp n=13, both=12"
+secop,second_model_blind,6_categories,category,ai_development_service,50,46,0.92,0.729,0.4514,0.9398,2000,0.84,,0.82,0.82,0.7778,"one-vs-rest; author n=9, comp n=9, both=7"
+secop,second_model_blind,6_categories,category,cloud_or_software_nonAI,50,46,0.92,0.7525,0.4713,0.9436,2000,0.84,,0.76,0.84,0.8,"one-vs-rest; author n=12, comp n=8, both=8"
+secop,second_model_blind,6_categories,category,individual_professional_ai,50,47,0.94,0.7875,0.5017,1.0,2000,0.88,,0.84,0.82,0.8235,"one-vs-rest; author n=8, comp n=9, both=7"
+secop,second_model_blind,6_categories,category,incidental,50,43,0.86,0.507,0.1304,0.794,2000,0.72,,0.86,0.8,0.5882,"one-vs-rest; author n=7, comp n=10, both=5"
+secop,second_model_blind,6_categories,category,unclear,50,48,0.96,-0.0204,-0.0504,0.0,1755,0.92,,0.98,0.98,0.0,"one-vs-rest; author n=1, comp n=1, both=0"
+secop,model_vs_model_same50,6_categories,overall,ALL(first_pass vs second_model),50,39,0.78,0.7272,0.5823,0.8707,2000,0.736,,0.28,0.26,,NOT human validation
+secop,model_vs_model_all100,6_categories,overall,ALL(first_pass vs second_model),100,74,0.74,0.6823,0.5807,0.7788,2000,0.688,,0.25,0.24,,NOT human validation; n=100 sample incl. these 50
+secop,first_pass_model,4_groups(product+dev merged; incidental+unclear merged),overall,ALL,50,47,0.94,0.9135,0.8053,1.0,2000,0.92,,0.44,0.46,,robustness only; merges are post hoc
+secop,second_model_blind,4_groups(product+dev merged; incidental+unclear merged),overall,ALL,50,41,0.82,0.7443,0.5948,0.8864,2000,0.76,,0.44,0.44,,robustness only; merges are post hoc

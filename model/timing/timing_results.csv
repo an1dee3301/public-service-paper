@@ -1,0 +1,17 @@
+regime,pi,capital,grid_points,prop2_points,prop2_points_pattern_survives,pattern_points_total,pattern_points_outside_prop2
+static,1,renewal,2993,187,187,417,230
+L>N,1,renewal,2993,187,187,417,230
+L>N,3/4,renewal,2993,187,187,444,257
+L>N,1/2,renewal,2993,187,181,513,332
+L>N,1/4,renewal,2993,187,121,609,488
+L>N,1/8,renewal,2993,187,0,264,264
+L<=N,1,renewal,2993,187,143,733,590
+L<=N,3/4,renewal,2993,187,143,733,590
+L<=N,1/2,renewal,2993,187,143,733,590
+L<=N,1/4,renewal,2993,187,143,733,590
+L<=N,1/8,renewal,2993,187,143,733,590
+static,1,prior,2993,187,187,565,378
+L>N,1,prior,2993,187,187,565,378
+L>N,1/2,prior,2993,187,181,645,464
+L<=N,1,prior,2993,187,143,881,738
+L<=N,1/2,prior,2993,187,143,881,738

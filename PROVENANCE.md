@@ -1,0 +1,118 @@
+# Hash-only provenance
+
+Every released file is mapped to local input or generation-source SHA-256 values. Private paths and origin filenames are withheld. Multiple hashes mean a transformed/derived file has more than one input. These are provenance hashes, not an assertion of byte identity with a released transformation. The reference hash for numerical extraction is included.
+
+| Released file | Local-origin SHA-256 |
+|---|---|
+| .gitignore | 9c57bb274d888391edb97df93da6b43a66081989c3a3b1627266a908e7f99112 |
+| LICENSE | 9c57bb274d888391edb97df93da6b43a66081989c3a3b1627266a908e7f99112 |
+| LICENSE-docs | 9c57bb274d888391edb97df93da6b43a66081989c3a3b1627266a908e7f99112 |
+| POINTERS.md | ae1e54c2e74a6970db9e58aa8de4aea86e96d96fd0e2fe03b761446d0e6d14cd |
+| README.md | 9c57bb274d888391edb97df93da6b43a66081989c3a3b1627266a908e7f99112 |
+| coding/README.md | 9c57bb274d888391edb97df93da6b43a66081989c3a3b1627266a908e7f99112 |
+| coding/comparison_readout.md | 9e60fdeb7866e9b2529b9d731fed8fe79f5021a0dbf1f2ecd53d3115effeb82b |
+| coding/comparisons/agreement_sa.csv | 6ea62dc7a1b971f59d5bae58563671b05c2db72e19ac6be7b729563b80462adf |
+| coding/comparisons/agreement_secop.csv | d609c3c4fe9a49fadbd132c02eae4d4cc10a9b8b98c6c70ca2acd46eb108ed29 |
+| coding/comparisons/agreement_supplier_terms.csv | 4568dfd4ddda7798f102bba54adad5d4d750e5f89245d48a06a0d16249473bac |
+| coding/comparisons/confusion_sa.csv | 2b60cd8e4fe3aca484729e1372b6c41794d2d3ad990a5ba761d1484835e670ad |
+| coding/comparisons/confusion_secop.csv | 837c94d2702979293d7fde240ceaaa1d001469945293892dac20caa1811c716c |
+| coding/comparisons/confusion_supplier_terms.csv | 32fdea2c78f0e58364920543297cabc153f2bf3b0bc88d71a5851df7944c244a |
+| coding/comparisons/disagreements_sa.csv | 9da9eeb01059385a4d463e3f7f7d42e2994c29801b08a3b1228cf28e8a81f9f0 |
+| coding/comparisons/disagreements_secop.csv | 0631f3dcff93cdb95f47acb6b5dedc59f70be4fc5fef4208e6a018ee125ac5d0 |
+| coding/comparisons/disagreements_supplier_terms.csv | be89c34ccc277c9be1628acd7bbee21b645712e6f9be20a90f21843231ba0177 |
+| coding/contracts/VALIDATION_SAMPLE_100_ids.csv | 169409df6f3f880bbbcaee06581f8b17bfc7f2131be6a1aa40aa6f04dfb6216b |
+| coding/contracts/codebook.md | 5412ed0a5362046417306d47bb82d3ff13b1f1532707a4a6ef5e603d6e8f7782 |
+| coding/contracts/eligible_contracts.csv | 89f0e232432d812a683f07fbfd243ecb736d04955c73774230e3b21253c42d24 |
+| coding/contracts/outcomes_v2.csv | 6e6a7aa7196cf2f51a2837f730a26b9e0988f598802f1c647a99af199aceab55 |
+| coding/contracts/second_coder_comparison.csv | f2b225ba157f1ac5572b61fce305471c602c7742b9f6838abe9c6f044648408e |
+| coding/contracts/secop_classified_v1.csv | e1222e67abfce9ebc9f581ba6f589ed7da035bf449e191ceeac10e87c149bfaa |
+| coding/contracts/secop_incumbency_v1.csv | 1c9c673990df835127976c0871e67085fd94205c4b4752371ffe9ed88dbf6920 |
+| coding/contracts/secop_outcomes_v1.csv | 491842c343488857f7733419263b4a5fdd33a65d43e4d68e44d5665d91e4b407 |
+| coding/human/blank_contracts.csv | 4613f11b80f88fa8ae884e973455aea4949766eedd26b2dd0fa0e3556ac35cff |
+| coding/human/blank_tenders.csv | c0a758e9d5149f6b59157ee96a95eb51d343f647a09ddd284ba96b427dd54c24 |
+| coding/human/blank_terms.csv | 498c38244b07517d7dfbd879e4fa35dff3c980163cb778cc674ddfe8a5da5c66 |
+| coding/human/completed_contracts.csv | d0189bb6876abec5719dace882f1a3e85c32b888a7b8ccb52ce0b4b3826ba86c |
+| coding/human/completed_tenders.csv | 94749a97c7f35e2d2add8232ce52d3a83090584ba9cd0b3854cfeac0cc8c5acb |
+| coding/human/completed_terms.csv | 6c2524e143155daba4e756491eb27695700a324363a8ee20ed8915d883156739 |
+| coding/tenders/author_vs_v3.csv | 9c1741c2e00b67204ec13573b9e20340707912bf3fbeb3c252ec7f832f82b0f4 |
+| coding/tenders/codebook.md | 746042182b775489be1fd1ead65298917b9687e46127f6b672e761086ba7195e |
+| coding/tenders/codebook_original.md | 66566653c77a554ad0f5ac7cbdcdf0fa5a5cdd87b378035b159a735b79a3e794 |
+| coding/tenders/readout.md | c8502dde1f03591da4fb129a37b9ad8bfa6536de1648fe3dd4169c8d4a4dbb08 |
+| coding/tenders/sa_clauses_automated_v1.csv | ea890b5b529f24ce16f014da2d6a4160e0d4c075af60d77b8eadd1304f4a2e61 |
+| coding/tenders/sa_clauses_automated_v2.csv | 00371fdd76efab8111399430e5776caef62988c5561ddd1e72576cf95d152add |
+| coding/tenders/sa_clauses_v3.csv | b559e0276643123cf430ca2b7056553128040442b761887b235be9e8f71848b9 |
+| coding/tenders/sa_tenders_v1.csv | 50cf3e287d491f6234a6255eaf8864d883cb39a78f6551c2331529d269c85fa4 |
+| coding/terms/adjudicated.csv | eb98f6c0fb4c662e049e403422e2bf8a686163b0362cc5b3d3347f17e4ad9de8 |
+| coding/terms/agreement_stats.json | 9899c4a945e717a23a4d5e6adbbb4b576eb2ef71639eec64e2a81820f458d7ae |
+| coding/terms/codebook.md | 40a696c7622bdfc7300d5d27cf7f30af033fa97b6be0318a260ef6b99c873b9e |
+| coding/terms/disagreements.csv | a0e79254232f2b7cdca23d5f6c5fc7e137e3204c66bb2979dcdcb6d92a57a8a7 |
+| coding/terms/first_pass.csv | bf0ae871b05aab14bcd9ae7ba9ca3dfd1b065fe7b4add777cfef8f8d306c225a |
+| coding/terms/first_second_pass.csv | 8a8e55d5d13933592a7a18601c1ce0ae262285dc898989a103803ae3fe85d0a5 |
+| coding/terms/full_document_second_pass.csv | d25b7e49782856298ab6a3feb73671729851aaf4653a77bfbb26a49cb2ef470e |
+| coding/terms/human_codebook.md | 40a696c7622bdfc7300d5d27cf7f30af033fa97b6be0318a260ef6b99c873b9e |
+| coding/terms/second_pass_comparison.md | 926b5c0611e8aa12df00d40166e332b15abf2c8be85050d556c1eb663cb225cf |
+| episodes/README.md | 9c57bb274d888391edb97df93da6b43a66081989c3a3b1627266a908e7f99112 |
+| episodes/cross_sector/records.csv | ec9ed6e34e1dd5e69661987769af4f55253599e9d05352ee0f91454fe7f1979c |
+| episodes/cross_sector/source_check_codes.csv | dd5c75d1d2e8f77d32587abb782ae17b66993ebd0931ea870839682d03ac0bcb |
+| episodes/digital/records.csv | 163f20328388746b871b108afc8f45c59b50c14ac716f464b72d66a61ee8a8d0 |
+| episodes/digital/source_check_codes.csv | a35e688b6cd3dbc569db4f89222b585fe3c237d9bbf7b0874f8063c6437b57cd |
+| episodes/transitions/design.md | 5009c0412b62ac012eed7a42260b2a2a363ed7459b5de6be66716c864ec1d9ed |
+| episodes/transitions/evidence_matrix.md | e81e3a303a806c2332f17b9076f16432d72790f733668f1228e33e5ce466dd4b |
+| model/CHECKS.md | 6dd34dc95fcdc7b1b92faad3714c2382379d0b76a8e6aa3aa2cd6d3829d9490d; e9e8a9d26b542ccefbba477cfe15dcca390d5beb8797f48e9bf453aad4abce2a |
+| model/MANIFEST.md | 528ac96cbe0a1e87fb6f03b21219f424bff77dc37a1710f68c2fdda6de978651 |
+| model/README.md | 686c77714efa630d68c2556451324c84fd2420323a79b633c4379a1aa5780e04 |
+| model/SHA256SUMS.json | 1a46919f8902687f9b456d224e81ca078e037ceaf97c2037155eea386ee40284 |
+| model/check_printed.py | a666fde0480c1fa55699d1667dbb5383d257e3ad08679f8a0cf56d08641f55dd |
+| model/closed_form/characterise.py | 97085940f1f57a245d09a532b0596150f184dca8eb021a7fbd2b1d40f0ee2abe |
+| model/closed_form/characterise_out.json | 5c039a2a3f79cab203470154f9363e464e12a43c88d2101cf21d86bd2918b67e; eda2273687298628e341d4a4edaa28ed3e81bef064ebfe74184892bb6217e355 |
+| model/closed_form/classification.py | 49962b319958722be30443c4853365a4d2cc365e87e33410b0dfac7a97f53ada |
+| model/closed_form/theorem_J_out.json | a1ade5a2350a0df9a28140e766707052c132b122a111e25a8d9576bb1b135240; eda2273687298628e341d4a4edaa28ed3e81bef064ebfe74184892bb6217e355 |
+| model/econ/scripts/check_ai_dependence_model.py | 117c3a1a46e1d38a522e3a35a89560d8a9d3a21bf0df5f9b3c325c9f219b645d |
+| model/extensions/CHECK_RESULTS.json | 52baa3c17f4eeae781c57147dc8086f0279d3e0300cf0f0b7b160f0b22b01b43; b426e465360d8c52a1ec447cf2289bf4d7eb0ab244d15cde0388b5ae693e0e38 |
+| model/extensions/check_extensions.py | 12964387e0ef6075343f38da4047e5aafb122d08820079d36860db88cb1b2b92 |
+| model/general/CHECKS.json | a1eec0487b9243bcb7c5b63e32f2fac425b72f33009e0f9907d22b0c129df4db; ea588ea34d378ef57d89bc82689edca387692d33e34760a0562b529c57c5beb4 |
+| model/general/check_theory.py | 4b965e723579430df4471872132bbaff951d1801cf360b77ebc8f87df8482516 |
+| model/historical/consolidation.py | 4757fae51b47896f83577190f3b34e50187b4fd6d82d9ddc60675b2dc338635d |
+| model/historical/model_extensions.py | 74e1923c4db150f34cdb16cf2fcee76d5cc4f1ffd95bd8283d5164d008448e91 |
+| model/historical/model_extensions_results.json | b9943c79d451ae3b3bbed8bcaa02565c7552e221b3c72bd0dbaf87971146679a; bfd69d1f5fa7b8cdc5ca3721dc3343481a720611b19a1d05b9c5f166704fc404 |
+| model/historical/phase_diagram.png | 3a06c31c0f53b51d754c9e932395b33733701b6e8299a91a7b5de70dbea06363; bfd69d1f5fa7b8cdc5ca3721dc3343481a720611b19a1d05b9c5f166704fc404 |
+| model/historical/phase_grid.csv | bfd69d1f5fa7b8cdc5ca3721dc3343481a720611b19a1d05b9c5f166704fc404; f8fa86f8a2cd2cae13b799e36e9ae28b26305d541f97773bcc8077df9384fdaf |
+| model/historical/reserve_checks.py | eb3a8f1780058b2d08a42ebf3a4114d1c04a81b335ef996a7ed5024b4ac5223f |
+| model/historical/reserve_results.json | 3b36e59258d4fcf0974e3eceea1103c1da3c4d474df550f994d4517b70aa5470; bfd69d1f5fa7b8cdc5ca3721dc3343481a720611b19a1d05b9c5f166704fc404 |
+| model/historical/results.json | bfd69d1f5fa7b8cdc5ca3721dc3343481a720611b19a1d05b9c5f166704fc404; fe37cd732746a862c5f9b6be33294f343b66d6e9b041182bcc150be814d56476 |
+| model/historical/topup_vs_joint.png | bdd233ff7595e2e8fa1e0aea80aab2f6db10e0d315e015033379636e025694de; bfd69d1f5fa7b8cdc5ca3721dc3343481a720611b19a1d05b9c5f166704fc404 |
+| model/independent/audit.py | fc737d9f7f3629bf9e2edc3c954206624108c8e08ac33fc54c4e5166dccd6502 |
+| model/independent/audit_results.json | 6ffed5db66aa95063d5a9530e612b166fefc8051b79de5e6b64cf84f210a74fb; 9f7f238f0c36d2e7504b6f81fd761c2de65ee5783c2bc3f2c8bd4026f42a4efa |
+| model/independent/boundaries.py | bd0f762f91a588d3e1e4c9ba6ba7154393709808534211c527c380e9f4fce77a |
+| model/independent/boundary_certificates.json | 6ffed5db66aa95063d5a9530e612b166fefc8051b79de5e6b64cf84f210a74fb; 7d55ab58cf36231f297086d4b7e8aad007c046e29a6eafe8e179b28ead54ad44 |
+| model/independent/independent_checks.json | 6ffed5db66aa95063d5a9530e612b166fefc8051b79de5e6b64cf84f210a74fb; 7c5bdfd8181fae622fd2355ec5f9131de9f1cc1dd231e66c34e8357860a29fe1 |
+| model/independent/solver.py | 6361d37c2e86129b2e8aea2539d4aac4cc7bad972f57116340c57e6d7bc1a7f2 |
+| model/institutions/RESULTS.json | 23b61bb0cb8026ba42508457c8cd7ae07db8cfdecaabd7325b4253e6aa43b46f; f68f1e833da514477e70d7ab029496f749ea1e55a49b80d0aa64a056e801b223 |
+| model/institutions/solver.py | 0e4ffb4a763c42b3b137ec33dbfd739a4c17a875e093afeabfe64b4908954478 |
+| model/legacy_check/disagreements.csv | e55ba506e5db6e2378005ddc520d32f087a65c1a3444c2cb68f6456729693ac3 |
+| model/legacy_check/independent_solver.py | e55ba506e5db6e2378005ddc520d32f087a65c1a3444c2cb68f6456729693ac3 |
+| model/legacy_check/results.json | e55ba506e5db6e2378005ddc520d32f087a65c1a3444c2cb68f6456729693ac3 |
+| model/phase/CHECKS.json | 6ff8b5b5a1dd3f5e8ae73ae5c04d07ca835efc99a1caa74b9b01ebb72ec82e40; a7beb385257d839d83443f835e66cb49ce4796abc960165fc3f82aaa6650cc1e |
+| model/phase/EXACT_CELLS.json | a7beb385257d839d83443f835e66cb49ce4796abc960165fc3f82aaa6650cc1e; c222f92e81e45c46d1c9893a45767b98ee91f4d98f30feb79c7618ad51da05f4 |
+| model/phase/fig_cases.eps | 0e40e80fb7e889cd0da43de024f86684dc189c72a1983f9ce1b5a6c960b46cd4; a7beb385257d839d83443f835e66cb49ce4796abc960165fc3f82aaa6650cc1e |
+| model/phase/fig_cases.pdf | 5ae5df0937849de556819393623b8ebec288a90208ee59216120241d8206b607; a7beb385257d839d83443f835e66cb49ce4796abc960165fc3f82aaa6650cc1e |
+| model/phase/fig_cases.png | a7beb385257d839d83443f835e66cb49ce4796abc960165fc3f82aaa6650cc1e; d79a83dc8d76081858404ef12cb5ce9698f9bddb24a5f50e85fc4790f07ce958 |
+| model/phase/fig_cases.py | deb5cd060d2f23a1e5d42a2f210c8c220ed5f7a63ad2e2525beac7f050df9600 |
+| model/printed_values.json | 8da73976b8849682422d58538a2598e1cfc360d5d6b86ba0e4c327cd2410dd20 |
+| model/region/fig_region.eps | 0502d10502efcaca1a747e6c4db4323994a2f287f9f281ef5404b69ca3eb321a; e6e5cdf529e35361058361dfae0f25179fee37228fba0ec12bcfbbbc193b065e |
+| model/region/fig_region.pdf | 0502d10502efcaca1a747e6c4db4323994a2f287f9f281ef5404b69ca3eb321a; f2fe4719c65e6d5c6f852145cf2f93a8994c89196928cb94a1cf50703c5fdf99 |
+| model/region/fig_region.png | 0502d10502efcaca1a747e6c4db4323994a2f287f9f281ef5404b69ca3eb321a; 255966ffc14afafdb00d58bae7f297341f159056e3a000b93825efdb779e0cd2 |
+| model/region/fig_region.py | 0502d10502efcaca1a747e6c4db4323994a2f287f9f281ef5404b69ca3eb321a |
+| model/requirements.txt | e9e8a9d26b542ccefbba477cfe15dcca390d5beb8797f48e9bf453aad4abce2a |
+| model/results.json | 09ade01e611eaff92ba9114c0892ff9b7acebc30341625ae4ab48331488c908a; e9e8a9d26b542ccefbba477cfe15dcca390d5beb8797f48e9bf453aad4abce2a |
+| model/run_all.py | be56d448018787e75b28428e2bbd40498213cdc7dae4f4d9b5ce629be6acf1df |
+| model/timing/timing_example.csv | 6c62e62103741d4cfe49f60fe6ada02ec00ad28eff84d4db207cf978dcbb8092 |
+| model/timing/timing_extension.py | 787343a49e02bf8ebd4c265ea92393c8d5da65ba0cc2e834eaf775193019097e |
+| model/timing/timing_grid.csv | 6c62e62103741d4cfe49f60fe6ada02ec00ad28eff84d4db207cf978dcbb8092 |
+| model/timing/timing_results.csv | 6c62e62103741d4cfe49f60fe6ada02ec00ad28eff84d4db207cf978dcbb8092 |
+| sources/README.md | 9c57bb274d888391edb97df93da6b43a66081989c3a3b1627266a908e7f99112 |
+| sources/cross_sector.json | 70016cc404b66b56c69eb0c769ac3cb76d783f93ce1f9dbe62a39acf58a3d38d; b73a208b82d79641f02a38c0f136750702d8154ff4c806658b0332d24ec70418 |
+| sources/digital.json | 54c83e3779dedd5d145c8afa0175c1c210eb6ef43b09ea36b1b664259f8ab728; 90ed4aa09a644bdf354dfe8b11a9e686beb85ed52b4c5bf2eac853027b22afee |
+| sources/tenders.json | 50cf3e287d491f6234a6255eaf8864d883cb39a78f6551c2331529d269c85fa4 |
+| sources/terms.json | f180245c6766464a18135d38c19d6056204d95f813a18f206640a0ea83a730c2 |
+| PROVENANCE.md | 1a46919f8902687f9b456d224e81ca078e037ceaf97c2037155eea386ee40284 |

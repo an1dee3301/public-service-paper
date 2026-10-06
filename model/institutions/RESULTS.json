@@ -1,0 +1,213 @@
+{
+  "region_points": 701,
+  "checks": {
+    "Proposition2": 701,
+    "resource_identity": 2804,
+    "Proposition1_price_deviations": 2804,
+    "separate_accounts": 701,
+    "Table2_row1": 4206,
+    "Table2_row2": 3505,
+    "Table2_row3": 701,
+    "Table2_row4": 6309,
+    "Table2_row5": 3505,
+    "Table2_row6": 701,
+    "Table2_row7_sufficient_region": 1674,
+    "Table1_clause_region": 701,
+    "clause_voluntary_nonadoption": 701,
+    "clause_adoption_cost": 2103,
+    "Table1_joint": 1,
+    "Table1_topup_resident_borne": 1,
+    "Table1_clause": 1,
+    "Table1_outside_fallback": 1,
+    "Table1_aligned": 1,
+    "Table1_refusal_only": 1,
+    "Table1_transfer_strict_threshold": 1,
+    "noncomposition_competition": 5,
+    "noncomposition_continuous": 5,
+    "noncomposition_nash": 5,
+    "Table1_topup_grid": 701,
+    "Table1_external_grid": 701,
+    "Table1_aligned_grid": 701,
+    "Table1_refusal_grid": 701,
+    "Table1_transfer_grid": 701,
+    "Figure1_baseline": 1,
+    "Figure1_reserve": 1,
+    "Figure1_competition": 1
+  },
+  "total_checks": 34646,
+  "failures": [],
+  "worked": {
+    "rights_00": {
+      "x": 0,
+      "q": "1",
+      "p": "5",
+      "A": "5",
+      "W": "2",
+      "profit": "1",
+      "G": "3",
+      "service": "incumbent"
+    },
+    "rights_10": {
+      "x": 0,
+      "q": "1",
+      "p": "5",
+      "A": "5",
+      "W": "2",
+      "profit": "1",
+      "G": "3",
+      "service": "incumbent"
+    },
+    "rights_01": {
+      "x": 0,
+      "q": "1",
+      "p": "5",
+      "A": "5",
+      "W": "2",
+      "profit": "1",
+      "G": "3",
+      "service": "incumbent"
+    },
+    "rights_11": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "7/2",
+      "W": "7/2",
+      "profit": "0",
+      "G": "7/2",
+      "service": "fallback"
+    },
+    "Table1_joint": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "7/2",
+      "W": "7/2",
+      "profit": "0",
+      "G": "7/2",
+      "service": "fallback"
+    },
+    "Table1_topup_resident_borne": {
+      "x": 0,
+      "q": "0",
+      "p": "6",
+      "A": "4",
+      "W": "4",
+      "profit": "0",
+      "G": "4",
+      "service": "incumbent"
+    },
+    "Table1_clause": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "7/2",
+      "W": "7/2",
+      "profit": "0",
+      "G": "7/2",
+      "service": "fallback"
+    },
+    "Table1_outside_fallback": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "4",
+      "W": "4",
+      "profit": "0",
+      "G": "4",
+      "service": "fallback"
+    },
+    "Table1_aligned": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "7/2",
+      "W": "7/2",
+      "profit": "0",
+      "G": "7/2",
+      "service": "fallback"
+    },
+    "Table1_refusal_only": {
+      "x": 0,
+      "q": "1",
+      "p": "5",
+      "A": "5",
+      "W": "2",
+      "profit": "1",
+      "G": "3",
+      "service": "incumbent"
+    },
+    "crowding_out_baseline": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "11/4",
+      "W": "11/4",
+      "profit": "0",
+      "G": "11/4",
+      "service": "fallback"
+    },
+    "crowding_out_competition": {
+      "x": 0,
+      "q": "1",
+      "p": "4",
+      "A": "6",
+      "W": "3",
+      "profit": "0",
+      "G": "3",
+      "service": "incumbent"
+    },
+    "continuous_worked": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "7/2",
+      "W": "7/2",
+      "profit": "0",
+      "G": "7/2",
+      "service": "fallback"
+    },
+    "reserve_worked": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "7/2",
+      "W": "7/2",
+      "profit": "0",
+      "G": "7/2",
+      "service": "fallback"
+    },
+    "nash_beta_zero": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "7/2",
+      "W": "7/2",
+      "profit": "0",
+      "G": "7/2",
+      "service": "fallback"
+    },
+    "full_clause": {
+      "x": 1,
+      "q": "0",
+      "p": null,
+      "A": "7/2",
+      "W": "7/2",
+      "profit": "0",
+      "G": "7/2",
+      "service": "fallback"
+    }
+  },
+  "figure_areas": {
+    "baseline": "5/2",
+    "reserve": "9/4",
+    "competition": "2"
+  },
+  "assumptions": [
+    "Risk neutral expected utility for row 5",
+    "Continuous q scales cost saving and harm linearly; smallest q on profit ties",
+    "Minimal borrowing max(0,p-R), both objectives pay interest after service",
+    "Nash price bargaining conditional on supplier-chosen q; inherited cash cap",
+    "Top-up row charges residents all 6; donor grant is a distinct convention"
+  ]
+}

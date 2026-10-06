@@ -1,0 +1,41 @@
+provider,field,code_A,source_id_A,code_C,source_id_C,adjudicated_code,numeric_days_C,clause_C,reason
+OpenAI,model_retirement_notice_days,conditional,p1_lifecycle_latest,conditional,p1_lifecycle_latest,conditional,,Deprecation versus legacy and dated deprecations,Exact A/C agreement; retain Pass C clause and scope note.
+OpenAI,export_right_affirmative,yes,p1_dpa_latest,conditional,p1_dpa_latest,conditional,,2.11,Return is at Customer instruction and limited to Customer Data.
+OpenAI,termination_for_convenience_customer,not_observed,p1_business_latest,no_in_read_document,p1_business_latest,no_in_read_document,,11.2 and 2.3,Full agreement lacks unconditional convenience termination; narrow exits do not qualify.
+OpenAI,notice_days_price_change,yes,p1_business_latest,yes,p1_business_latest,yes,14,6.6,Exact A/C agreement; retain Pass C clause and scope note.
+OpenAI,notice_days_material_terms,yes,p1_business_latest,conditional,p1_business_latest,yes,30,16.13(a),An explicit 30-day material-change notice exists; retain law and provider-judgment exceptions in notes.
+Anthropic,model_retirement_notice_days,yes,p2_lifecycle_latest,yes,p2_lifecycle_live,yes,60,Customer notification,Exact A/C agreement; retain Pass C clause and scope note.
+Anthropic,export_right_affirmative,yes,p2_dpa_latest,conditional,p2_dpa_live,conditional,30,H.1,Return requires request within 30 days and is limited to Customer Data.
+Anthropic,termination_for_convenience_customer,yes,p2_business_latest,yes,p2_business_live,yes,,I.2.a,Exact A/C agreement; retain Pass C clause and scope note.
+Anthropic,notice_days_price_change,yes,p2_business_latest,conditional,p2_business_live,conditional,30,H.1,Earlier of posting plus 30 days or receipt of Notice can shorten advance period.
+Anthropic,notice_days_material_terms,yes,p2_business_latest,conditional,p2_business_live,conditional,30,M.3,Earlier-effective Notice and immediate law/regulatory exception limit the 30-day window.
+Google,model_retirement_notice_days,not_observed,p3_lifecycle_latest,conditional,p3_lifecycle_live,conditional,45,Models available for shorter availability periods,Live short-term model page states 45-day migration window; Pass A used different captured page.
+Google,export_right_affirmative,yes,p3_dpa_live,conditional,p3_dpa_live,conditional,,9.1 and 6.2,Export is during Term and limited by service functionality.
+Google,termination_for_convenience_customer,yes,p3_business_live,conditional,p3_business_live,yes,,8.5,Explicit convenience right; financial commitments are recorded as limits rather than removing right.
+Google,notice_days_price_change,not_observed,p3_business_live,no_in_read_document,p3_business_live,no_in_read_document,,2.6,GCP fees can change at any time; 30-day provision applies to other services.
+Google,notice_days_material_terms,yes,p3_business_live,conditional,p3_business_live,yes,30,1.4(b)-(c),Explicit general 30-day GCP material-change window; record immediate exceptions.
+Microsoft Azure OpenAI,model_retirement_notice_days,yes,p4_lifecycle_live,conditional,p4_lifecycle_live,yes,60,When you receive active notifications,Explicit GA 60-day and preview 30-day notice rules; record emergency exception.
+Microsoft Azure OpenAI,export_right_affirmative,not_observed,azure_product_2024,not_observed,p4_business_2024,not_observed,,landing page only,Exact A/C agreement; retain Pass C clause and scope note.
+Microsoft Azure OpenAI,termination_for_convenience_customer,not_observed,azure_product_2024,not_observed,p4_business_2024,not_observed,,landing page only,Exact A/C agreement; retain Pass C clause and scope note.
+Microsoft Azure OpenAI,notice_days_price_change,not_observed,azure_product_2024,not_observed,p4_service_2024,not_observed,,Azure pricing note,Exact A/C agreement; retain Pass C clause and scope note.
+Microsoft Azure OpenAI,notice_days_material_terms,not_observed,azure_product_2024,not_observed,p4_business_2024,not_observed,,landing page only,Exact A/C agreement; retain Pass C clause and scope note.
+AWS Bedrock,model_retirement_notice_days,conditional,p5_lifecycle_live,conditional,p5_lifecycle_live,conditional,45,Model lifecycle Legacy period,Exact A/C agreement; retain Pass C clause and scope note.
+AWS Bedrock,export_right_affirmative,conditional,p5_business_live,conditional,p5_business_live,conditional,30,5.3(b),Exact A/C agreement; retain Pass C clause and scope note.
+AWS Bedrock,termination_for_convenience_customer,yes,p5_business_live,yes,p5_business_live,yes,,5.2(a),Exact A/C agreement; retain Pass C clause and scope note.
+AWS Bedrock,notice_days_price_change,yes,p5_business_live,yes,p5_business_live,yes,30,3.1,Exact A/C agreement; retain Pass C clause and scope note.
+AWS Bedrock,notice_days_material_terms,conditional,p5_business_live,conditional,p5_business_live,conditional,30,10 and 11.15(a)(ii),Exact A/C agreement; retain Pass C clause and scope note.
+Meta,model_retirement_notice_days,not_applicable,meta_llama_2026,not_applicable,meta_llama_2026,not_applicable,,Llama 2 licence preamble,Exact A/C agreement; retain Pass C clause and scope note.
+Meta,export_right_affirmative,not_applicable,meta_llama_2026,not_applicable,meta_llama_2026,not_applicable,,1(a),Exact A/C agreement; retain Pass C clause and scope note.
+Meta,termination_for_convenience_customer,not_applicable,meta_llama_2026,not_applicable,meta_llama_2026,not_applicable,,6,Exact A/C agreement; retain Pass C clause and scope note.
+Meta,notice_days_price_change,not_applicable,meta_llama_2026,not_applicable,meta_llama_2026,not_applicable,,1(a),Exact A/C agreement; retain Pass C clause and scope note.
+Meta,notice_days_material_terms,not_applicable,meta_llama_2026,not_applicable,meta_llama_2026,not_applicable,,6,Exact A/C agreement; retain Pass C clause and scope note.
+Mistral,model_retirement_notice_days,conditional,p7_lifecycle_live,conditional,p7_lifecycle_live,conditional,,Deprecation policy,Exact A/C agreement; retain Pass C clause and scope note.
+Mistral,export_right_affirmative,conditional,p7_service_live,conditional,p7_service_live,conditional,30,2.1-2.3 and Schedule 1,Exact A/C agreement; retain Pass C clause and scope note.
+Mistral,termination_for_convenience_customer,conditional,p7_business_live,conditional,p7_business_live,conditional,,11.2,Exact A/C agreement; retain Pass C clause and scope note.
+Mistral,notice_days_price_change,not_observed,p7_business_live,no_in_read_document,p7_business_live,no_in_read_document,,10.1 and 13,Full commercial terms have pricing page reference but no separate price-change notice.
+Mistral,notice_days_material_terms,yes,p7_business_live,yes,p7_business_live,yes,30,13.1-13.4,Exact A/C agreement; retain Pass C clause and scope note.
+Alibaba Cloud Model Studio,model_retirement_notice_days,conditional,p8_lifecycle_live,conditional,p8_lifecycle_live,conditional,,Model Studio retirement notice,Exact A/C agreement; retain Pass C clause and scope note.
+Alibaba Cloud Model Studio,export_right_affirmative,not_observed,p8_business_live,no_in_read_document,p8_business_live,no_in_read_document,,8.5,Read membership/product terms show termination loss of access and no affirmative export.
+Alibaba Cloud Model Studio,termination_for_convenience_customer,conditional,p8_business_live,conditional,p8_business_live,conditional,,8.1,Exact A/C agreement; retain Pass C clause and scope note.
+Alibaba Cloud Model Studio,notice_days_price_change,not_observed,p8_business_live,no_in_read_document,p8_business_live,no_in_read_document,,6.3,Payment terms changes take effect on publication; no advance notice shown.
+Alibaba Cloud Model Studio,notice_days_material_terms,yes,p8_business_live,conditional,p8_business_live,yes,15,1.2,Explicit general 15-day material-change window; record immediate exceptions.

@@ -1,0 +1,2160 @@
+{
+  "status": "PASS",
+  "source_failures": [],
+  "runs": [
+    {
+      "file": "closed_form/characterise.py",
+      "exit_code": 0,
+      "seconds": 45.416,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "closed_form/classification.py",
+      "exit_code": 0,
+      "seconds": 34.943,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "independent/solver.py",
+      "exit_code": 0,
+      "seconds": 1.676,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "independent/audit.py",
+      "exit_code": 0,
+      "seconds": 7.935,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "independent/boundaries.py",
+      "exit_code": 0,
+      "seconds": 0.067,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "general/check_theory.py",
+      "exit_code": 0,
+      "seconds": 30.998,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "extensions/check_extensions.py",
+      "exit_code": 0,
+      "seconds": 5.015,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "institutions/solver.py",
+      "exit_code": 0,
+      "seconds": 7.046,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "historical/model_extensions.py",
+      "exit_code": 0,
+      "seconds": 22.543,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "historical/reserve_checks.py",
+      "exit_code": 0,
+      "seconds": 39.458,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "historical/consolidation.py",
+      "exit_code": 0,
+      "seconds": 29.299,
+      "diagnostic": "",
+      "warnings": []
+    },
+    {
+      "file": "phase/fig_cases.py",
+      "exit_code": 0,
+      "seconds": 35.662,
+      "diagnostic": "",
+      "warnings": [
+        "Matplotlib is building the font cache; this may take a moment."
+      ]
+    },
+    {
+      "file": "region/fig_region.py",
+      "exit_code": 0,
+      "seconds": 1.073,
+      "diagnostic": "",
+      "warnings": []
+    }
+  ],
+  "comparison": {
+    "checks": [
+      {
+        "item": "Table 1A, row 1, column 2",
+        "actual": [
+          "5"
+        ],
+        "printed": [
+          "5"
+        ],
+        "line": 218,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 1, column 3",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 218,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 1, column 4",
+        "actual": [
+          "4"
+        ],
+        "printed": [
+          "4"
+        ],
+        "line": 218,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 1, column 5",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 218,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 1, column 6",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 218,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 1, column 7",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 218,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 1, column 8",
+        "actual": [
+          "7/2"
+        ],
+        "printed": [
+          "7/2"
+        ],
+        "line": 218,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 2, column 2",
+        "actual": [
+          "8"
+        ],
+        "printed": [
+          "8"
+        ],
+        "line": 219,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 2, column 3",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 219,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 2, column 4",
+        "actual": [
+          "13/4"
+        ],
+        "printed": [
+          "13/4"
+        ],
+        "line": 219,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 2, column 5",
+        "actual": [
+          "-1/4"
+        ],
+        "printed": [
+          "-1/4"
+        ],
+        "line": 219,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 2, column 6",
+        "actual": [
+          "-1/4"
+        ],
+        "printed": [
+          "-1/4"
+        ],
+        "line": 219,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 2, column 7",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 219,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 2, column 8",
+        "actual": [
+          "11/4"
+        ],
+        "printed": [
+          "11/4"
+        ],
+        "line": 219,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 3, column 2",
+        "actual": [
+          "19/2"
+        ],
+        "printed": [
+          "19/2"
+        ],
+        "line": 220,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 3, column 3",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 220,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 3, column 4",
+        "actual": [
+          "1/4"
+        ],
+        "printed": [
+          "1/4"
+        ],
+        "line": 220,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 3, column 5",
+        "actual": [
+          "-5/2"
+        ],
+        "printed": [
+          "-5/2"
+        ],
+        "line": 220,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 3, column 6",
+        "actual": [
+          "-5/2"
+        ],
+        "printed": [
+          "-5/2"
+        ],
+        "line": 220,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 3, column 7",
+        "actual": [
+          "-3/4"
+        ],
+        "printed": [
+          "-3/4"
+        ],
+        "line": 220,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1A, row 3, column 8",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 220,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 1, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 248,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 1, column 5",
+        "actual": [
+          "7/2"
+        ],
+        "printed": [
+          "7/2"
+        ],
+        "line": 248,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 2, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 249,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 2, column 5",
+        "actual": [
+          "4"
+        ],
+        "printed": [
+          "4"
+        ],
+        "line": 249,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 3, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 250,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 3, column 5",
+        "actual": [
+          "7/2"
+        ],
+        "printed": [
+          "7/2"
+        ],
+        "line": 250,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 4, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 251,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 4, column 5",
+        "actual": [
+          "4"
+        ],
+        "printed": [
+          "4"
+        ],
+        "line": 251,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 5, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 252,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 5, column 5",
+        "actual": [
+          "7/2"
+        ],
+        "printed": [
+          "7/2"
+        ],
+        "line": 252,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 6, column 4",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 253,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table 1B, row 6, column 5",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 253,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 1, column 2",
+        "actual": [
+          "4",
+          "6"
+        ],
+        "printed": [
+          "4",
+          "6"
+        ],
+        "line": 491,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 1, column 3",
+        "actual": [
+          "0",
+          "8"
+        ],
+        "printed": [
+          "0",
+          "8"
+        ],
+        "line": 491,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 1, column 4",
+        "actual": [
+          "1/4"
+        ],
+        "printed": [
+          "1/4"
+        ],
+        "line": 491,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 1, column 5",
+        "actual": [
+          "297",
+          "9",
+          "33"
+        ],
+        "printed": [
+          "297",
+          "9",
+          "33"
+        ],
+        "line": 491,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 1, column 6",
+        "actual": [
+          "40"
+        ],
+        "printed": [
+          "40"
+        ],
+        "line": 491,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 2, column 2",
+        "actual": [
+          "3",
+          "8"
+        ],
+        "printed": [
+          "3",
+          "8"
+        ],
+        "line": 492,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 2, column 3",
+        "actual": [
+          "0",
+          "9"
+        ],
+        "printed": [
+          "0",
+          "9"
+        ],
+        "line": 492,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 2, column 4",
+        "actual": [
+          "1/8"
+        ],
+        "printed": [
+          "1/8"
+        ],
+        "line": 492,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 2, column 5",
+        "actual": [
+          "2993",
+          "41",
+          "73"
+        ],
+        "printed": [
+          "2993",
+          "41",
+          "73"
+        ],
+        "line": 492,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A1, row 2, column 6",
+        "actual": [
+          "187"
+        ],
+        "printed": [
+          "187"
+        ],
+        "line": 492,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 1, column 3",
+        "actual": [
+          "69"
+        ],
+        "printed": [
+          "69"
+        ],
+        "line": 504,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 1, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 504,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 2, column 3",
+        "actual": [
+          "24"
+        ],
+        "printed": [
+          "24"
+        ],
+        "line": 505,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 2, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 505,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 3, column 3",
+        "actual": [
+          "21"
+        ],
+        "printed": [
+          "21"
+        ],
+        "line": 506,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 3, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 506,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 4, column 3",
+        "actual": [
+          "63"
+        ],
+        "printed": [
+          "63"
+        ],
+        "line": 507,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 4, column 4",
+        "actual": [
+          "40"
+        ],
+        "printed": [
+          "40"
+        ],
+        "line": 507,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 5, column 3",
+        "actual": [
+          "120"
+        ],
+        "printed": [
+          "120"
+        ],
+        "line": 508,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 5, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 508,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 6, column 3",
+        "actual": [
+          "1791"
+        ],
+        "printed": [
+          "1791"
+        ],
+        "line": 509,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 6, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 509,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 7, column 3",
+        "actual": [
+          "96"
+        ],
+        "printed": [
+          "96"
+        ],
+        "line": 510,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 7, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 510,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 8, column 3",
+        "actual": [
+          "689"
+        ],
+        "printed": [
+          "689"
+        ],
+        "line": 511,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 8, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 511,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 9, column 3",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 512,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 9, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 512,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 10, column 3",
+        "actual": [
+          "417"
+        ],
+        "printed": [
+          "417"
+        ],
+        "line": 513,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A2, row 10, column 4",
+        "actual": [
+          "187"
+        ],
+        "printed": [
+          "187"
+        ],
+        "line": 513,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 1, column 2",
+        "actual": [
+          "40"
+        ],
+        "printed": [
+          "40"
+        ],
+        "line": 531,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 1, column 3",
+        "actual": [
+          "5"
+        ],
+        "printed": [
+          "5"
+        ],
+        "line": 531,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 1, column 4",
+        "actual": [
+          "25/2"
+        ],
+        "printed": [
+          "25/2"
+        ],
+        "line": 531,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 2, column 2",
+        "actual": [
+          "187"
+        ],
+        "printed": [
+          "187"
+        ],
+        "line": 532,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 2, column 3",
+        "actual": [
+          "33"
+        ],
+        "printed": [
+          "33"
+        ],
+        "line": 532,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 2, column 4",
+        "actual": [
+          "88/5"
+        ],
+        "printed": [
+          "88/5"
+        ],
+        "line": 532,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 3, column 4",
+        "actual": [
+          "20"
+        ],
+        "printed": [
+          "20"
+        ],
+        "line": 533,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 4, column 2",
+        "actual": [
+          "5296"
+        ],
+        "printed": [
+          "5296"
+        ],
+        "line": 534,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 4, column 3",
+        "actual": [
+          "1684"
+        ],
+        "printed": [
+          "1684"
+        ],
+        "line": 534,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 4, column 4",
+        "actual": [
+          "159/5"
+        ],
+        "printed": [
+          "159/5"
+        ],
+        "line": 534,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 5, column 2",
+        "actual": [
+          "20000"
+        ],
+        "printed": [
+          "20000"
+        ],
+        "line": 535,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 5, column 3",
+        "actual": [
+          "9714"
+        ],
+        "printed": [
+          "9714"
+        ],
+        "line": 535,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A3, row 5, column 4",
+        "actual": [
+          "243/5"
+        ],
+        "printed": [
+          "243/5"
+        ],
+        "line": 535,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 1, column 2",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 547,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 1, column 3",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 547,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 1, column 4",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 547,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 1, column 5",
+        "actual": [
+          "3"
+        ],
+        "printed": [
+          "3"
+        ],
+        "line": 547,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 1, column 6",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 547,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 2, column 2",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 548,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 2, column 3",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 548,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 2, column 4",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 548,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 2, column 5",
+        "actual": [
+          "3"
+        ],
+        "printed": [
+          "3"
+        ],
+        "line": 548,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 2, column 6",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 548,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 3, column 2",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 549,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 3, column 3",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 549,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 3, column 4",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 549,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 3, column 5",
+        "actual": [
+          "3"
+        ],
+        "printed": [
+          "3"
+        ],
+        "line": 549,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 3, column 6",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 549,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 4, column 2",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 550,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 4, column 3",
+        "actual": [
+          "7/2"
+        ],
+        "printed": [
+          "7/2"
+        ],
+        "line": 550,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 4, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 550,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 4, column 5",
+        "actual": [
+          "7/2"
+        ],
+        "printed": [
+          "7/2"
+        ],
+        "line": 550,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 4, column 6",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 550,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 5, column 2",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 551,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 5, column 3",
+        "actual": [
+          "4"
+        ],
+        "printed": [
+          "4"
+        ],
+        "line": 551,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 5, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 551,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 5, column 5",
+        "actual": [
+          "4"
+        ],
+        "printed": [
+          "4"
+        ],
+        "line": 551,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 5, column 6",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 551,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 6, column 2",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 552,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 6, column 3",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 552,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 6, column 4",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 552,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 6, column 5",
+        "actual": [
+          "5/2"
+        ],
+        "printed": [
+          "5/2"
+        ],
+        "line": 552,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 6, column 6",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 552,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 7, column 2",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 553,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 7, column 3",
+        "actual": [
+          "4"
+        ],
+        "printed": [
+          "4"
+        ],
+        "line": 553,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 7, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 553,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 7, column 5",
+        "actual": [
+          "7/2"
+        ],
+        "printed": [
+          "7/2"
+        ],
+        "line": 553,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4A, row 7, column 6",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 553,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 1, column 2",
+        "actual": [
+          "3/2"
+        ],
+        "printed": [
+          "3/2"
+        ],
+        "line": 559,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 1, column 3",
+        "actual": [
+          "-1"
+        ],
+        "printed": [
+          "-1"
+        ],
+        "line": 559,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 1, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 559,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 1, column 5",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 559,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 2, column 2",
+        "actual": [
+          "3/2"
+        ],
+        "printed": [
+          "3/2"
+        ],
+        "line": 560,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 2, column 3",
+        "actual": [
+          "-1/2"
+        ],
+        "printed": [
+          "-1/2"
+        ],
+        "line": 560,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 2, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 560,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 2, column 5",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 560,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 3, column 2",
+        "actual": [
+          "3/2"
+        ],
+        "printed": [
+          "3/2"
+        ],
+        "line": 561,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 3, column 3",
+        "actual": [
+          "-1"
+        ],
+        "printed": [
+          "-1"
+        ],
+        "line": 561,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 3, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 561,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 3, column 5",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 561,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 4, column 2",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 562,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 4, column 3",
+        "actual": [
+          "-1"
+        ],
+        "printed": [
+          "-1"
+        ],
+        "line": 562,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 4, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 562,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 4, column 5",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 562,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 5, column 2",
+        "actual": [
+          "3"
+        ],
+        "printed": [
+          "3"
+        ],
+        "line": 563,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 5, column 3",
+        "actual": [
+          "-1"
+        ],
+        "printed": [
+          "-1"
+        ],
+        "line": 563,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 5, column 4",
+        "actual": [
+          "-1"
+        ],
+        "printed": [
+          "-1"
+        ],
+        "line": 563,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 5, column 5",
+        "actual": [
+          "1"
+        ],
+        "printed": [
+          "1"
+        ],
+        "line": 563,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 6, column 2",
+        "actual": [
+          "2"
+        ],
+        "printed": [
+          "2"
+        ],
+        "line": 564,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 6, column 3",
+        "actual": [
+          "-1"
+        ],
+        "printed": [
+          "-1"
+        ],
+        "line": 564,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 6, column 4",
+        "actual": [
+          "-1/2"
+        ],
+        "printed": [
+          "-1/2"
+        ],
+        "line": 564,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 6, column 5",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 564,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 7, column 2",
+        "actual": [
+          "1/2"
+        ],
+        "printed": [
+          "1/2"
+        ],
+        "line": 565,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 7, column 3",
+        "actual": [
+          "-1/2"
+        ],
+        "printed": [
+          "-1/2"
+        ],
+        "line": 565,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 7, column 4",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 565,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A4B, row 7, column 5",
+        "actual": [
+          "0"
+        ],
+        "printed": [
+          "0"
+        ],
+        "line": 565,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 1, column 2",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 579,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 1, column 3",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 579,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 1, column 4",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 579,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 1, column 5",
+        "actual": [
+          "0",
+          "7/2"
+        ],
+        "printed": [
+          "0",
+          "7/2"
+        ],
+        "line": 579,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 2, column 2",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 580,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 2, column 3",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 580,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 2, column 4",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 580,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 2, column 5",
+        "actual": [
+          "0",
+          "7/2"
+        ],
+        "printed": [
+          "0",
+          "7/2"
+        ],
+        "line": 580,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 3, column 2",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 581,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 3, column 3",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 581,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 3, column 4",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 581,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 3, column 5",
+        "actual": [
+          "0",
+          "7/2"
+        ],
+        "printed": [
+          "0",
+          "7/2"
+        ],
+        "line": 581,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 4, column 2",
+        "actual": [
+          "1",
+          "5/2"
+        ],
+        "printed": [
+          "1",
+          "5/2"
+        ],
+        "line": 582,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 4, column 3",
+        "actual": [
+          "1",
+          "5/2"
+        ],
+        "printed": [
+          "1",
+          "5/2"
+        ],
+        "line": 582,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 4, column 4",
+        "actual": [
+          "1",
+          "5/2"
+        ],
+        "printed": [
+          "1",
+          "5/2"
+        ],
+        "line": 582,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 4, column 5",
+        "actual": [
+          "0",
+          "7/2"
+        ],
+        "printed": [
+          "0",
+          "7/2"
+        ],
+        "line": 582,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 5, column 2",
+        "actual": [
+          "1",
+          "3"
+        ],
+        "printed": [
+          "1",
+          "3"
+        ],
+        "line": 583,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 5, column 3",
+        "actual": [
+          "1",
+          "3"
+        ],
+        "printed": [
+          "1",
+          "3"
+        ],
+        "line": 583,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 5, column 4",
+        "actual": [
+          "1",
+          "3"
+        ],
+        "printed": [
+          "1",
+          "3"
+        ],
+        "line": 583,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 5, column 5",
+        "actual": [
+          "0",
+          "7/2"
+        ],
+        "printed": [
+          "0",
+          "7/2"
+        ],
+        "line": 583,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 6, column 2",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 584,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 6, column 3",
+        "actual": [
+          "1",
+          "2"
+        ],
+        "printed": [
+          "1",
+          "2"
+        ],
+        "line": 584,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 6, column 4",
+        "actual": [
+          "0",
+          "7/2"
+        ],
+        "printed": [
+          "0",
+          "7/2"
+        ],
+        "line": 584,
+        "status": "MATCH"
+      },
+      {
+        "item": "Table A5, row 6, column 5",
+        "actual": [
+          "0",
+          "7/2"
+        ],
+        "printed": [
+          "0",
+          "7/2"
+        ],
+        "line": 584,
+        "status": "MATCH"
+      },
+      {
+        "item": "reserve_sample_points",
+        "actual": [
+          "61583"
+        ],
+        "printed": [
+          "61583"
+        ],
+        "line": 269,
+        "status": "MATCH"
+      },
+      {
+        "item": "figure_areas",
+        "actual": [
+          "5/2",
+          "9/4",
+          "2"
+        ],
+        "printed": [
+          "5/2",
+          "9/4",
+          "2"
+        ],
+        "line": 309,
+        "status": "MATCH"
+      },
+      {
+        "item": "criteria_II",
+        "actual": [
+          "2674",
+          "319"
+        ],
+        "printed": [
+          "2674",
+          "319"
+        ],
+        "line": 515,
+        "status": "MATCH"
+      },
+      {
+        "item": "criteria_I",
+        "actual": [
+          "297",
+          "21"
+        ],
+        "printed": [
+          "297",
+          "21"
+        ],
+        "line": 515,
+        "status": "MATCH"
+      },
+      {
+        "item": "region_surplus",
+        "actual": [
+          "33",
+          "11",
+          "143"
+        ],
+        "printed": [
+          "33",
+          "11",
+          "143"
+        ],
+        "line": 519,
+        "status": "MATCH"
+      },
+      {
+        "item": "topup_equal_higher",
+        "actual": [
+          "66",
+          "121"
+        ],
+        "printed": [
+          "66",
+          "121"
+        ],
+        "line": 569,
+        "status": "MATCH"
+      },
+      {
+        "item": "topup_nofallback_below",
+        "actual": [
+          "55"
+        ],
+        "printed": [
+          "55"
+        ],
+        "line": 569,
+        "status": "MATCH"
+      },
+      {
+        "item": "transfer_points",
+        "actual": [
+          "121"
+        ],
+        "printed": [
+          "121"
+        ],
+        "line": 586,
+        "status": "MATCH"
+      },
+      {
+        "item": "legacy_comparison_states",
+        "actual": [
+          "12000"
+        ],
+        "printed": [
+          "12000"
+        ],
+        "line": 485,
+        "status": "MATCH"
+      }
+    ],
+    "mismatches": [],
+    "absent_from_reference": [],
+    "grids": {
+      "I": {
+        "n": 297,
+        "region": 40,
+        "protection": {
+          "unprotected": 120,
+          "financing": 24,
+          "none": 69,
+          "joint": 63,
+          "refusal": 21
+        },
+        "welfare": {
+          "none": 168,
+          "financing": 24,
+          "joint": 63,
+          "refusal": 42
+        },
+        "protection_in_region": {
+          "joint": 40
+        },
+        "welfare_in_region": {
+          "joint": 40
+        },
+        "different": 21,
+        "counts": {
+          "low": 5,
+          "transfer": 25,
+          "top_equal": 15,
+          "top_higher": 25,
+          "nofb_below": 10,
+          "equal": 5,
+          "high": 30
+        }
+      },
+      "II": {
+        "n": 2993,
+        "region": 187,
+        "protection": {
+          "none": 1366,
+          "unprotected": 744,
+          "financing": 96,
+          "joint": 417,
+          "refusal": 370
+        },
+        "welfare": {
+          "none": 1791,
+          "financing": 96,
+          "joint": 417,
+          "refusal": 689
+        },
+        "protection_in_region": {
+          "joint": 187
+        },
+        "welfare_in_region": {
+          "joint": 187
+        },
+        "different": 319,
+        "counts": {
+          "low": 33,
+          "transfer": 121,
+          "top_equal": 66,
+          "top_higher": 121,
+          "nofb_below": 55,
+          "equal": 11,
+          "high": 143
+        }
+      }
+    },
+    "supplemental_examples": {
+      "historical_consolidation_comparisons": 288756,
+      "welfare_financing_only": "-1/2",
+      "welfare_joint": "0",
+      "price_monopoly": "11/4",
+      "price_cost": "3"
+    },
+    "scope": "Model arithmetic, figures and synthetic tables. Documentary counts and literature dates are not solver outputs and are excluded."
+  },
+  "reference_sha256": "8da73976b8849682422d58538a2598e1cfc360d5d6b86ba0e4c327cd2410dd20",
+  "seconds": 99.66,
+  "software": {
+    "python": "3.11.17",
+    "numpy": "2.2.6",
+    "matplotlib": "3.10.7",
+    "shapely": "2.1.2"
+  },
+  "exit_policy": "1: computational failure or numerical mismatch; 2: all arithmetic passed but required objects absent from reference; 0: complete agreement."
+}

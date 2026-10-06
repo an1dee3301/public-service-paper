@@ -1,0 +1,118 @@
+{
+ "example": {
+  "none": {
+   "q": 1,
+   "W": 2.0,
+   "profit": 1.0,
+   "G": 3.0,
+   "x": 0
+  },
+  "financing_only": {
+   "q": 1,
+   "W": 2.0,
+   "profit": 1.0,
+   "G": 3.0,
+   "x": 0
+  },
+  "refusal_only": {
+   "q": 1,
+   "W": 2.0,
+   "profit": 1.0,
+   "G": 3.0,
+   "x": 0
+  },
+  "both": {
+   "q": 0,
+   "W": 3.5,
+   "profit": 0.0,
+   "G": 3.5,
+   "x": 1
+  }
+ },
+ "example_topup": {
+  "T": 1.0,
+  "W_with_fallback": 4.0,
+  "W_no_fallback": 4.0,
+  "G_with_fallback": 4.0,
+  "x": 0,
+  "W_clause_only": 3.5,
+  "x_clause_only": 1,
+  "W_topup_if_donor_pays": 5.0
+ },
+ "grid_n": 2993,
+ "class_counts": {
+  "neither helps": 1791,
+  "financing alone suffices": 96,
+  "both required": 417,
+  "refusal alone suffices": 689
+ },
+ "class_counts_in_region": {
+  "both required": 187
+ },
+ "n_region": 187,
+ "joint_lowers_W_vs_none": 0,
+ "joint_lowers_G_vs_none_all": 330,
+ "region_joint_lowers_G": 33,
+ "region_joint_raises_G": 143,
+ "n_joint_changes_W": 1202,
+ "changed_lowers_G": 330,
+ "changed_G_equal": 59,
+ "analytic_formula_mismatches_in_region": 0,
+ "topup_minus_both_W_all": [
+  0.0,
+  4.0
+ ],
+ "topup_minus_both_W_region": [
+  0.0,
+  1.375
+ ],
+ "clause_only_minus_both_W_all": [
+  -3.0,
+  3.0
+ ],
+ "clause_only_minus_both_W_region": [
+  0.0,
+  0.0
+ ],
+ "topup_lt_joint_count": 0,
+ "topup_gt_joint_count": 1236,
+ "topup_gt_joint_region": 121,
+ "topup_eq_joint_region": 66,
+ "topup_nofallback_minus_both_region": [
+  -1.25,
+  1.375
+ ],
+ "topup_nofallback_lt_joint_region": 55,
+ "clause_only_eq_joint_region": 187,
+ "topup_T_region": [
+  0.125,
+  1.375
+ ],
+ "surplus_schemes": {
+  "S1_reject_all_params_O1~U[0,V]": {
+   "draws": 400000,
+   "region": 5296,
+   "lowers": 1684,
+   "share": 0.31797583081570996
+  },
+  "S2_parameter-region_then_O1~U(interval)": {
+   "draws": 337470,
+   "region": 20000,
+   "lowers": 9714,
+   "share": 0.4857
+  },
+  "S3_(B,O1)_grid_inside_region": {
+   "region": 187,
+   "lowers": 33,
+   "share": 0.17647058823529413
+  },
+  "analytic_example_B=5_uniform_O1": {
+   "share": 0.2,
+   "interval_length": 2.5
+  }
+ },
+ "crosscheck_vs_author_program(n_states,n_mismatch)": [
+  12000,
+  0
+ ]
+}

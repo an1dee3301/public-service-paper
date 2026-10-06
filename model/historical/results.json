@@ -1,0 +1,684 @@
+{
+  "region_points": 3702,
+  "checks": {
+    "baseline": 22212,
+    "returned": 22212,
+    "lapsing": 22212,
+    "competition": 22212,
+    "bargaining": 111060,
+    "cap": 66636,
+    "continuous_baseline": 22212,
+    "continuous_returned": 22212,
+    "continuous_lapsing": 22212,
+    "continuous_cap": 66636
+  },
+  "total_checks": 399816,
+  "mismatches": [],
+  "limited_debt_checks": 279,
+  "worked": {
+    "baseline_rho_9_10": {
+      "build": true,
+      "protect": true,
+      "q": "0",
+      "W0": "2",
+      "W1": "3",
+      "W": "3",
+      "normalized_W0": "2",
+      "Oe": "7/2",
+      "kappa": "1/2",
+      "P1": "9/2",
+      "after_build": {
+        "W": "7/2",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      }
+    },
+    "competition_rho_9_10": {
+      "build": false,
+      "protect": false,
+      "q": "1",
+      "W0": "3",
+      "W1": "3",
+      "W": "3",
+      "normalized_W0": "3",
+      "Oe": "7/2",
+      "kappa": "1/2",
+      "P1": "9/2",
+      "after_build": {
+        "W": "7/2",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      }
+    },
+    "competition_rho_19_20": {
+      "build": true,
+      "protect": true,
+      "q": "0",
+      "W0": "3",
+      "W1": "13/4",
+      "W": "13/4",
+      "normalized_W0": "3",
+      "Oe": "15/4",
+      "kappa": "1/2",
+      "P1": "9/2",
+      "after_build": {
+        "W": "15/4",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      }
+    },
+    "continuous_rho_17_20": {
+      "build": true,
+      "protect": false,
+      "q": "3/4",
+      "W0": "2",
+      "W1": "11/4",
+      "W": "11/4",
+      "normalized_W0": "2",
+      "Oe": "13/4",
+      "kappa": "1/2",
+      "P1": "9/2",
+      "after_build": {
+        "W": "13/4",
+        "q": "3/4",
+        "p": "9/2",
+        "profit": "0",
+        "fallback": false
+      }
+    },
+    "continuous_rho_43_50": {
+      "build": true,
+      "protect": true,
+      "q": "0",
+      "W0": "2",
+      "W1": "14/5",
+      "W": "14/5",
+      "normalized_W0": "2",
+      "Oe": "33/10",
+      "kappa": "1/2",
+      "P1": "9/2",
+      "after_build": {
+        "W": "33/10",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      }
+    },
+    "bargaining_beta_1_12_rho_17_20": {
+      "build": false,
+      "protect": false,
+      "q": "1",
+      "W0": "11/4",
+      "W1": "11/4",
+      "W": "11/4",
+      "normalized_W0": "11/4",
+      "Oe": "13/4",
+      "kappa": "1/2",
+      "P1": "9/2",
+      "after_build": {
+        "W": "13/4",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      }
+    },
+    "bargaining_beta_1_10_rho_17_20": {
+      "build": true,
+      "protect": true,
+      "q": "0",
+      "W0": "27/10",
+      "W1": "11/4",
+      "W": "11/4",
+      "normalized_W0": "27/10",
+      "Oe": "13/4",
+      "kappa": "1/2",
+      "P1": "9/2",
+      "after_build": {
+        "W": "13/4",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      }
+    },
+    "cap_17_4": {
+      "build": true,
+      "protect": true,
+      "q": "0",
+      "W0": "11/4",
+      "W1": "7/2",
+      "W": "7/2",
+      "normalized_W0": "11/4",
+      "Oe": "4",
+      "kappa": "1/2",
+      "P1": "17/4",
+      "after_build": {
+        "W": "4",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      }
+    },
+    "lapse_rho_81_100": {
+      "build": true,
+      "protect": true,
+      "q": "0",
+      "W0": "2",
+      "W1": "51/20",
+      "W": "51/20",
+      "normalized_W0": "5/2",
+      "Oe": "61/20",
+      "kappa": "0",
+      "P1": "9/2",
+      "after_build": {
+        "W": "61/20",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      }
+    }
+  },
+  "boundaries": [
+    {
+      "label": "binary_deterrence",
+      "bound": "3",
+      "delta": "-1/100",
+      "result": {
+        "build": true,
+        "protect": false,
+        "q": "1",
+        "W0": "2",
+        "W1": "249/100",
+        "W": "249/100",
+        "normalized_W0": "2",
+        "Oe": "299/100",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "299/100",
+          "q": "1",
+          "p": "401/100",
+          "profit": "1/100",
+          "fallback": false
+        }
+      }
+    },
+    {
+      "label": "binary_deterrence",
+      "bound": "3",
+      "delta": "0",
+      "result": {
+        "build": true,
+        "protect": false,
+        "q": "1",
+        "W0": "2",
+        "W1": "5/2",
+        "W": "5/2",
+        "normalized_W0": "2",
+        "Oe": "3",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "3",
+          "q": "1",
+          "p": "4",
+          "profit": "0",
+          "fallback": false
+        }
+      }
+    },
+    {
+      "label": "binary_deterrence",
+      "bound": "3",
+      "delta": "1/100",
+      "result": {
+        "build": true,
+        "protect": true,
+        "q": "0",
+        "W0": "2",
+        "W1": "251/100",
+        "W": "251/100",
+        "normalized_W0": "2",
+        "Oe": "301/100",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "301/100",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "competition_investment",
+      "bound": "7/2",
+      "delta": "-1/100",
+      "result": {
+        "build": false,
+        "protect": false,
+        "q": "1",
+        "W0": "3",
+        "W1": "299/100",
+        "W": "3",
+        "normalized_W0": "3",
+        "Oe": "349/100",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "349/100",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "competition_investment",
+      "bound": "7/2",
+      "delta": "0",
+      "result": {
+        "build": false,
+        "protect": false,
+        "q": "1",
+        "W0": "3",
+        "W1": "3",
+        "W": "3",
+        "normalized_W0": "3",
+        "Oe": "7/2",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "7/2",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "competition_investment",
+      "bound": "7/2",
+      "delta": "1/100",
+      "result": {
+        "build": true,
+        "protect": true,
+        "q": "0",
+        "W0": "3",
+        "W1": "301/100",
+        "W": "301/100",
+        "normalized_W0": "3",
+        "Oe": "351/100",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "351/100",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "bargaining_investment",
+      "bound": "13/4",
+      "delta": "-1/100",
+      "result": {
+        "build": false,
+        "protect": false,
+        "q": "1",
+        "W0": "11/4",
+        "W1": "137/50",
+        "W": "11/4",
+        "normalized_W0": "11/4",
+        "Oe": "81/25",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "81/25",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "bargaining_investment",
+      "bound": "13/4",
+      "delta": "0",
+      "result": {
+        "build": false,
+        "protect": false,
+        "q": "1",
+        "W0": "11/4",
+        "W1": "11/4",
+        "W": "11/4",
+        "normalized_W0": "11/4",
+        "Oe": "13/4",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "13/4",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "bargaining_investment",
+      "bound": "13/4",
+      "delta": "1/100",
+      "result": {
+        "build": true,
+        "protect": true,
+        "q": "0",
+        "W0": "11/4",
+        "W1": "69/25",
+        "W": "69/25",
+        "normalized_W0": "11/4",
+        "Oe": "163/50",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "163/50",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "continuous_deterrence",
+      "bound": "13/4",
+      "delta": "-1/100",
+      "result": {
+        "build": true,
+        "protect": false,
+        "q": "113/150",
+        "W0": "2",
+        "W1": "137/50",
+        "W": "137/50",
+        "normalized_W0": "2",
+        "Oe": "81/25",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "81/25",
+          "q": "113/150",
+          "p": "9/2",
+          "profit": "1/150",
+          "fallback": false
+        }
+      }
+    },
+    {
+      "label": "continuous_deterrence",
+      "bound": "13/4",
+      "delta": "0",
+      "result": {
+        "build": true,
+        "protect": false,
+        "q": "3/4",
+        "W0": "2",
+        "W1": "11/4",
+        "W": "11/4",
+        "normalized_W0": "2",
+        "Oe": "13/4",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "13/4",
+          "q": "3/4",
+          "p": "9/2",
+          "profit": "0",
+          "fallback": false
+        }
+      }
+    },
+    {
+      "label": "continuous_deterrence",
+      "bound": "13/4",
+      "delta": "1/100",
+      "result": {
+        "build": true,
+        "protect": true,
+        "q": "0",
+        "W0": "2",
+        "W1": "69/25",
+        "W": "69/25",
+        "normalized_W0": "2",
+        "Oe": "163/50",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "163/50",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "cap_investment",
+      "bound": "13/4",
+      "delta": "-1/100",
+      "result": {
+        "build": false,
+        "protect": false,
+        "q": "1",
+        "W0": "11/4",
+        "W1": "137/50",
+        "W": "11/4",
+        "normalized_W0": "11/4",
+        "Oe": "81/25",
+        "kappa": "1/2",
+        "P1": "17/4",
+        "after_build": {
+          "W": "81/25",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "cap_investment",
+      "bound": "13/4",
+      "delta": "0",
+      "result": {
+        "build": false,
+        "protect": false,
+        "q": "1",
+        "W0": "11/4",
+        "W1": "11/4",
+        "W": "11/4",
+        "normalized_W0": "11/4",
+        "Oe": "13/4",
+        "kappa": "1/2",
+        "P1": "17/4",
+        "after_build": {
+          "W": "13/4",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    },
+    {
+      "label": "cap_investment",
+      "bound": "13/4",
+      "delta": "1/100",
+      "result": {
+        "build": true,
+        "protect": true,
+        "q": "0",
+        "W0": "11/4",
+        "W1": "69/25",
+        "W": "69/25",
+        "normalized_W0": "11/4",
+        "Oe": "163/50",
+        "kappa": "1/2",
+        "P1": "17/4",
+        "after_build": {
+          "W": "163/50",
+          "q": "0",
+          "p": "0",
+          "profit": "0",
+          "fallback": true
+        }
+      }
+    }
+  ],
+  "witnesses": {
+    "continuous_binary_statement_false": {
+      "game": {
+        "V": "10",
+        "c": "6",
+        "b": "2",
+        "h": "4",
+        "B": "5",
+        "k": "1/2",
+        "a": "13/4",
+        "r": "1"
+      },
+      "result": {
+        "build": true,
+        "protect": false,
+        "q": "13/16",
+        "W0": "1",
+        "W1": "7/4",
+        "W": "7/4",
+        "normalized_W0": "1",
+        "Oe": "9/4",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "9/4",
+          "q": "13/16",
+          "p": "9/2",
+          "profit": "1/8",
+          "fallback": false
+        }
+      }
+    },
+    "partial_original_H_false": {
+      "base_game": {
+        "V": "10",
+        "c": "6",
+        "b": "2",
+        "h": "3",
+        "B": "5",
+        "k": "1/2",
+        "a": "5",
+        "r": "1"
+      },
+      "transformed": {
+        "V": "10",
+        "c": "6",
+        "b": "9/5",
+        "h": "27/10",
+        "B": "5",
+        "k": "1/2",
+        "a": "5",
+        "r": "1"
+      },
+      "result": {
+        "build": true,
+        "protect": false,
+        "q": "1",
+        "W0": "23/10",
+        "W1": "51/20",
+        "W": "51/20",
+        "normalized_W0": "23/10",
+        "Oe": "61/20",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "61/20",
+          "q": "1",
+          "p": "17/4",
+          "profit": "1/20",
+          "fallback": false
+        }
+      }
+    },
+    "nash_table_missing_H": {
+      "investment_bound": "5/2",
+      "result": {
+        "build": true,
+        "protect": false,
+        "q": "1",
+        "W0": "2",
+        "W1": "9/4",
+        "W": "9/4",
+        "normalized_W0": "2",
+        "Oe": "11/4",
+        "kappa": "1/2",
+        "P1": "9/2",
+        "after_build": {
+          "W": "11/4",
+          "q": "1",
+          "p": "17/4",
+          "profit": "1/4",
+          "fallback": false
+        }
+      }
+    },
+    "revealed_failure": {
+      "build": true,
+      "W0": "2",
+      "W1": "67/20",
+      "expected_harm": "3/10",
+      "success": {
+        "W": "4",
+        "q": "0",
+        "p": "0",
+        "profit": "0",
+        "fallback": true
+      },
+      "failure": {
+        "W": "5/2",
+        "q": "1",
+        "p": "9/2",
+        "profit": "1/2",
+        "fallback": false
+      },
+      "putative_Oe": "7/2"
+    },
+    "borrowing": {
+      "W": "0",
+      "q": "0",
+      "p": "10",
+      "profit": "4",
+      "fallback": false
+    },
+    "cap_below_cost": {
+      "W": "0",
+      "q": "0",
+      "p": "0",
+      "profit": "0",
+      "fallback": true
+    }
+  }
+}

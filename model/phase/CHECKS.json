@@ -1,0 +1,140 @@
+{
+  "lattice_points": 12610,
+  "counts": {
+    "A": {
+      "X": 260,
+      "I": 2850,
+      "H": 800,
+      "M": 96,
+      "F": 264,
+      "R": 1725,
+      "T": 300,
+      "D": 10
+    },
+    "B": {
+      "X": 97,
+      "H": 2028,
+      "T": 236,
+      "R": 276,
+      "I": 2252,
+      "F": 356,
+      "M": 1060
+    }
+  },
+  "boundary_attacks": 4128,
+  "mismatches": 0,
+  "affine_cells": {
+    "A": 65,
+    "B": 46
+  },
+  "interior_checks": 407,
+  "examples": {
+    "worked F": {
+      "class": "F",
+      "allocations": [
+        {
+          "outcome": "H",
+          "build": 0,
+          "agency": "5",
+          "residents": "2",
+          "price": "5"
+        },
+        {
+          "outcome": "H",
+          "build": 0,
+          "agency": "5",
+          "residents": "2",
+          "price": "5"
+        },
+        {
+          "outcome": "H",
+          "build": 0,
+          "agency": "5",
+          "residents": "2",
+          "price": "5"
+        },
+        {
+          "outcome": "f",
+          "build": 1,
+          "agency": "7/2",
+          "residents": "7/2",
+          "price": "None"
+        }
+      ]
+    },
+    "note T": {
+      "class": "T",
+      "allocations": [
+        {
+          "outcome": "H",
+          "build": 1,
+          "agency": "5/2",
+          "residents": "-1/2",
+          "price": "7"
+        },
+        {
+          "outcome": "H",
+          "build": 1,
+          "agency": "5/2",
+          "residents": "-1/2",
+          "price": "7"
+        },
+        {
+          "outcome": "H",
+          "build": 0,
+          "agency": "3",
+          "residents": "0",
+          "price": "7"
+        },
+        {
+          "outcome": "N",
+          "build": 1,
+          "agency": "5/2",
+          "residents": "5/2",
+          "price": "7"
+        }
+      ]
+    },
+    "note D": {
+      "class": "D",
+      "allocations": [
+        {
+          "outcome": "H",
+          "build": 0,
+          "agency": "1",
+          "residents": "-2",
+          "price": "9"
+        },
+        {
+          "outcome": "H",
+          "build": 0,
+          "agency": "1",
+          "residents": "-2",
+          "price": "9"
+        },
+        {
+          "outcome": "H",
+          "build": 1,
+          "agency": "5/2",
+          "residents": "-1/2",
+          "price": "7"
+        },
+        {
+          "outcome": "N",
+          "build": 0,
+          "agency": "1",
+          "residents": "1",
+          "price": "9"
+        }
+      ]
+    }
+  },
+  "lead_source_sha256": "eda2273687298628e341d4a4edaa28ed3e81bef064ebfe74184892bb6217e355",
+  "independent_completed_comparison": true,
+  "independent_solver_sha256": "e7ee6ff6c3e422df579abd113b0d8edf55b1ad6ad12c4835f3a40c851f7473fc",
+  "function_comparisons": {
+    "lead_in_scope": 16712,
+    "independent_in_scope": 16712
+  },
+  "method": "Exact Fraction half-plane intersections; lead cells versus independent offer enumeration. No pixel grid used to draw."
+}

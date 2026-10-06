@@ -1,0 +1,41 @@
+provider,field,code_A,numeric_days_A,source_id_A,clause_cite_A,note_A
+OpenAI,model_retirement_notice_days,conditional,,p1_lifecycle_latest,Overview; dated retirement entries,"No universal minimum; dated model examples range from three months to one year; documentation, not incorporated contract."
+OpenAI,export_right_affirmative,yes,,p1_dpa_latest,2.11 Data Return or Deletion,"After expiry/termination, return or delete Customer Data at customer instruction, subject to retention exceptions; DPA scope only."
+OpenAI,termination_for_convenience_customer,not_observed,,p1_business_latest,11.2; 16.13 Updates,"11.2 lists breach/insolvency; update objection and service-reduction rights are conditional, not a general convenience right."
+OpenAI,notice_days_price_change,yes,14,p1_business_latest,6.6 Corrections,Pricing Page price changes effective fourteen days after posting; corrections exception.
+OpenAI,notice_days_material_terms,yes,30,p1_business_latest,16.13 Updates,At least thirty days for updates OpenAI judges materially affect rights/obligations; legal-compliance exception.
+Anthropic,model_retirement_notice_days,yes,60,p2_lifecycle_latest,Notifications,"At least 60 days before retirement for publicly released models; lifecycle documentation, not shown incorporated."
+Anthropic,export_right_affirmative,yes,,p2_dpa_latest,H.1 Deletion and Return,"Within 30 days after end, on customer request, copy of all Customer Data or self-service retrieval; exceptions for retained copies."
+Anthropic,termination_for_convenience_customer,yes,,p2_business_latest,I.2.a Termination,Each party may terminate anytime for convenience with Notice; Anthropic must give 30 days prior notice.
+Anthropic,notice_days_price_change,yes,30,p2_business_latest,H.1 Payment of Fees,Rate updates effective earlier of 30 days after posting or customer receipt of Notice; not an assured 30-day advance period.
+Anthropic,notice_days_material_terms,yes,30,p2_business_latest,M.3 Amendment and Modification,Updates effective 30 days after posting or customer receipt of Notice; legal/regulatory updates immediate.
+Google,model_retirement_notice_days,not_observed,,p3_lifecycle_latest,Gemini model versions and lifecycle,Version availability/discontinuation dates appear; no general model retirement notice minimum identified in read page.
+Google,export_right_affirmative,yes,,p3_dpa_live,9.1 Access; Rectification; Portability,During term Google enables export of Customer Data consistent with service functionality; DPA scope.
+Google,termination_for_convenience_customer,yes,,p3_business_live,8.5 Termination for Convenience,Customer may terminate with prior written notice subject to order-form financial commitments.
+Google,notice_days_price_change,not_observed,,p3_business_live,2.6 Fee Revisions,"Google may change GCP fees anytime; 30-day advance clause expressly applies only to GWS/Looker/Cloud Identity, not GCP."
+Google,notice_days_material_terms,yes,30,p3_business_live,"1.4(b),(c) Updates","GCP agreement and URL material updates effective 30 days after posting, with exceptions."
+Microsoft Azure OpenAI,model_retirement_notice_days,yes,60,p4_lifecycle_live,Notifications: GA model retirement,At least 60 days for GA models with active deployments; preview models 30 days; page is lifecycle guidance.
+Microsoft Azure OpenAI,export_right_affirmative,not_observed,,azure_product_2024,Azure Product Terms,DPA and MCA inaccessible in this collection; product layer does not establish a customer export right.
+Microsoft Azure OpenAI,termination_for_convenience_customer,not_observed,,azure_product_2024,Azure Product Terms,MCA inaccessible; product layer does not settle customer convenience termination.
+Microsoft Azure OpenAI,notice_days_price_change,not_observed,,azure_product_2024,Azure Product Terms,MCA inaccessible; product layer does not settle price-change notice.
+Microsoft Azure OpenAI,notice_days_material_terms,not_observed,,azure_product_2024,Azure Product Terms,MCA inaccessible; product layer does not settle material-term notice.
+AWS Bedrock,model_retirement_notice_days,conditional,,p5_lifecycle_live,Legacy and end-of-life models,Model-card Legacy periods are six months or 45 days; model-dependent and third-party exceptions; no single numeric minimum.
+AWS Bedrock,export_right_affirmative,conditional,30,p5_business_live,5.3(b) Post-Termination,"May retrieve Your Content for 30 days after termination only if all amounts due are paid, except provider cause termination."
+AWS Bedrock,termination_for_convenience_customer,yes,,p5_business_live,5.2(a) Termination for Convenience,Customer may terminate for any reason by notice and closing account; commitments may survive.
+AWS Bedrock,notice_days_price_change,yes,30,p5_business_live,3.1 Service Fees,At least 30 days prior notice for increased/new fees on existing Services.
+AWS Bedrock,notice_days_material_terms,conditional,30,p5_business_live,11.15(a) Australian small-business modification,At least 30 days prior notice of materially adverse agreement modification for Australian consumer/small-business contract; general §10 effective on posting.
+Meta,model_retirement_notice_days,not_applicable,,meta_llama_2026,Llama 2 community license,Downloadable-weight licence; no hosted model retirement page in this surface.
+Meta,export_right_affirmative,not_applicable,,meta_llama_2026,Llama 2 community license,Downloaded weights; hosted customer-data export field does not apply.
+Meta,termination_for_convenience_customer,not_applicable,,meta_llama_2026,Llama 2 community license,Licence termination is not hosted API customer convenience termination.
+Meta,notice_days_price_change,not_applicable,,meta_llama_2026,Llama 2 community license,No hosted API fee schedule in this licence.
+Meta,notice_days_material_terms,not_applicable,,meta_llama_2026,Llama 2 community license,No hosted API material-term change notice in this licence.
+Mistral,model_retirement_notice_days,conditional,,p7_lifecycle_live,Deprecation policy,"Labs/Public Preview/third-party one month; GA six months; unit is months, not silently converted to days."
+Mistral,export_right_affirmative,conditional,30,p7_service_live,Additional Terms §2.2–2.3; business §11.4,EU Data Act switching addendum lists exportable assets and 30-day retention; business terms warn export may end with account.
+Mistral,termination_for_convenience_customer,conditional,,p7_business_live,11.2 Termination by Customer,"May stop and terminate anytime if no Order Forms remain, subject to payment and no prepaid refund."
+Mistral,notice_days_price_change,not_observed,,p7_business_live,6 Fees; 13 Updates,No service-price-specific notice established from reviewed clauses; material terms rule is separate.
+Mistral,notice_days_material_terms,yes,30,p7_business_live,13.2–13.4 Updates,"Material legal updates effective 30 days after notice, with immediate law/security exceptions and objection/exit."
+Alibaba Cloud Model Studio,model_retirement_notice_days,conditional,,p8_lifecycle_live,10 Jul 2026 retirement notice,"One dated Model Studio announcement schedules selected models for 10 Oct 2026; event-specific, no general notice guarantee."
+Alibaba Cloud Model Studio,export_right_affirmative,not_observed,,p8_business_live,8.5 Effects of Termination,"Loss of access to Member Content on termination; separate DPA capture unusable, no affirmative export established."
+Alibaba Cloud Model Studio,termination_for_convenience_customer,conditional,,p8_business_live,8.1 Account cancellation,Customer may request agreement termination by closing accounts under incorporated cancellation procedure; procedure not collected.
+Alibaba Cloud Model Studio,notice_days_price_change,not_observed,,p8_business_live,1.2 Amendments; product §4.48,15-day material-agreement-change rule does not establish a separate existing-price-change window.
+Alibaba Cloud Model Studio,notice_days_material_terms,yes,15,p8_business_live,1.2 Amendments,Material agreement/terms/addendum changes effective 15 days after posting; new services/functions/law exceptions.

@@ -1,0 +1,37 @@
+[
+  {
+    "field": "model_retirement_notice_days",
+    "n": 8,
+    "agreements": 4,
+    "percent_agreement": 50.0,
+    "cohens_kappa": 0.0
+  },
+  {
+    "field": "export_right_affirmative",
+    "n": 8,
+    "agreements": 3,
+    "percent_agreement": 37.5,
+    "cohens_kappa": 0.184
+  },
+  {
+    "field": "termination_for_convenience_customer",
+    "n": 8,
+    "agreements": 2,
+    "percent_agreement": 25.0,
+    "cohens_kappa": 0.04
+  },
+  {
+    "field": "notice_days_price_change",
+    "n": 8,
+    "agreements": 3,
+    "percent_agreement": 37.5,
+    "cohens_kappa": 0.0
+  },
+  {
+    "field": "notice_days_material_terms",
+    "n": 8,
+    "agreements": 2,
+    "percent_agreement": 25.0,
+    "cohens_kappa": 0.077
+  }
+]

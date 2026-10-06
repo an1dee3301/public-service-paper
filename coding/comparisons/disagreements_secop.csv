@@ -1,0 +1,16 @@
+set,vid,id_contrato,comparison,author_code,comp_code,other_model_code,supplier_type,contract_type,value_COP,author_note
+secop,V010,CO1.PCCNTR.8664613,first_pass_model,incidental,ai_product_or_platform,incidental,firm,Compraventa,279996899.98,STEM equipment; AI applications are one component.
+secop,V054,CO1.PCCNTR.9535041,first_pass_model,incidental,unclear,incidental,firm,Prestación de servicios,0,
+secop,V076,CO1.PCCNTR.6576507,first_pass_model,cloud_or_software_nonAI,incidental,incidental,individual/other,Prestación de servicios,20250000,
+secop,V037,CO1.PCCNTR.4812020,first_pass_model,incidental,individual_professional_ai,individual_professional_ai,individual/other,Prestación de servicios,18723333,Telecommunications mechanism for a broader AR/AI prototype.
+secop,V042,CO1.PCCNTR.7947861,second_model_blind,ai_product_or_platform,ai_development_service,ai_product_or_platform,firm,Consultoría,37500000,
+secop,V075,CO1.PCCNTR.9145846,second_model_blind,individual_professional_ai,incidental,individual_professional_ai,individual/other,Prestación de servicios,73542500,
+secop,V028,CO1.PCCNTR.6720414,second_model_blind,unclear,ai_development_service,unclear,firm,Prestación de servicios,132268500,AI adoption strategy; no specific system or platform identified.
+secop,V056,CO1.PCCNTR.6576410,second_model_blind,cloud_or_software_nonAI,incidental,cloud_or_software_nonAI,individual/other,Prestación de servicios,20250000,
+secop,V073,CO1.PCCNTR.6582347,second_model_blind,cloud_or_software_nonAI,incidental,cloud_or_software_nonAI,individual/other,Prestación de servicios,20250000,
+secop,V097,CO1.PCCNTR.5394626,second_model_blind,incidental,individual_professional_ai,incidental,individual/other,Prestación de servicios,4100000,3D garment models for a broader AR/AI prototype; no AI work specified.
+secop,V019,CO1.PCCNTR.4444613,second_model_blind,ai_development_service,ai_product_or_platform,ai_development_service,firm,Decreto 092 de 2017,85836855,
+secop,V076,CO1.PCCNTR.6576507,second_model_blind,cloud_or_software_nonAI,incidental,incidental,individual/other,Prestación de servicios,20250000,
+secop,V081,CO1.PCCNTR.5355409,second_model_blind,cloud_or_software_nonAI,incidental,cloud_or_software_nonAI,individual/other,Prestación de servicios,4500000,
+secop,V037,CO1.PCCNTR.4812020,second_model_blind,incidental,individual_professional_ai,individual_professional_ai,individual/other,Prestación de servicios,18723333,Telecommunications mechanism for a broader AR/AI prototype.
+secop,V059,CO1.PCCNTR.5696648,second_model_blind,ai_development_service,unclear,ai_development_service,individual/other,Prestación de servicios,3987246920,AI implementation is in scope; supplier type does not establish an individual practitioner.

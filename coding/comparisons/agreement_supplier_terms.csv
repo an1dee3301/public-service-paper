@@ -1,0 +1,73 @@
+set,comparison,scheme,level,name,n,agree,raw_agreement,kappa,ci_lo,ci_hi,boot_valid,pabak,weighted_kappa_linear,max_marginal_author,max_marginal_comp,pos_agree,note
+supplier_terms,A_first_pass,strict_labels,overall,ALL_cells,40,27,0.675,0.5748,0.3841,0.7383,2000,0.61,,0.55,0.4,,pooled over fields; descriptive (cells not independent)
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),overall,ALL_cells,40,27,0.675,0.5748,0.3841,0.7383,2000,0.5667,,0.55,0.4,,pooled over fields; descriptive (cells not independent)
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),field,model_retirement_notice_days,8,5,0.625,0.3143,0.0,0.7778,1991,0.5,,0.875,0.5,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),field,export_right_affirmative,8,5,0.625,0.5102,0.1111,0.8222,2000,0.5,,0.625,0.375,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),field,termination_for_convenience_customer,8,7,0.875,0.8298,0.4419,1.0,2000,0.8333,,0.375,0.375,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),field,notice_days_price_change,8,7,0.875,0.8049,0.4286,1.0,1995,0.8333,,0.5,0.5,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),field,notice_days_material_terms,8,3,0.375,0.2857,0.0,0.6364,2000,0.1667,,0.75,0.625,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,collapsed_excl_NA_agree_by_construction,overall,ALL_cells,35,22,0.6286,0.4788,0.2874,0.6797,2000,0.5048,,0.629,0.457,,pooled over fields; descriptive (cells not independent)
+supplier_terms,A_first_pass,presence(yes|conditional vs not_observed),overall,ALL_cells,35,34,0.9714,0.9278,0.7482,1.0,2000,0.9429,,0.743,0.714,,pooled over fields; descriptive (cells not independent)
+supplier_terms,A_first_pass,presence(yes|conditional vs not_observed),field,model_retirement_notice_days,7,6,0.8571,0.0,0.0,0.0,1306,0.7143,,1.0,0.857,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,presence(yes|conditional vs not_observed),field,export_right_affirmative,7,7,1.0,1.0,1.0,1.0,1809,1.0,,0.714,0.714,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,presence(yes|conditional vs not_observed),field,termination_for_convenience_customer,7,7,1.0,1.0,1.0,1.0,1813,1.0,,0.714,0.714,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,presence(yes|conditional vs not_observed),field,notice_days_price_change,7,7,1.0,1.0,1.0,1.0,1963,1.0,,0.571,0.571,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,presence(yes|conditional vs not_observed),field,notice_days_material_terms,7,7,1.0,1.0,1.0,1.0,1305,1.0,,0.857,0.857,,n=8 per field: CI very wide
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),category,yes,40,28,0.7,0.2857,0.0551,0.5364,2000,0.4,,0.9,0.6,0.4,"one-vs-rest; author n=4, comp n=16, both=4"
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),category,conditional,40,27,0.675,0.3839,0.1739,0.6069,2000,0.35,,0.55,0.775,0.5806,"one-vs-rest; author n=22, comp n=9, both=9"
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),category,not_observed,40,39,0.975,0.931,0.7727,1.0,2000,0.95,,0.775,0.75,0.9474,"one-vs-rest; author n=9, comp n=10, both=9"
+supplier_terms,A_first_pass,collapsed(no_in_read_document=not_observed),category,not_applicable,40,40,1.0,1.0,1.0,1.0,1990,1.0,,0.875,0.875,1.0,"one-vs-rest; author n=5, comp n=5, both=5"
+supplier_terms,B_second_model_coder,strict_labels,overall,ALL_cells,40,21,0.525,0.2108,0.0052,0.4139,2000,0.43,,0.55,0.625,,pooled over fields; descriptive (cells not independent)
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),overall,ALL_cells,40,21,0.525,0.1958,-0.0122,0.4048,2000,0.3667,,0.55,0.625,,pooled over fields; descriptive (cells not independent)
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),field,model_retirement_notice_days,8,7,0.875,0.0,0.0,0.0,1347,0.8333,,0.875,1.0,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),field,export_right_affirmative,8,4,0.5,0.1579,-0.3023,0.619,2000,0.3333,,0.625,0.5,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),field,termination_for_convenience_customer,8,3,0.375,0.0244,-0.0909,0.2381,1999,0.1667,,0.375,0.875,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),field,notice_days_price_change,8,3,0.375,0.0698,-0.3333,0.4419,2000,0.1667,,0.5,0.5,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),field,notice_days_material_terms,8,4,0.5,0.0,-0.3333,0.2941,1990,0.3333,,0.75,0.625,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,collapsed_excl_NA_agree_by_construction,overall,ALL_cells,40,21,0.525,0.1958,-0.0122,0.4048,2000,0.3667,,0.55,0.625,,pooled over fields; descriptive (cells not independent)
+supplier_terms,B_second_model_coder,presence(yes|conditional vs not_observed),overall,ALL_cells,35,25,0.7143,0.125,-0.1951,0.475,2000,0.4286,,0.743,0.857,,pooled over fields; descriptive (cells not independent)
+supplier_terms,B_second_model_coder,presence(yes|conditional vs not_observed),field,model_retirement_notice_days,7,7,1.0,,,,0,1.0,,1.0,1.0,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,presence(yes|conditional vs not_observed),field,export_right_affirmative,7,5,0.7143,0.3,-0.4,1.0,1948,0.4286,,0.714,0.714,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,presence(yes|conditional vs not_observed),field,termination_for_convenience_customer,7,5,0.7143,0.0,0.0,0.0,1813,0.4286,,0.714,1.0,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,presence(yes|conditional vs not_observed),field,notice_days_price_change,7,3,0.4286,-0.0769,-0.6897,0.4615,2000,-0.1429,,0.571,0.714,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,presence(yes|conditional vs not_observed),field,notice_days_material_terms,7,5,0.7143,-0.1667,-0.4,0.0,1787,0.4286,,0.857,0.857,,n=8 per field: CI very wide
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),category,yes,40,34,0.85,0.3182,-0.0937,0.7222,2000,0.7,,0.9,0.85,0.4,"one-vs-rest; author n=4, comp n=6, both=2"
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),category,conditional,40,27,0.675,0.3333,0.0355,0.6216,2000,0.35,,0.55,0.625,0.7234,"one-vs-rest; author n=22, comp n=25, both=17"
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),category,not_observed,40,26,0.65,-0.0036,-0.2728,0.3284,2000,0.3,,0.775,0.775,0.2222,"one-vs-rest; author n=9, comp n=9, both=2"
+supplier_terms,B_second_model_coder,collapsed(no_in_read_document=not_observed),category,not_applicable,40,35,0.875,0.0,0.0,0.0,1990,0.75,,0.875,1.0,0.0,"one-vs-rest; author n=5, comp n=0, both=0"
+supplier_terms,C_model_recoding,strict_labels,overall,ALL_cells,40,33,0.825,0.7395,0.5785,0.8868,2000,0.79,,0.55,0.5,,pooled over fields; descriptive (cells not independent)
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),overall,ALL_cells,40,38,0.95,0.9223,0.7927,1.0,2000,0.9333,,0.55,0.5,,pooled over fields; descriptive (cells not independent)
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),field,model_retirement_notice_days,8,7,0.875,0.619,0.0,1.0,1805,0.8333,,0.875,0.75,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),field,export_right_affirmative,8,8,1.0,1.0,1.0,1.0,1956,1.0,,0.625,0.625,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),field,termination_for_convenience_customer,8,8,1.0,1.0,1.0,1.0,1999,1.0,,0.375,0.375,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),field,notice_days_price_change,8,8,1.0,1.0,1.0,1.0,1995,1.0,,0.5,0.5,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),field,notice_days_material_terms,8,7,0.875,0.75,0.0,1.0,1951,0.8333,,0.75,0.625,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,collapsed_excl_NA_agree_by_construction,overall,ALL_cells,35,33,0.9429,0.8971,0.7319,1.0,2000,0.9238,,0.629,0.571,,pooled over fields; descriptive (cells not independent)
+supplier_terms,C_model_recoding,presence(yes|conditional vs not_observed),overall,ALL_cells,35,35,1.0,1.0,1.0,1.0,1999,1.0,,0.743,0.743,,pooled over fields; descriptive (cells not independent)
+supplier_terms,C_model_recoding,presence(yes|conditional vs not_observed),field,model_retirement_notice_days,7,7,1.0,,,,0,1.0,,1.0,1.0,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,presence(yes|conditional vs not_observed),field,export_right_affirmative,7,7,1.0,1.0,1.0,1.0,1809,1.0,,0.714,0.714,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,presence(yes|conditional vs not_observed),field,termination_for_convenience_customer,7,7,1.0,1.0,1.0,1.0,1813,1.0,,0.714,0.714,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,presence(yes|conditional vs not_observed),field,notice_days_price_change,7,7,1.0,1.0,1.0,1.0,1963,1.0,,0.571,0.571,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,presence(yes|conditional vs not_observed),field,notice_days_material_terms,7,7,1.0,1.0,1.0,1.0,1305,1.0,,0.857,0.857,,n=8 per field: CI very wide
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),category,yes,40,38,0.95,0.7727,0.3043,1.0,1992,0.9,,0.9,0.85,0.8,"one-vs-rest; author n=4, comp n=6, both=4"
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),category,conditional,40,38,0.95,0.9,0.7462,1.0,2000,0.9,,0.55,0.5,0.9524,"one-vs-rest; author n=22, comp n=20, both=20"
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),category,not_observed,40,40,1.0,1.0,1.0,1.0,2000,1.0,,0.775,0.775,1.0,"one-vs-rest; author n=9, comp n=9, both=9"
+supplier_terms,C_model_recoding,collapsed(no_in_read_document=not_observed),category,not_applicable,40,40,1.0,1.0,1.0,1.0,1990,1.0,,0.875,0.875,1.0,"one-vs-rest; author n=5, comp n=5, both=5"
+supplier_terms,ADJ_adjudicated,strict_labels,overall,ALL_cells,40,28,0.7,0.588,0.4166,0.7588,2000,0.64,,0.55,0.375,,pooled over fields; descriptive (cells not independent)
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),overall,ALL_cells,40,33,0.825,0.75,0.5724,0.8944,2000,0.7667,,0.55,0.375,,pooled over fields; descriptive (cells not independent)
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),field,model_retirement_notice_days,8,6,0.75,0.4286,0.0,1.0,1950,0.6667,,0.875,0.625,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),field,export_right_affirmative,8,8,1.0,1.0,1.0,1.0,1956,1.0,,0.625,0.625,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),field,termination_for_convenience_customer,8,7,0.875,0.8298,0.4419,1.0,2000,0.8333,,0.375,0.375,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),field,notice_days_price_change,8,8,1.0,1.0,1.0,1.0,1995,1.0,,0.5,0.5,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),field,notice_days_material_terms,8,4,0.5,0.36,0.0,0.75,2000,0.3333,,0.75,0.5,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,collapsed_excl_NA_agree_by_construction,overall,ALL_cells,35,28,0.8,0.6818,0.4697,0.8636,2000,0.7333,,0.629,0.429,,pooled over fields; descriptive (cells not independent)
+supplier_terms,ADJ_adjudicated,presence(yes|conditional vs not_observed),overall,ALL_cells,35,35,1.0,1.0,1.0,1.0,1999,1.0,,0.743,0.743,,pooled over fields; descriptive (cells not independent)
+supplier_terms,ADJ_adjudicated,presence(yes|conditional vs not_observed),field,model_retirement_notice_days,7,7,1.0,,,,0,1.0,,1.0,1.0,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,presence(yes|conditional vs not_observed),field,export_right_affirmative,7,7,1.0,1.0,1.0,1.0,1809,1.0,,0.714,0.714,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,presence(yes|conditional vs not_observed),field,termination_for_convenience_customer,7,7,1.0,1.0,1.0,1.0,1813,1.0,,0.714,0.714,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,presence(yes|conditional vs not_observed),field,notice_days_price_change,7,7,1.0,1.0,1.0,1.0,1963,1.0,,0.571,0.571,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,presence(yes|conditional vs not_observed),field,notice_days_material_terms,7,7,1.0,1.0,1.0,1.0,1305,1.0,,0.857,0.857,,n=8 per field: CI very wide
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),category,yes,40,33,0.825,0.4531,0.1129,0.7561,2000,0.65,,0.9,0.725,0.5333,"one-vs-rest; author n=4, comp n=11, both=4"
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),category,conditional,40,33,0.825,0.6585,0.4379,0.8507,2000,0.65,,0.55,0.625,0.8108,"one-vs-rest; author n=22, comp n=15, both=15"
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),category,not_observed,40,40,1.0,1.0,1.0,1.0,2000,1.0,,0.775,0.775,1.0,"one-vs-rest; author n=9, comp n=9, both=9"
+supplier_terms,ADJ_adjudicated,collapsed(no_in_read_document=not_observed),category,not_applicable,40,40,1.0,1.0,1.0,1.0,1990,1.0,,0.875,0.875,1.0,"one-vs-rest; author n=5, comp n=5, both=5"

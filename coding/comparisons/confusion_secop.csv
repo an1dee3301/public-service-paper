@@ -1,0 +1,13 @@
+author,ai_product_or_platform,ai_development_service,cloud_or_software_nonAI,individual_professional_ai,incidental,unclear,comparison
+ai_product_or_platform,13,0,0,0,0,0,first_pass_model
+ai_development_service,0,9,0,0,0,0,first_pass_model
+cloud_or_software_nonAI,0,0,11,0,1,0,first_pass_model
+individual_professional_ai,0,0,0,8,0,0,first_pass_model
+incidental,1,0,0,1,4,1,first_pass_model
+unclear,0,0,0,0,0,1,first_pass_model
+ai_product_or_platform,12,1,0,0,0,0,second_model_blind
+ai_development_service,1,7,0,0,0,1,second_model_blind
+cloud_or_software_nonAI,0,0,8,0,4,0,second_model_blind
+individual_professional_ai,0,0,0,7,1,0,second_model_blind
+incidental,0,0,0,2,5,0,second_model_blind
+unclear,0,1,0,0,0,0,second_model_blind

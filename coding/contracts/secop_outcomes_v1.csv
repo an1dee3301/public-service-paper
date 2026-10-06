@@ -1,0 +1,1545 @@
+id_contrato,category,foreign,firm,modality,value,n_adic,n_mods,n_prorroga,n_adicion_valor,days_ext,val_mod,n_susp,dias_adicionados
+CO1.PCCNTR.7658275,individual_professional_ai,False,False,Contratación régimen especial,4000000.0,2,2,0,0,0.0,8000000.0,0,0.0
+CO1.PCCNTR.8075806,individual_professional_ai,False,False,Contratación directa,21126967.0,1,1,0,0,0.0,21126967.0,0,0.0
+CO1.PCCNTR.7545378,individual_professional_ai,False,False,Contratación directa,187200000.0,1,1,0,0,0.0,187200000.0,0,0.0
+CO1.PCCNTR.8173401,incidental,False,False,Contratación directa,27000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7651207,incidental,False,True,Mínima cuantía,129907992.0,2,2,0,0,0.0,259815984.0,0,0.0
+CO1.PCCNTR.6942068,incidental,False,True,Contratación directa,3540000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6667312,individual_professional_ai,False,False,Contratación directa,31500000.0,1,1,0,0,0.0,31500000.0,0,0.0
+CO1.PCCNTR.5806366,individual_professional_ai,False,False,Contratación directa,42000000.0,1,1,0,0,0.0,42000000.0,0,0.0
+CO1.PCCNTR.5939519,ai_product_or_platform,False,True,Contratación directa,67313299.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8773112,individual_professional_ai,False,False,Contratación directa,135300000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8822433,individual_professional_ai,False,False,Contratación directa,30906000.0,1,1,0,1,31.0,30906000.0,0,31.0
+CO1.PCCNTR.7895442,individual_professional_ai,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8641233,incidental,False,True,Mínima cuantía,16541000.0,1,1,0,0,0.0,16541000.0,0,0.0
+CO1.PCCNTR.9225537,unclear,False,True,Contratación directa,9620000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9102999,individual_professional_ai,False,False,Contratación directa,76500000.0,2,2,0,0,0.0,153000000.0,0,0.0
+CO1.PCCNTR.6917443,ai_product_or_platform,True,True,Mínima cuantía,4514100.0,2,2,0,0,10.0,9028200.0,0,10.0
+CO1.PCCNTR.5234575,ai_product_or_platform,False,True,Contratación directa,407804400.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8923546,individual_professional_ai,False,False,Contratación directa,103200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8536891,ai_product_or_platform,False,True,Selección Abreviada de Menor Cuantía,370000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4451275,individual_professional_ai,False,False,Contratación régimen especial,28000000.0,2,2,0,0,0.0,56000000.0,0,0.0
+CO1.PCCNTR.6069649,individual_professional_ai,False,False,Contratación directa,28988353.0,1,1,0,0,0.0,28988353.0,0,0.0
+CO1.PCCNTR.4660339,individual_professional_ai,False,False,Contratación directa,41608000.0,2,2,0,0,31.0,83216000.0,0,31.0
+CO1.PCCNTR.9983183,individual_professional_ai,False,False,Contratación directa,12667000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9744588,individual_professional_ai,False,False,Contratación régimen especial,95368924.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9100900,individual_professional_ai,False,False,Contratación directa,63000000.0,1,1,0,0,0.0,63000000.0,0,0.0
+CO1.PCCNTR.8622937,ai_product_or_platform,False,True,Contratación directa,8000000000.0,1,1,0,0,0.0,8000000000.0,0,0.0
+CO1.PCCNTR.8137168,individual_professional_ai,True,False,Contratación directa,62156667.0,2,2,0,0,0.0,124313334.0,0,0.0
+CO1.PCCNTR.8832426,individual_professional_ai,False,False,Contratación directa,87400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9080403,individual_professional_ai,False,False,Contratación directa,99000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6516909,individual_professional_ai,False,False,Contratación directa,74966659.0,1,1,0,0,0.0,74966659.0,0,0.0
+CO1.PCCNTR.8845028,individual_professional_ai,False,False,Contratación directa,109251450.0,1,1,0,0,2.0,109251450.0,0,2.0
+CO1.PCCNTR.9220206,individual_professional_ai,False,False,Contratación directa,98576000.0,1,1,0,0,0.0,98576000.0,0,0.0
+CO1.PCCNTR.7280115,individual_professional_ai,False,False,Contratación régimen especial,121900113.0,1,1,0,0,31.0,121900113.0,0,31.0
+CO1.PCCNTR.9196822,individual_professional_ai,False,False,Contratación directa,77326000.0,1,1,1,1,97.0,77326000.0,0,97.0
+CO1.PCCNTR.7947861,ai_product_or_platform,False,True,Mínima cuantía,37500000.0,1,1,0,0,0.0,37500000.0,0,0.0
+CO1.PCCNTR.7506785,individual_professional_ai,False,False,Contratación directa,64168000.0,1,1,0,0,0.0,64168000.0,0,0.0
+CO1.PCCNTR.7003484,individual_professional_ai,False,False,Contratación directa,15350000.0,1,1,0,0,0.0,15350000.0,0,0.0
+CO1.PCCNTR.9836137,individual_professional_ai,False,False,Contratación directa,48000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7767291,individual_professional_ai,False,False,Contratación régimen especial,108845090.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6033347,individual_professional_ai,False,False,Contratación directa,16800000.0,1,1,0,0,0.0,16800000.0,0,0.0
+CO1.PCCNTR.7949209,individual_professional_ai,False,False,Contratación directa,1846764.0,1,1,0,0,0.0,1846764.0,0,0.0
+CO1.PCCNTR.9071596,individual_professional_ai,False,False,Contratación directa,126000000.0,1,1,0,1,66.0,126000000.0,0,66.0
+CO1.PCCNTR.5421583,incidental,False,True,Contratación directa,8330000.0,2,2,0,0,0.0,16660000.0,0,0.0
+CO1.PCCNTR.8689792,incidental,False,True,Selección abreviada subasta inversa,1180480900.0,2,2,1,0,124.0,2360961800.0,0,62.0
+CO1.PCCNTR.9896474,ai_product_or_platform,False,False,Contratación directa,84000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9130981,individual_professional_ai,False,False,Contratación directa,110000000.0,1,1,1,1,63.0,110000000.0,0,63.0
+CO1.PCCNTR.8273228,individual_professional_ai,False,False,Contratación directa,24800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7529705,individual_professional_ai,False,False,Contratación directa,64286900.0,1,1,0,0,0.0,64286900.0,0,0.0
+CO1.PCCNTR.6311647,individual_professional_ai,False,False,Contratación directa,21622998.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8576840,individual_professional_ai,False,False,Contratación directa,9752400.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9085807,individual_professional_ai,False,False,Contratación directa,34515000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9917759,individual_professional_ai,False,False,Contratación directa,30000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6191565,individual_professional_ai,False,False,Contratación directa,104049000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6735989,individual_professional_ai,False,False,Contratación directa,17656800.0,2,2,0,0,0.0,35313600.0,0,0.0
+CO1.PCCNTR.5636263,incidental,False,False,Mínima cuantía,12025000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6695054,individual_professional_ai,False,False,Contratación directa,32500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7903389,individual_professional_ai,False,False,Contratación directa,19268683.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8151536,individual_professional_ai,False,False,Contratación directa,27626667.0,1,1,0,0,0.0,27626667.0,0,0.0
+CO1.PCCNTR.9151884,individual_professional_ai,False,False,Contratación directa,188493333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8897515,individual_professional_ai,False,False,Contratación directa,111337600.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7138577,ai_product_or_platform,False,True,Selección Abreviada de Menor Cuantía,429000950.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6006808,individual_professional_ai,False,False,Contratación directa,48975255.0,3,3,0,0,63.0,163462863.0,0,0.0
+CO1.PCCNTR.8871316,individual_professional_ai,False,False,Contratación directa,165000000.0,1,1,0,0,0.0,165000000.0,0,0.0
+CO1.PCCNTR.6461166,incidental,False,False,Contratación directa,22800000.0,1,1,0,0,0.0,22800000.0,0,0.0
+CO1.PCCNTR.5467992,individual_professional_ai,False,False,Contratación directa,31250000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8091986,ai_development_service,False,True,Contratación directa,124950000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7032699,ai_product_or_platform,False,True,Contratación Directa (con ofertas),469693000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4547541,individual_professional_ai,False,False,Contratación directa,96773333.0,4,4,1,1,53.0,347573333.0,0,53.0
+CO1.PCCNTR.7643034,individual_professional_ai,False,False,Contratación directa,90000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4582989,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.8384683,individual_professional_ai,False,False,Contratación régimen especial,124631790.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9124046,individual_professional_ai,False,False,Contratación directa,10400000.0,1,1,0,0,0.0,10400000.0,0,31.0
+CO1.PCCNTR.7735147,individual_professional_ai,False,False,Contratación directa,63252300.0,1,1,1,1,88.0,63252300.0,0,89.0
+CO1.PCCNTR.8185804,incidental,False,False,Mínima cuantía,20000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5894406,individual_professional_ai,False,False,Contratación directa,78825000.0,1,1,0,0,0.0,78825000.0,0,0.0
+CO1.PCCNTR.8236637,incidental,False,True,Contratación directa,48399800.0,1,1,0,0,0.0,48399800.0,0,0.0
+CO1.PCCNTR.8359381,individual_professional_ai,False,False,Contratación directa,13318400.0,2,2,0,0,0.0,26636800.0,0,0.0
+CO1.PCCNTR.6086813,individual_professional_ai,False,False,Contratación directa,98432260.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4545322,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,1,63.0,126535500.0,0,0.0
+CO1.PCCNTR.9616808,ai_product_or_platform,False,True,Mínima cuantía,71190000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8638978,individual_professional_ai,False,False,Contratación directa,2476800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9109162,individual_professional_ai,False,False,Contratación directa,64800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9608118,individual_professional_ai,False,False,Contratación régimen especial,55494000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7394541,individual_professional_ai,False,False,Contratación directa,178532876.0,2,2,1,1,106.0,357065752.0,0,106.0
+CO1.PCCNTR.7130162,ai_product_or_platform,False,True,Contratación directa,55000000.0,1,1,0,0,0.0,55000000.0,0,0.0
+CO1.PCCNTR.9119481,individual_professional_ai,False,False,Contratación directa,55854000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8193578,individual_professional_ai,False,False,Contratación directa,29466667.0,2,2,0,0,0.0,58933334.0,0,0.0
+CO1.PCCNTR.7695270,individual_professional_ai,False,False,Contratación directa,51520000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8422441,incidental,False,True,Contratación régimen especial,4578698.0,1,1,0,0,0.0,4578698.0,0,0.0
+CO1.PCCNTR.9665639,incidental,False,True,Mínima cuantía,48770000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9755620,ai_product_or_platform,False,True,Contratación régimen especial,64094180.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7401156,individual_professional_ai,False,False,Contratación régimen especial,64400000.0,2,2,0,0,0.0,128800000.0,0,0.0
+CO1.PCCNTR.4545405,individual_professional_ai,False,False,Contratación directa,42178500.0,4,4,1,2,63.0,168714000.0,0,0.0
+CO1.PCCNTR.6273672,incidental,False,False,Contratación directa,17976933.0,1,1,0,0,0.0,17976933.0,0,0.0
+CO1.PCCNTR.8566210,ai_development_service,False,True,Contratación Directa (con ofertas),840000000.0,2,2,2,2,181.0,1680000000.0,0,120.0
+CO1.PCCNTR.8957145,individual_professional_ai,False,False,Contratación directa,48350400.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7004996,individual_professional_ai,False,False,Contratación directa,15352666.0,1,1,0,0,0.0,15352666.0,0,0.0
+CO1.PCCNTR.9187255,incidental,False,False,Contratación directa,68136000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8406890,individual_professional_ai,False,False,Contratación directa,12045726.0,1,1,0,0,0.0,12045726.0,0,0.0
+CO1.PCCNTR.9016491,individual_professional_ai,False,False,Contratación directa,109251450.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7494456,individual_professional_ai,False,False,Contratación directa,58240000.0,1,1,0,0,0.0,58240000.0,0,0.0
+CO1.PCCNTR.5743200,individual_professional_ai,False,False,Contratación directa,103140000.0,3,3,1,2,92.0,309420000.0,0,0.0
+CO1.PCCNTR.9704525,incidental,False,False,Contratación directa,3750000.0,1,1,0,0,0.0,3750000.0,0,0.0
+CO1.PCCNTR.8913923,individual_professional_ai,False,False,Contratación directa,66699996.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9216238,cloud_or_software_nonAI,True,True,Contratación directa,20566930.01,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9026039,individual_professional_ai,False,False,Contratación directa,56000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7872345,individual_professional_ai,False,False,Contratación directa,96000000.0,1,1,0,1,0.0,96000000.0,0,0.0
+CO1.PCCNTR.6070380,individual_professional_ai,False,False,Contratación directa,22708585.0,1,1,0,0,0.0,22708585.0,0,0.0
+CO1.PCCNTR.8508574,incidental,False,True,Mínima cuantía,75990924.0,3,3,0,0,0.0,227972772.0,0,0.0
+CO1.PCCNTR.6286393,ai_product_or_platform,False,True,Contratación Directa (con ofertas),150000000.0,2,2,0,0,0.0,300000000.0,0,0.0
+CO1.PCCNTR.7808423,individual_professional_ai,False,False,Contratación directa,34595681.0,2,2,0,0,0.0,69191362.0,0,0.0
+CO1.PCCNTR.7178246,incidental,False,True,Contratación directa,1.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8404245,incidental,False,False,Mínima cuantía,26141414.0,1,1,0,1,0.0,26141414.0,0,0.0
+CO1.PCCNTR.7971715,individual_professional_ai,False,False,Contratación directa,3000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7210897,individual_professional_ai,False,False,Contratación directa,155770333.0,2,2,0,0,0.0,311540666.0,0,0.0
+CO1.PCCNTR.9152761,individual_professional_ai,False,False,Contratación directa,104556988.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6480657,unclear,False,True,Contratación Directa (con ofertas),99487395.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9757599,individual_professional_ai,False,False,Contratación directa,12450000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6281909,individual_professional_ai,False,False,Contratación directa,38984400.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7930623,incidental,False,False,Contratación directa,26180373.0,1,1,0,1,0.0,26180373.0,0,0.0
+CO1.PCCNTR.7659903,individual_professional_ai,False,False,Contratación directa,123575760.0,1,1,0,0,0.0,123575760.0,0,0.0
+CO1.PCCNTR.5341985,individual_professional_ai,False,False,Contratación directa,46160000.0,1,1,0,0,0.0,46160000.0,0,0.0
+CO1.PCCNTR.4531267,individual_professional_ai,False,False,Contratación directa,137916667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8206883,incidental,False,True,Contratación directa,434633333.0,2,2,1,1,91.0,869266666.0,0,90.0
+CO1.PCCNTR.4545597,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.6667052,individual_professional_ai,False,False,Contratación directa,15566377.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9029022,individual_professional_ai,False,False,Contratación régimen especial,122975700.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7955021,individual_professional_ai,False,False,Contratación directa,105820000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7430679,individual_professional_ai,False,False,Contratación directa,40700000.0,2,2,0,0,0.0,81276667.0,0,0.0
+CO1.PCCNTR.4590518,individual_professional_ai,False,False,Contratación directa,36153000.0,3,3,0,2,92.0,108459000.0,0,0.0
+CO1.PCCNTR.6644403,individual_professional_ai,False,False,Contratación directa,18000000.0,2,2,0,0,0.0,36000000.0,0,0.0
+CO1.PCCNTR.8979541,individual_professional_ai,False,False,Contratación régimen especial,93917856.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7930515,incidental,False,False,Contratación directa,18083333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8768727,individual_professional_ai,False,False,Contratación directa,179254800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9723598,ai_development_service,False,True,Contratación directa,50000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8480533,individual_professional_ai,False,False,Contratación directa,26949000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7521551,individual_professional_ai,False,False,Contratación directa,66644086.0,2,2,0,0,12.0,133288172.0,0,0.0
+CO1.PCCNTR.8359429,individual_professional_ai,False,False,Contratación régimen especial,138000000.0,2,2,0,0,0.0,276000000.0,0,0.0
+CO1.PCCNTR.5392501,individual_professional_ai,False,False,Contratación directa,11783200.0,1,1,0,0,0.0,11783200.0,0,0.0
+CO1.PCCNTR.7812435,ai_development_service,False,True,Contratación Directa (con ofertas),439717799.0,4,4,0,0,59.0,1758871196.0,5,30.0
+CO1.PCCNTR.7448843,individual_professional_ai,False,False,Contratación directa,93000000.0,1,1,0,0,0.0,93000000.0,0,0.0
+CO1.PCCNTR.9697003,individual_professional_ai,False,False,Contratación régimen especial,53420913.0,1,1,0,0,0.0,53420913.0,0,0.0
+CO1.PCCNTR.8391615,incidental,False,True,Mínima cuantía,35700000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7485482,individual_professional_ai,False,False,Contratación directa,58240000.0,2,2,0,0,0.0,116480000.0,0,0.0
+CO1.PCCNTR.7648664,individual_professional_ai,False,False,Contratación directa,59400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8527079,individual_professional_ai,False,False,Contratación directa,8400000.0,1,1,0,0,0.0,8400000.0,0,0.0
+CO1.PCCNTR.9243079,individual_professional_ai,False,False,Contratación directa,20529036.0,1,1,0,0,30.0,20529036.0,0,30.0
+CO1.PCCNTR.6637405,ai_development_service,False,True,Contratación directa,800000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6947155,ai_product_or_platform,False,True,Selección abreviada subasta inversa,1532670190.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5833210,individual_professional_ai,False,False,Contratación directa,163381050.0,1,1,0,0,0.0,163381050.0,0,0.0
+CO1.PCCNTR.9260816,individual_professional_ai,False,False,Contratación directa,164450000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9049531,individual_professional_ai,False,False,Contratación régimen especial,122975700.0,1,1,0,0,0.0,122975700.0,0,0.0
+CO1.PCCNTR.9273374,individual_professional_ai,False,False,Contratación directa,4160000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7863437,individual_professional_ai,False,False,Contratación directa,19500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7975042,individual_professional_ai,False,False,Contratación directa,84500000.0,1,1,0,0,0.0,84500000.0,0,0.0
+CO1.PCCNTR.6341923,individual_professional_ai,False,False,Contratación directa,72000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9130290,individual_professional_ai,False,False,Contratación directa,38933333.33,2,2,0,0,0.0,77866666.66,0,0.0
+CO1.PCCNTR.8575857,ai_development_service,False,True,Contratación Directa (con ofertas),1098966705.0,1,1,0,0,0.0,1098966705.0,0,0.0
+CO1.PCCNTR.6458948,individual_professional_ai,False,False,Contratación directa,25304756.0,1,1,0,0,0.0,25304756.0,0,0.0
+CO1.PCCNTR.7210763,individual_professional_ai,False,False,Contratación régimen especial,106124791.0,1,1,0,0,0.0,106124791.0,0,0.0
+CO1.PCCNTR.9052807,individual_professional_ai,False,False,Contratación régimen especial,61050000.0,1,1,0,0,0.0,61050000.0,0,0.0
+CO1.PCCNTR.8575948,incidental,False,True,Mínima cuantía,9700000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9046333,individual_professional_ai,False,False,Contratación directa,127282100.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7393067,individual_professional_ai,False,False,Contratación régimen especial,113653923.0,1,1,1,1,31.0,113653923.0,0,31.0
+CO1.PCCNTR.8156456,incidental,False,True,Contratación directa,8128000.0,2,2,0,0,0.0,16256000.0,0,0.0
+CO1.PCCNTR.8245346,ai_product_or_platform,False,True,Mínima cuantía,38750000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7696376,individual_professional_ai,False,False,Contratación directa,48866328.0,1,1,0,0,0.0,48866328.0,0,0.0
+CO1.PCCNTR.7971456,individual_professional_ai,False,False,Contratación directa,3000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8123901,ai_development_service,False,True,Mínima cuantía,58348561.0,3,3,0,0,0.0,175045683.0,0,0.0
+CO1.PCCNTR.7661509,individual_professional_ai,False,False,Contratación directa,72099565.0,4,4,2,2,151.0,270309680.0,0,0.0
+CO1.PCCNTR.7395510,ai_development_service,True,True,Contratación régimen especial,362000000.0,4,4,0,1,0.0,1401000000.0,0,0.0
+CO1.PCCNTR.8621492,incidental,False,False,Contratación directa,10000000.0,1,1,0,0,0.0,10000000.0,0,0.0
+CO1.PCCNTR.7940330,individual_professional_ai,False,False,Contratación directa,38826666.0,1,1,0,0,0.0,38826666.0,0,0.0
+CO1.PCCNTR.5255881,incidental,False,False,Contratación directa,9430000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9703630,individual_professional_ai,False,False,Contratación directa,32881033.0,1,1,0,0,0.0,32881033.0,0,0.0
+CO1.PCCNTR.5970022,individual_professional_ai,False,False,Contratación directa,16800000.0,1,1,0,0,0.0,16800000.0,0,0.0
+CO1.PCCNTR.9135002,individual_professional_ai,False,False,Contratación directa,62500000.0,3,3,0,0,0.0,242500000.0,0,0.0
+CO1.PCCNTR.8832281,individual_professional_ai,False,False,Contratación directa,47609067.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7879145,individual_professional_ai,False,False,Contratación directa,33000000.0,1,1,0,0,0.0,33000000.0,0,0.0
+CO1.PCCNTR.5976714,individual_professional_ai,False,False,Contratación directa,15200000.0,1,1,0,0,0.0,15200000.0,0,0.0
+CO1.PCCNTR.9214975,individual_professional_ai,False,False,Contratación directa,91293333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8056806,incidental,False,True,Contratación directa,100000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4583896,individual_professional_ai,False,False,Contratación régimen especial,38062684.0,2,2,0,0,0.0,76125368.0,0,0.0
+CO1.PCCNTR.6778979,individual_professional_ai,False,False,Contratación directa,12971129.0,2,2,0,0,0.0,25942258.0,0,0.0
+CO1.PCCNTR.9186505,individual_professional_ai,False,False,Contratación directa,102210000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9144437,incidental,False,False,Contratación directa,9683334.0,1,1,1,1,26.0,9683334.0,0,26.0
+CO1.PCCNTR.8984599,individual_professional_ai,False,False,Contratación directa,71932500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7572361,ai_development_service,True,True,Contratación directa,435000000.0,2,2,0,1,61.0,870000000.0,0,0.0
+CO1.PCCNTR.9032220,individual_professional_ai,False,False,Contratación directa,66699996.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8671126,individual_professional_ai,False,False,Contratación directa,3696000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8724668,incidental,False,True,Licitación pública,411870000.0,2,2,0,0,66.0,823740000.0,0,33.0
+CO1.PCCNTR.8454529,ai_product_or_platform,False,True,Contratación Directa (con ofertas),5879675.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8615556,unclear,False,True,Contratación directa,40000000.0,2,2,0,0,91.0,80000000.0,0,91.0
+CO1.PCCNTR.9091461,incidental,False,False,Contratación directa,53660700.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8565417,incidental,False,True,Contratación directa,86480000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7014387,individual_professional_ai,False,False,Contratación directa,7400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5682755,unclear,False,True,Contratación directa,0.0,1,1,0,0,0.0,0.0,0,0.0
+CO1.PCCNTR.9504610,incidental,False,True,Contratación régimen especial,865051460.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8140184,incidental,False,True,Contratación régimen especial (con ofertas),95055000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8414297,ai_development_service,False,True,Contratación directa,600000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7413452,individual_professional_ai,False,False,Contratación directa,94962457.0,1,1,0,0,0.0,94962457.0,0,0.0
+CO1.PCCNTR.7882961,individual_professional_ai,False,False,Contratación directa,42000000.0,1,1,0,0,0.0,42000000.0,0,0.0
+CO1.PCCNTR.8819082,individual_professional_ai,False,False,Contratación directa,95700000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8541554,individual_professional_ai,False,False,Contratación directa,5333333.0,1,1,0,0,0.0,5333333.0,0,0.0
+CO1.PCCNTR.9251070,incidental,False,True,Contratación directa,40000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7775189,individual_professional_ai,False,False,Contratación directa,75330000.0,2,2,0,0,0.0,150660000.0,0,0.0
+CO1.PCCNTR.7347135,unclear,False,True,Contratación directa,0.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6283175,incidental,False,True,Contratación directa,4896856556.0,4,4,2,0,252.0,19587426224.0,0,122.0
+CO1.PCCNTR.8907672,individual_professional_ai,False,False,Contratación directa,77104625.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8702447,incidental,False,True,Licitación pública,23333536610.0,3,3,0,1,122.0,54446331630.0,0,122.0
+CO1.PCCNTR.8773597,individual_professional_ai,False,False,Contratación directa,55000000.0,1,1,0,0,5.0,55000000.0,0,5.0
+CO1.PCCNTR.7630510,individual_professional_ai,False,False,Contratación directa,3034500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8990703,incidental,False,False,Contratación directa,22050000.0,1,1,0,0,0.0,22050000.0,0,0.0
+CO1.PCCNTR.9230130,individual_professional_ai,False,False,Contratación directa,43291500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7114609,ai_product_or_platform,False,True,Selección abreviada subasta inversa,166100700.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9870542,individual_professional_ai,False,False,Contratación directa,8000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8681262,ai_product_or_platform,False,True,Contratación régimen especial,99969783.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6378272,incidental,False,True,Contratación directa,258000000.0,2,2,2,0,61.0,516000000.0,0,30.0
+CO1.PCCNTR.5696648,ai_development_service,False,False,Licitación pública,3987246920.0,4,4,2,0,204.0,15948987680.0,0,36.0
+CO1.PCCNTR.9946053,individual_professional_ai,False,False,Contratación directa,25331142.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9535041,unclear,False,True,Contratación directa,0.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9176949,individual_professional_ai,False,False,Contratación directa,37899968.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7707194,ai_product_or_platform,False,True,Contratación régimen especial,55492439.0,3,3,2,1,75.0,159440994.0,0,0.0
+CO1.PCCNTR.9016589,individual_professional_ai,False,False,Contratación directa,99319500.0,1,1,0,0,1.0,99319500.0,0,1.0
+CO1.PCCNTR.9087262,individual_professional_ai,False,False,Contratación directa,43200000.0,1,1,1,1,61.0,43200000.0,0,61.0
+CO1.PCCNTR.6228133,individual_professional_ai,False,False,Contratación directa,81000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4543768,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,1,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.8465858,incidental,False,False,Contratación directa,10133333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8302786,individual_professional_ai,False,False,Contratación régimen especial,22316667.0,2,2,0,0,0.0,44633334.0,0,0.0
+CO1.PCCNTR.9108802,individual_professional_ai,False,False,Contratación directa,96900000.0,2,2,0,0,12.0,193800000.0,0,6.0
+CO1.PCCNTR.9240663,individual_professional_ai,False,False,Contratación directa,107896000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6919282,individual_professional_ai,False,False,Contratación directa,8400000.0,1,1,0,0,0.0,8400000.0,0,0.0
+CO1.PCCNTR.9699858,individual_professional_ai,False,False,Contratación directa,16355021.0,1,1,0,1,0.0,16355021.0,0,0.0
+CO1.PCCNTR.7489409,individual_professional_ai,False,False,Contratación directa,58800000.0,1,1,0,0,0.0,58800000.0,0,0.0
+CO1.PCCNTR.5000097,individual_professional_ai,False,False,Contratación régimen especial,29400000.0,2,2,0,0,0.0,58800000.0,0,0.0
+CO1.PCCNTR.5926003,individual_professional_ai,False,False,Contratación directa,15200000.0,1,1,0,0,0.0,15200000.0,0,0.0
+CO1.PCCNTR.7418902,individual_professional_ai,False,False,Contratación directa,39359950.0,1,1,1,1,22.0,39359950.0,0,22.0
+CO1.PCCNTR.8112072,incidental,False,True,Contratación directa,375059520.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4551611,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,2,107.0,126535500.0,0,0.0
+CO1.PCCNTR.9091381,individual_professional_ai,False,False,Contratación directa,80000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6355977,incidental,False,False,Contratación directa,15200000.0,1,1,0,0,0.0,15200000.0,0,0.0
+CO1.PCCNTR.7932333,incidental,False,False,Contratación directa,18083333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9070746,ai_product_or_platform,False,True,Contratación régimen especial,79476783.0,1,1,0,1,61.0,79476783.0,0,61.0
+CO1.PCCNTR.7903391,individual_professional_ai,False,False,Contratación directa,16486076.0,1,1,0,0,0.0,16486076.0,0,0.0
+CO1.PCCNTR.7773802,individual_professional_ai,False,False,Contratación directa,14400000.0,2,2,0,1,0.0,28800000.0,0,0.0
+CO1.PCCNTR.9107730,individual_professional_ai,False,False,Contratación directa,44100000.0,2,2,0,0,0.0,88200000.0,0,0.0
+CO1.PCCNTR.7371390,individual_professional_ai,False,False,Contratación directa,82280233.0,2,2,1,1,76.0,164560466.0,0,0.0
+CO1.PCCNTR.6381551,individual_professional_ai,False,False,Contratación directa,146000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4543727,incidental,False,False,Contratación directa,42178500.0,3,3,0,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.9188541,individual_professional_ai,False,False,Contratación directa,93840000.0,2,2,1,1,97.0,163200000.0,0,97.0
+CO1.PCCNTR.9053622,incidental,False,False,Contratación directa,7695000.0,1,1,1,1,29.0,7695000.0,0,29.0
+CO1.PCCNTR.7967784,individual_professional_ai,False,False,Contratación directa,66000000.0,1,1,0,0,0.0,66000000.0,0,0.0
+CO1.PCCNTR.5132999,individual_professional_ai,False,False,Contratación directa,87400000.0,2,2,0,0,46.0,174800000.0,0,0.0
+CO1.PCCNTR.4802200,individual_professional_ai,False,False,Contratación directa,18928333.0,1,1,0,0,0.0,18928333.0,0,0.0
+CO1.PCCNTR.7646327,individual_professional_ai,False,False,Contratación directa,83877880.0,3,3,0,0,0.0,251633640.0,0,0.0
+CO1.PCCNTR.8889267,individual_professional_ai,False,False,Contratación directa,127000000.0,2,2,0,1,63.0,228600000.0,0,62.0
+CO1.PCCNTR.7926227,individual_professional_ai,False,False,Contratación directa,21874517.0,5,5,1,0,81.0,109372585.0,4,20.0
+CO1.PCCNTR.7760241,individual_professional_ai,False,False,Contratación régimen especial,227625876.0,2,2,0,1,366.0,455251752.0,0,183.0
+CO1.PCCNTR.9290540,individual_professional_ai,False,False,Contratación directa,110999999.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5019197,ai_product_or_platform,False,False,Licitación pública,1899995000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7077052,incidental,False,False,Contratación directa,4000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7731435,incidental,False,True,Contratación directa,100000000.0,1,1,0,0,31.0,100000000.0,0,21.0
+CO1.PCCNTR.9074372,individual_professional_ai,False,False,Contratación directa,7030000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8871174,individual_professional_ai,False,False,Contratación directa,56700000.0,1,1,0,0,1.0,56700000.0,0,0.0
+CO1.PCCNTR.5604804,incidental,False,True,Mínima cuantía,28678799.84,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6649510,ai_development_service,False,True,Contratación Directa (con ofertas),2900000000.0,1,1,0,0,0.0,2900000000.0,0,0.0
+CO1.PCCNTR.9308837,incidental,False,False,Contratación régimen especial,0.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8929081,individual_professional_ai,False,False,Contratación directa,86534418.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8700273,ai_product_or_platform,False,True,Selección abreviada subasta inversa,170350000.0,2,2,0,0,0.0,340700000.0,0,0.0
+CO1.PCCNTR.9471115,incidental,False,True,Contratación régimen especial (con ofertas),2600000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6070243,individual_professional_ai,False,False,Contratación directa,22708585.0,1,1,0,0,0.0,22708585.0,0,0.0
+CO1.PCCNTR.8994214,individual_professional_ai,False,False,Contratación directa,72000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9250357,individual_professional_ai,False,False,Contratación régimen especial,180000000.0,1,1,0,0,0.0,180000000.0,0,0.0
+CO1.PCCNTR.8833112,individual_professional_ai,False,False,Contratación directa,34256000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8822057,individual_professional_ai,False,False,Contratación directa,111500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8161130,individual_professional_ai,False,False,Contratación directa,41800500.0,1,1,1,1,108.0,41800500.0,0,107.0
+CO1.PCCNTR.8982725,incidental,False,True,Contratación directa,1303328950.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7530589,individual_professional_ai,False,False,Contratación directa,79733333.0,3,3,0,1,42.0,231733333.0,0,14.0
+CO1.PCCNTR.9142622,individual_professional_ai,False,False,Contratación directa,95234000.0,1,1,1,1,73.0,128846000.0,0,0.0
+CO1.PCCNTR.8206299,incidental,False,True,Contratación Directa (con ofertas),280000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8360525,individual_professional_ai,False,False,Contratación directa,6155880.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6595926,individual_professional_ai,False,False,Contratación directa,60102755.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7633052,individual_professional_ai,False,False,Contratación directa,38800000.0,1,1,0,0,0.0,38800000.0,0,0.0
+CO1.PCCNTR.8194212,individual_professional_ai,False,False,Contratación directa,20000000.0,1,1,0,0,0.0,20000000.0,0,0.0
+CO1.PCCNTR.8243230,individual_professional_ai,False,False,Contratación directa,28000000.0,1,1,0,0,0.0,28000000.0,0,0.0
+CO1.PCCNTR.6478554,individual_professional_ai,False,False,Contratación directa,46176138.0,1,1,0,0,0.0,46176138.0,0,0.0
+CO1.PCCNTR.8963816,individual_professional_ai,False,False,Contratación directa,108000000.0,1,1,0,1,66.0,108000000.0,0,66.0
+CO1.PCCNTR.8571431,individual_professional_ai,False,False,Contratación directa,27500000.0,2,2,0,0,0.0,55000000.0,0,0.0
+CO1.PCCNTR.7775407,individual_professional_ai,True,False,Contratación directa,38250000.0,1,1,0,0,0.0,38250000.0,0,0.0
+CO1.PCCNTR.9976427,individual_professional_ai,False,False,Contratación directa,5298976.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9037541,individual_professional_ai,False,False,Contratación directa,101200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5144893,individual_professional_ai,False,False,Contratación directa,25010000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8101930,individual_professional_ai,False,False,Contratación directa,12000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9538630,ai_product_or_platform,True,True,Mínima cuantía,4786360.0,1,1,0,0,0.0,4786360.0,0,0.0
+CO1.PCCNTR.9800846,incidental,False,False,Contratación directa,8000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8443063,ai_development_service,False,True,Contratación régimen especial,50000000.0,1,1,0,0,0.0,50000000.0,0,0.0
+CO1.PCCNTR.7254573,individual_professional_ai,False,False,Contratación régimen especial,97520049.0,4,4,0,0,0.0,445293915.0,6,0.0
+CO1.PCCNTR.8852159,individual_professional_ai,False,False,Contratación directa,102960000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6407699,ai_product_or_platform,True,True,Contratación directa,29614285.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8633245,incidental,False,True,Contratación Directa (con ofertas),139996798.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7955350,incidental,False,True,Contratación Directa (con ofertas),279991899.99,2,2,0,0,0.0,559983799.98,0,0.0
+CO1.PCCNTR.9684266,individual_professional_ai,False,False,Contratación directa,7286092.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8076043,incidental,False,False,Contratación directa,14500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6671303,individual_professional_ai,True,False,Contratación directa,35000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8621989,unclear,False,True,Mínima cuantía,30000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8972074,individual_professional_ai,False,False,Contratación directa,34256000.0,1,1,0,0,0.0,34256000.0,0,0.0
+CO1.PCCNTR.7849862,incidental,False,True,Contratación directa,38000000.0,2,2,0,0,0.0,76000000.0,0,0.0
+CO1.PCCNTR.6105425,individual_professional_ai,False,False,Contratación directa,28000000.0,1,1,0,0,0.0,28000000.0,0,0.0
+CO1.PCCNTR.6597069,individual_professional_ai,False,False,Contratación directa,47703170.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6794533,unclear,False,False,Concurso de méritos abierto,1217019855.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9087943,ai_development_service,False,True,Contratación régimen especial,147808232.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7143560,ai_development_service,False,True,Contratación directa,131107663434.0,2,2,0,0,335.0,262215326868.0,0,335.0
+CO1.PCCNTR.8276062,incidental,False,False,Mínima cuantía,10193000.0,1,1,0,0,0.0,10193000.0,0,0.0
+CO1.PCCNTR.4618848,individual_professional_ai,False,False,Contratación directa,32000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8798684,individual_professional_ai,False,False,Contratación directa,137200000.0,1,1,0,0,0.0,138000000.0,0,0.0
+CO1.PCCNTR.5999380,individual_professional_ai,False,False,Contratación directa,104360256.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8634425,individual_professional_ai,False,False,Contratación directa,4334400.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9302584,individual_professional_ai,False,False,Contratación directa,63200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8520834,individual_professional_ai,False,False,Contratación régimen especial,95368898.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6067951,individual_professional_ai,False,False,Contratación directa,11081336.0,2,2,0,0,0.0,19946405.0,0,0.0
+CO1.PCCNTR.8655158,incidental,False,True,Contratación directa,11460000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7629655,individual_professional_ai,False,False,Contratación directa,87000000.0,1,1,0,0,0.0,87000000.0,0,0.0
+CO1.PCCNTR.8581807,ai_development_service,False,True,Contratación directa,700000000.0,2,2,2,0,90.0,1400000000.0,0,58.0
+CO1.PCCNTR.8162651,individual_professional_ai,False,False,Contratación directa,12133300.0,2,2,0,1,20.0,24266600.0,0,0.0
+CO1.PCCNTR.8646120,ai_product_or_platform,False,True,Selección abreviada subasta inversa,1107000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6055142,incidental,False,False,Contratación directa,16800000.0,1,1,0,0,0.0,16800000.0,0,0.0
+CO1.PCCNTR.8482256,incidental,False,False,Contratación directa,9863014.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9684641,individual_professional_ai,False,False,Contratación directa,7286092.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8320123,ai_development_service,False,True,Contratación régimen especial,748553625.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8527570,incidental,False,True,Contratación directa,202971429.0,2,2,1,0,290.0,405942858.0,11,144.0
+CO1.PCCNTR.4912858,ai_product_or_platform,False,True,Contratación directa,42150000.0,1,1,0,0,0.0,42150000.0,0,0.0
+CO1.PCCNTR.7969839,individual_professional_ai,False,False,Contratación directa,19800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7834309,incidental,False,True,Contratación directa,140000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8826981,individual_professional_ai,False,False,Contratación directa,50832690.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8561114,ai_product_or_platform,True,True,Selección abreviada subasta inversa,755665005.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6516984,incidental,False,False,Contratación directa,67439166.66,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8239044,individual_professional_ai,False,False,Contratación directa,6155880.0,1,1,0,0,0.0,6155880.0,0,0.0
+CO1.PCCNTR.6068696,individual_professional_ai,False,False,Contratación directa,16800000.0,1,1,0,0,0.0,16800000.0,0,0.0
+CO1.PCCNTR.8743446,ai_product_or_platform,False,True,Contratación directa,0.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8144243,ai_product_or_platform,False,True,Contratación directa,549425000.39,5,5,1,0,90.0,2747125001.95,12,90.0
+CO1.PCCNTR.9058508,individual_professional_ai,False,False,Contratación directa,9866667.0,1,1,1,1,17.0,9866667.0,0,17.0
+CO1.PCCNTR.9728181,individual_professional_ai,False,False,Contratación directa,20700000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5423876,ai_product_or_platform,False,True,Contratación régimen especial,352329569.0,3,3,0,0,336.0,1056988707.0,0,154.0
+CO1.PCCNTR.6547497,incidental,False,False,Contratación directa,21000000.0,1,1,0,0,0.0,21000000.0,0,0.0
+CO1.PCCNTR.7270739,individual_professional_ai,False,False,Contratación directa,137999995.0,1,1,0,0,0.0,137999995.0,0,0.0
+CO1.PCCNTR.9093667,individual_professional_ai,False,False,Contratación directa,57098667.0,1,1,0,0,0.0,57098667.0,0,0.0
+CO1.PCCNTR.9746022,individual_professional_ai,False,False,Contratación directa,11400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6515069,individual_professional_ai,False,False,Contratación directa,22533333.0,2,2,0,0,0.0,45066666.0,0,0.0
+CO1.PCCNTR.4447516,individual_professional_ai,False,False,Contratación régimen especial,20800000.0,2,2,0,0,0.0,41600000.0,0,0.0
+CO1.PCCNTR.8647924,ai_development_service,False,True,Contratación régimen especial,357000000.0,2,2,1,0,124.0,714000000.0,0,61.0
+CO1.PCCNTR.8917030,individual_professional_ai,False,False,Contratación directa,92400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7929313,individual_professional_ai,False,False,Contratación directa,17333333.0,2,2,0,1,0.0,32333333.0,0,0.0
+CO1.PCCNTR.6631670,individual_professional_ai,False,False,Contratación directa,60870417.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8828007,individual_professional_ai,False,False,Contratación directa,76475000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8227481,individual_professional_ai,False,False,Contratación directa,22750000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9886258,incidental,False,True,Mínima cuantía,45000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8765143,individual_professional_ai,False,False,Contratación régimen especial,124051264.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6684704,incidental,False,True,Concurso de méritos abierto,379189500.0,1,1,0,0,0.0,379189500.0,0,0.0
+CO1.PCCNTR.7380079,individual_professional_ai,False,False,Contratación directa,103000000.0,2,2,0,0,0.0,206000000.0,0,0.0
+CO1.PCCNTR.6288802,individual_professional_ai,False,False,Contratación directa,72828600.0,1,1,0,0,0.0,72828600.0,0,0.0
+CO1.PCCNTR.7843818,ai_development_service,False,True,Selección Abreviada de Menor Cuantía,206400000.0,1,1,0,1,0.0,206400000.0,0,0.0
+CO1.PCCNTR.8303779,individual_professional_ai,False,False,Contratación directa,3000000.0,2,2,0,0,0.0,6000000.0,0,0.0
+CO1.PCCNTR.6721656,ai_product_or_platform,True,True,Selección abreviada subasta inversa,319994570.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7657168,individual_professional_ai,False,False,Contratación directa,166543333.0,2,2,0,0,40.0,326753333.0,0,20.0
+CO1.PCCNTR.9266133,individual_professional_ai,False,False,Contratación directa,16000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5292536,individual_professional_ai,False,False,Contratación directa,43419963.0,1,1,0,0,0.0,43419963.0,0,0.0
+CO1.PCCNTR.8998948,individual_professional_ai,False,False,Contratación directa,49427886.0,1,1,0,1,18.0,49427886.0,0,18.0
+CO1.PCCNTR.6673509,ai_product_or_platform,False,True,Contratación directa,7159232.0,3,3,0,0,0.0,21477696.0,0,0.0
+CO1.PCCNTR.8952874,individual_professional_ai,False,False,Contratación directa,72870168.0,1,1,1,1,104.0,72870168.0,0,104.0
+CO1.PCCNTR.7017627,ai_product_or_platform,False,True,Selección abreviada subasta inversa,64803426.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5900758,individual_professional_ai,False,False,Contratación directa,92502300.0,1,1,0,0,0.0,92502300.0,0,0.0
+CO1.PCCNTR.6549659,individual_professional_ai,False,False,Contratación directa,46500000.0,1,1,0,0,0.0,46500000.0,0,0.0
+CO1.PCCNTR.5001103,individual_professional_ai,False,False,Contratación régimen especial,37440000.0,2,2,0,0,0.0,74880000.0,0,0.0
+CO1.PCCNTR.6491592,individual_professional_ai,False,False,Contratación directa,22800000.0,1,1,0,0,0.0,22800000.0,0,0.0
+CO1.PCCNTR.7550159,individual_professional_ai,False,False,Contratación directa,40000000.0,1,1,0,0,0.0,40000000.0,0,0.0
+CO1.PCCNTR.8921402,individual_professional_ai,False,False,Contratación directa,66699996.0,2,2,0,0,0.0,133399992.0,0,0.0
+CO1.PCCNTR.9057879,incidental,False,False,Contratación directa,10133333.0,1,1,1,1,19.0,10133333.0,0,19.0
+CO1.PCCNTR.9692971,ai_product_or_platform,False,True,Contratación Directa (con ofertas),224213333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6545021,ai_product_or_platform,False,True,Contratación Directa (con ofertas),694746000.0,2,2,0,0,0.0,1389492000.0,0,0.0
+CO1.PCCNTR.7409404,individual_professional_ai,False,False,Contratación directa,31800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8194930,individual_professional_ai,False,False,Contratación directa,55600000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8668008,individual_professional_ai,False,False,Contratación directa,11000000.0,1,1,0,0,0.0,11000000.0,0,0.0
+CO1.PCCNTR.6534765,individual_professional_ai,False,False,Contratación directa,37260000.0,1,1,0,0,0.0,37260000.0,0,0.0
+CO1.PCCNTR.8968045,individual_professional_ai,False,False,Contratación directa,63200000.0,1,1,0,0,0.0,63200000.0,0,0.0
+CO1.PCCNTR.7738821,ai_product_or_platform,False,True,Contratación directa,290700000.0,1,1,0,0,0.0,290700000.0,0,0.0
+CO1.PCCNTR.5848919,individual_professional_ai,False,False,Contratación directa,40000000.0,1,1,0,0,0.0,40000000.0,0,0.0
+CO1.PCCNTR.8219147,ai_development_service,False,True,Selección Abreviada de Menor Cuantía,644907253.0,2,2,0,0,0.0,1289814506.0,1,0.0
+CO1.PCCNTR.8423459,individual_professional_ai,False,False,Contratación directa,44800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9944051,incidental,False,True,Mínima cuantía,45115820.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8139132,ai_development_service,False,True,Contratación directa,943079800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9188511,incidental,False,False,Contratación directa,68136000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8399394,individual_professional_ai,False,False,Contratación directa,25800000.0,3,3,0,0,15.0,77400000.0,0,0.0
+CO1.PCCNTR.8634005,individual_professional_ai,False,False,Contratación directa,66000000.0,1,1,0,0,7.0,66000000.0,0,0.0
+CO1.PCCNTR.9833946,individual_professional_ai,False,False,Contratación régimen especial,55000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8771940,individual_professional_ai,False,False,Contratación directa,92950000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9034297,individual_professional_ai,False,False,Contratación directa,63000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8561590,unclear,False,True,Contratación directa,0.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9255456,individual_professional_ai,False,False,Contratación directa,30924513.0,3,3,0,0,1.0,127942593.0,0,0.0
+CO1.PCCNTR.9187608,ai_development_service,False,True,Contratación directa,237100000.0,2,2,0,2,92.0,474200000.0,0,49.0
+CO1.PCCNTR.9085027,individual_professional_ai,False,False,Contratación directa,84000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9206579,individual_professional_ai,False,False,Contratación directa,56100000.0,3,3,0,0,0.0,178200000.0,0,0.0
+CO1.PCCNTR.9275586,individual_professional_ai,False,False,Contratación directa,21580000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7361624,incidental,False,False,Contratación directa,130400000.0,2,2,2,1,61.0,239200000.0,0,55.0
+CO1.PCCNTR.8800735,individual_professional_ai,False,False,Contratación directa,133628500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5448139,individual_professional_ai,False,False,Contratación directa,9000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9302493,individual_professional_ai,False,False,Contratación régimen especial,56238400.0,3,3,3,3,337.0,140596000.0,0,153.0
+CO1.PCCNTR.7676433,individual_professional_ai,False,False,Contratación directa,110338833.0,1,1,1,1,97.0,110338833.0,0,98.0
+CO1.PCCNTR.4522668,individual_professional_ai,False,False,Contratación directa,50000000.0,3,3,0,0,0.0,150000000.0,0,0.0
+CO1.PCCNTR.9692653,individual_professional_ai,False,False,Contratación directa,55330475.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4812020,individual_professional_ai,False,False,Contratación directa,18723333.0,1,1,0,0,0.0,18723333.0,0,0.0
+CO1.PCCNTR.9932323,individual_professional_ai,False,False,Contratación directa,44000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7898563,individual_professional_ai,False,False,Contratación directa,81697733.0,1,1,1,0,33.0,81697733.0,0,33.0
+CO1.PCCNTR.8263865,individual_professional_ai,False,False,Contratación directa,18399644.0,1,1,0,0,0.0,18399644.0,0,0.0
+CO1.PCCNTR.8998256,individual_professional_ai,False,False,Contratación directa,39727800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8875456,incidental,False,False,Contratación directa,86785242.0,1,1,0,0,0.0,86785242.0,0,0.0
+CO1.PCCNTR.7376718,individual_professional_ai,False,False,Contratación directa,41800000.0,2,2,1,1,92.0,83600000.0,0,0.0
+CO1.PCCNTR.6762301,ai_product_or_platform,False,True,Contratación Directa (con ofertas),5000000.0,4,4,0,0,0.0,20000000.0,0,0.0
+CO1.PCCNTR.8640707,incidental,False,True,Contratación directa,1665139.0,2,2,0,0,0.0,3330278.0,0,0.0
+CO1.PCCNTR.8837277,individual_professional_ai,False,False,Contratación directa,78166667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7920753,individual_professional_ai,False,False,Contratación directa,28000000.0,3,3,1,1,30.0,80000000.0,0,0.0
+CO1.PCCNTR.7340534,individual_professional_ai,False,False,Contratación directa,128388212.0,2,2,1,1,76.0,256776424.0,0,0.0
+CO1.PCCNTR.6538227,individual_professional_ai,False,False,Contratación directa,9000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7015017,individual_professional_ai,False,False,Contratación directa,10000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9669977,ai_product_or_platform,False,True,Contratación Directa (con ofertas),333200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8622972,individual_professional_ai,False,False,Contratación directa,7500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8765414,individual_professional_ai,False,False,Contratación régimen especial,157593757.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8711016,unclear,False,True,Mínima cuantía,10115000.0,3,3,0,0,2.0,30345000.0,0,0.0
+CO1.PCCNTR.8154129,individual_professional_ai,False,False,Contratación directa,61250000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8179400,individual_professional_ai,False,False,Contratación directa,19472955.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6768912,incidental,False,True,Contratación directa,234399711669.0,1,1,0,0,0.0,234399711669.0,0,0.0
+CO1.PCCNTR.5965433,individual_professional_ai,False,False,Contratación directa,16800000.0,1,1,0,0,0.0,16800000.0,0,0.0
+CO1.PCCNTR.5952521,individual_professional_ai,False,False,Contratación directa,57805000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7740163,unclear,False,True,Contratación directa,12350000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5417794,individual_professional_ai,False,False,Contratación directa,38750000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6237928,individual_professional_ai,False,False,Contratación directa,99200000.0,1,1,0,0,0.0,99200000.0,0,0.0
+CO1.PCCNTR.9145790,individual_professional_ai,False,False,Contratación directa,65748800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7157061,ai_development_service,False,True,Contratación directa,333045882.0,1,1,1,0,90.0,333045882.0,0,90.0
+CO1.PCCNTR.6338360,incidental,False,False,Contratación directa,15200000.0,1,1,0,0,0.0,15200000.0,0,0.0
+CO1.PCCNTR.6632223,individual_professional_ai,False,False,Contratación directa,17027500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8724613,incidental,False,True,Mínima cuantía,34823684.0,5,5,2,0,311.0,174118420.0,0,89.0
+CO1.PCCNTR.5402875,individual_professional_ai,False,False,Contratación directa,33333333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7394243,individual_professional_ai,False,False,Contratación régimen especial,103154132.0,1,1,1,1,31.0,103154132.0,0,31.0
+CO1.PCCNTR.8689685,ai_development_service,False,True,Contratación directa,1799214165.0,1,1,1,0,59.0,1799214165.0,0,59.0
+CO1.PCCNTR.9288149,individual_professional_ai,False,False,Contratación directa,102120001.0,1,1,0,0,0.0,102120001.0,0,0.0
+CO1.PCCNTR.6246622,incidental,False,False,Contratación directa,23105927.0,1,1,0,0,0.0,23105927.0,0,0.0
+CO1.PCCNTR.9925857,incidental,False,True,Contratación directa,38913000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9971469,ai_product_or_platform,False,True,Contratación directa,8608991.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7746001,incidental,False,True,Mínima cuantía,8500000.0,1,1,0,0,0.0,8500000.0,0,0.0
+CO1.PCCNTR.9725122,individual_professional_ai,False,False,Contratación directa,36000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6547357,individual_professional_ai,False,False,Contratación directa,21000000.0,1,1,0,0,0.0,21000000.0,0,0.0
+CO1.PCCNTR.4841207,individual_professional_ai,False,False,Contratación régimen especial,25171140.0,1,1,0,0,0.0,24332102.0,0,0.0
+CO1.PCCNTR.7760354,incidental,False,True,Contratación régimen especial,214285714.0,1,1,0,0,0.0,214285714.0,0,0.0
+CO1.PCCNTR.6997796,individual_professional_ai,False,False,Contratación directa,22769368.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7007948,individual_professional_ai,False,False,Contratación directa,9000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9291171,individual_professional_ai,False,False,Contratación directa,66699996.0,1,1,0,0,0.0,66699996.0,0,0.0
+CO1.PCCNTR.8430959,individual_professional_ai,False,False,Contratación directa,16059333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9626467,individual_professional_ai,False,False,Contratación régimen especial,39199956.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8828798,individual_professional_ai,False,False,Contratación directa,95040000.0,1,1,0,0,0.0,95040000.0,0,0.0
+CO1.PCCNTR.4415405,individual_professional_ai,False,False,Contratación directa,177206600.0,6,6,0,0,0.0,1063239600.0,0,0.0
+CO1.PCCNTR.8675235,incidental,False,True,Contratación Directa (con ofertas),1139999998.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4546830,individual_professional_ai,False,False,Contratación directa,42178500.0,4,4,0,1,63.0,168714000.0,0,0.0
+CO1.PCCNTR.5963130,individual_professional_ai,False,False,Contratación directa,11200000.0,1,1,0,0,0.0,11200000.0,0,0.0
+CO1.PCCNTR.8186172,individual_professional_ai,False,False,Contratación directa,21450000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6558933,unclear,False,True,Contratación directa,1214331113.0,1,1,0,0,0.0,1214331113.0,0,0.0
+CO1.PCCNTR.6693574,ai_development_service,False,True,Contratación directa,279787000.0,1,1,0,0,0.0,279787000.0,0,0.0
+CO1.PCCNTR.7616107,individual_professional_ai,False,False,Contratación directa,110843712.0,2,2,0,1,0.0,211951152.0,0,0.0
+CO1.PCCNTR.6477941,individual_professional_ai,False,False,Contratación directa,27480000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7526641,individual_professional_ai,False,False,Contratación directa,57866667.0,2,2,0,0,0.0,115733334.0,0,0.0
+CO1.PCCNTR.9508692,ai_product_or_platform,False,False,Contratación régimen especial,4500000.0,2,2,0,0,0.0,9000000.0,0,0.0
+CO1.PCCNTR.8764380,individual_professional_ai,False,False,Contratación régimen especial,124051264.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8713120,ai_development_service,False,True,Contratación directa,187800000.0,5,5,0,0,425.0,939000000.0,31,141.0
+CO1.PCCNTR.8214512,individual_professional_ai,False,False,Contratación directa,185280000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6515668,individual_professional_ai,False,False,Contratación directa,67053800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7488693,individual_professional_ai,False,False,Contratación directa,58800000.0,1,1,0,0,0.0,58800000.0,0,0.0
+CO1.PCCNTR.4550622,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.7931901,incidental,False,False,Contratación directa,15862000.0,1,1,0,0,0.0,15862000.0,0,0.0
+CO1.PCCNTR.7554716,individual_professional_ai,False,False,Contratación directa,57120000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9960002,individual_professional_ai,False,False,Contratación directa,34000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7459403,individual_professional_ai,False,False,Contratación directa,40859065.0,4,4,2,1,427.0,149816575.0,0,107.0
+CO1.PCCNTR.7932277,incidental,False,False,Contratación directa,19530000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8734083,ai_product_or_platform,True,True,Mínima cuantía,36231020.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7348692,individual_professional_ai,False,False,Contratación directa,36000000.0,1,1,0,0,0.0,36000000.0,0,0.0
+CO1.PCCNTR.8343298,incidental,False,True,Contratación régimen especial,39860338.0,1,1,0,0,0.0,39860338.0,0,0.0
+CO1.PCCNTR.6745867,individual_professional_ai,False,False,Contratación directa,16670000.0,1,1,0,0,0.0,16670000.0,0,0.0
+CO1.PCCNTR.8366682,individual_professional_ai,False,False,Contratación régimen especial,22147270.0,1,1,0,0,0.0,22147270.0,0,0.0
+CO1.PCCNTR.8183147,ai_development_service,False,True,Contratación directa,490000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7467699,individual_professional_ai,False,False,Contratación directa,58800000.0,1,1,0,0,0.0,58800000.0,0,0.0
+CO1.PCCNTR.8655107,unclear,False,True,Mínima cuantía,38500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6399924,ai_development_service,False,True,Contratación directa,0.0,2,2,0,0,454.0,0.0,0,455.0
+CO1.PCCNTR.8440692,individual_professional_ai,False,False,Contratación directa,18416666.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9937889,unclear,False,True,Contratación régimen especial (con ofertas),278448000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7968241,individual_professional_ai,False,False,Contratación directa,19800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5986816,individual_professional_ai,False,False,Contratación directa,123456667.0,1,1,0,0,0.0,123456667.0,0,0.0
+CO1.PCCNTR.8289739,ai_development_service,False,True,Contratación directa,11000000000.0,1,1,0,0,0.0,11000000000.0,0,0.0
+CO1.PCCNTR.7189312,unclear,False,True,Contratación directa,17829462987.17,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9304752,individual_professional_ai,False,False,Contratación directa,62533333.0,3,3,0,0,0.0,187599999.0,0,0.0
+CO1.PCCNTR.9128966,individual_professional_ai,False,False,Contratación directa,65748800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8156553,individual_professional_ai,False,False,Contratación régimen especial,72500000.0,1,1,0,0,0.0,72500000.0,0,0.0
+CO1.PCCNTR.7931786,individual_professional_ai,False,False,Contratación directa,17031600.0,1,1,0,0,0.0,17031600.0,0,0.0
+CO1.PCCNTR.9258613,individual_professional_ai,False,False,Contratación directa,156200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9132279,individual_professional_ai,False,False,Contratación directa,41650000.0,2,2,0,0,0.0,92650000.0,0,0.0
+CO1.PCCNTR.8352012,individual_professional_ai,False,False,Contratación régimen especial,38004143.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6927267,ai_development_service,False,True,Contratación directa,20488500000.0,2,2,0,0,345.0,40977000000.0,0,346.0
+CO1.PCCNTR.5315429,individual_professional_ai,False,False,Contratación directa,43800750.0,2,2,0,0,0.0,87601500.0,0,0.0
+CO1.PCCNTR.8691409,individual_professional_ai,False,False,Contratación directa,121200000.0,1,1,0,0,0.0,121200000.0,0,0.0
+CO1.PCCNTR.9145846,individual_professional_ai,False,False,Contratación directa,73542500.0,2,2,1,1,74.0,127900000.0,0,74.0
+CO1.PCCNTR.8685308,ai_development_service,False,True,Contratación Directa (con ofertas),3262730000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5996607,individual_professional_ai,False,False,Contratación directa,48082204.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5870297,ai_product_or_platform,False,True,Contratación régimen especial,101860000.0,2,2,0,1,0.0,203720000.0,0,0.0
+CO1.PCCNTR.7944439,individual_professional_ai,False,False,Contratación directa,4772737.0,1,1,0,0,0.0,4772737.0,0,0.0
+CO1.PCCNTR.8773945,cloud_or_software_nonAI,True,True,Contratación régimen especial,16841781.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8570451,incidental,False,True,Contratación directa,140172500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8982527,incidental,False,False,Contratación directa,66699996.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7942119,incidental,False,False,Contratación directa,83200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5166219,ai_product_or_platform,False,True,Contratación régimen especial,43000682.0,4,4,2,1,35.0,165169281.0,0,0.0
+CO1.PCCNTR.8802496,individual_professional_ai,False,False,Contratación directa,95700000.0,1,1,0,0,0.0,95700000.0,0,0.0
+CO1.PCCNTR.8453571,individual_professional_ai,False,False,Contratación directa,60600000.0,1,1,0,0,0.0,60600000.0,0,0.0
+CO1.PCCNTR.7076121,ai_development_service,False,True,Contratación régimen especial,599760000.0,1,1,0,0,0.0,599760000.0,0,0.0
+CO1.PCCNTR.8564637,incidental,False,True,Contratación Directa (con ofertas),719747200.0,1,1,0,0,0.0,719747200.0,0,0.0
+CO1.PCCNTR.9020831,individual_professional_ai,False,False,Contratación directa,124575000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9128994,individual_professional_ai,False,False,Contratación directa,53104800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6590337,individual_professional_ai,False,False,Contratación directa,60102755.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6971675,incidental,False,True,Contratación régimen especial (con ofertas),237000000.0,1,1,0,0,0.0,237000000.0,0,0.0
+CO1.PCCNTR.6699438,individual_professional_ai,False,False,Contratación directa,36000000.0,2,2,0,0,0.0,72000000.0,0,0.0
+CO1.PCCNTR.7073008,individual_professional_ai,False,False,Contratación directa,4200000.0,1,1,0,0,0.0,4200000.0,0,0.0
+CO1.PCCNTR.8051529,incidental,False,False,Contratación régimen especial,7440573.0,5,5,0,0,0.0,37202865.0,0,0.0
+CO1.PCCNTR.9933820,unclear,False,True,Contratación directa,153400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4433021,individual_professional_ai,False,False,Contratación directa,21294662.0,3,3,1,1,166.0,64898017.0,0,76.0
+CO1.PCCNTR.8729085,incidental,False,True,Contratación Directa (con ofertas),139996717.0,1,1,1,0,32.0,139996717.0,0,31.0
+CO1.PCCNTR.8670193,unclear,False,True,Contratación directa,14634112.0,2,2,0,0,0.0,29268224.0,0,0.0
+CO1.PCCNTR.7489355,individual_professional_ai,False,False,Contratación directa,58800000.0,1,1,0,0,0.0,58800000.0,0,0.0
+CO1.PCCNTR.5441320,individual_professional_ai,False,False,Contratación directa,37966000.0,1,1,0,0,0.0,37966000.0,0,0.0
+CO1.PCCNTR.4574023,individual_professional_ai,False,False,Contratación directa,36153000.0,4,4,0,2,92.0,132561000.0,0,0.0
+CO1.PCCNTR.8025772,individual_professional_ai,False,False,Contratación directa,6600000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8696612,ai_product_or_platform,False,True,Mínima cuantía,71261819.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4569536,individual_professional_ai,False,False,Contratación directa,42178500.0,4,4,0,2,107.0,154654500.0,0,0.0
+CO1.PCCNTR.5434496,individual_professional_ai,False,False,Contratación directa,18416667.0,3,3,0,0,0.0,57416667.0,0,0.0
+CO1.PCCNTR.9123923,individual_professional_ai,False,False,Contratación directa,28424976.0,1,1,0,0,30.0,28424976.0,0,0.0
+CO1.PCCNTR.8359637,individual_professional_ai,False,False,Contratación directa,6155880.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7580417,individual_professional_ai,False,False,Contratación directa,54400000.0,5,5,0,1,95.0,265600000.0,0,32.0
+CO1.PCCNTR.7341370,individual_professional_ai,False,False,Contratación directa,12250000.0,1,1,0,0,0.0,12250000.0,0,0.0
+CO1.PCCNTR.7507656,individual_professional_ai,False,False,Contratación directa,58613333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6932081,individual_professional_ai,False,False,Contratación directa,54000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8983781,individual_professional_ai,False,False,Contratación directa,60827197.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9149193,ai_product_or_platform,False,True,Contratación directa,18300000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5423868,ai_development_service,False,True,Contratación régimen especial,350978616.0,4,4,0,0,285.0,1403914464.0,0,66.0
+CO1.PCCNTR.9129952,individual_professional_ai,False,False,Contratación directa,53104800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9245415,individual_professional_ai,False,False,Contratación directa,30000000.0,2,4,0,0,0.0,120000000.0,0,0.0
+CO1.PCCNTR.9184811,individual_professional_ai,False,False,Contratación directa,60000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6916180,incidental,False,True,Mínima cuantía,130000000.0,1,1,0,0,0.0,130000000.0,0,0.0
+CO1.PCCNTR.8581036,ai_development_service,False,True,Contratación Directa (con ofertas),10535000000.0,1,1,1,0,122.0,10535000000.0,0,122.0
+CO1.PCCNTR.7937022,incidental,False,True,Selección Abreviada de Menor Cuantía,116982237.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6403940,incidental,False,False,Contratación directa,91962500.0,1,1,0,0,0.0,91962500.0,0,0.0
+CO1.PCCNTR.9771849,individual_professional_ai,False,False,Contratación directa,39466667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5765687,individual_professional_ai,False,False,Contratación directa,41400000.0,1,1,0,0,0.0,41400000.0,0,0.0
+CO1.PCCNTR.8226219,individual_professional_ai,False,False,Contratación directa,33066666.0,3,3,0,0,15.0,99199998.0,0,0.0
+CO1.PCCNTR.8284213,individual_professional_ai,False,False,Contratación régimen especial,11154000.0,1,1,0,0,0.0,11154000.0,0,0.0
+CO1.PCCNTR.5570361,unclear,False,True,Contratación directa,29675625.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9725940,individual_professional_ai,False,False,Contratación régimen especial,53420913.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8536420,individual_professional_ai,False,False,Contratación régimen especial,11745400.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9918605,incidental,False,True,Contratación directa,49000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9857417,individual_professional_ai,False,False,Contratación directa,21829068.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7892042,individual_professional_ai,False,False,Contratación directa,19268683.0,1,1,0,0,0.0,19268683.0,0,0.0
+CO1.PCCNTR.8581226,ai_product_or_platform,False,True,Contratación Directa (con ofertas),320000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8266732,incidental,False,True,Mínima cuantía,1799994.0,4,4,0,0,0.0,7199976.0,2,0.0
+CO1.PCCNTR.6359105,individual_professional_ai,False,False,Contratación directa,16800000.0,2,2,0,0,0.0,33600000.0,0,0.0
+CO1.PCCNTR.7903483,individual_professional_ai,False,False,Contratación directa,30240000.0,1,1,0,0,0.0,30240000.0,0,0.0
+CO1.PCCNTR.7423901,individual_professional_ai,False,False,Contratación directa,62164800.0,2,2,1,1,86.0,124329600.0,0,0.0
+CO1.PCCNTR.8797043,ai_product_or_platform,False,True,Contratación directa,28342710.0,3,3,2,2,124.0,72431370.0,0,77.0
+CO1.PCCNTR.8403175,individual_professional_ai,False,False,Contratación directa,27256000.0,1,1,0,0,0.0,27256000.0,0,0.0
+CO1.PCCNTR.9189020,individual_professional_ai,False,False,Contratación directa,22800000.0,1,1,0,0,0.0,22800000.0,0,0.0
+CO1.PCCNTR.8517066,individual_professional_ai,False,False,Contratación régimen especial,95368898.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9825283,incidental,False,True,Mínima cuantía,156239492.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9055529,incidental,False,False,Contratación directa,7125000.0,1,1,1,1,29.0,7125000.0,0,29.0
+CO1.PCCNTR.9249490,ai_product_or_platform,True,True,Contratación directa,126000000.0,1,1,0,0,0.0,126000000.0,0,0.0
+CO1.PCCNTR.9069023,individual_professional_ai,False,False,Contratación régimen especial,122975700.0,5,5,0,1,0.0,614878500.0,0,0.0
+CO1.PCCNTR.7280120,individual_professional_ai,False,False,Contratación régimen especial,198710866.0,1,1,0,0,31.0,198710866.0,0,31.0
+CO1.PCCNTR.8854090,individual_professional_ai,False,False,Contratación directa,104500000.0,1,1,0,0,9.0,104500000.0,0,8.0
+CO1.PCCNTR.9893176,incidental,False,True,Contratación régimen especial (con ofertas),2428571429.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8150704,individual_professional_ai,False,False,Contratación directa,45760000.0,2,2,0,0,0.0,91520000.0,0,0.0
+CO1.PCCNTR.5328036,individual_professional_ai,False,False,Contratación directa,26748000.0,1,1,0,1,16.0,26748000.0,0,16.0
+CO1.PCCNTR.8341174,individual_professional_ai,False,False,Contratación directa,6155880.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8121227,ai_development_service,False,True,Contratación régimen especial,932148875.0,2,2,0,1,259.0,1851797750.0,0,197.0
+CO1.PCCNTR.8188293,incidental,False,True,Contratación directa,53550000.0,2,2,0,0,0.0,107100000.0,0,0.0
+CO1.PCCNTR.6048987,individual_professional_ai,False,False,Contratación directa,13119320.0,2,2,0,0,0.0,26238640.0,0,0.0
+CO1.PCCNTR.8043401,unclear,False,True,Contratación Directa (con ofertas),29584088.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6601004,individual_professional_ai,False,False,Contratación directa,14000000.0,1,1,0,0,0.0,14000000.0,0,0.0
+CO1.PCCNTR.8510222,ai_development_service,False,True,Mínima cuantía,49984000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6594110,incidental,False,True,Contratación directa,56491384890.0,2,2,1,0,122.0,110628390639.0,0,0.0
+CO1.PCCNTR.9191400,individual_professional_ai,False,False,Contratación directa,155616935.83,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9765888,individual_professional_ai,False,False,Contratación directa,23568430.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6385088,individual_professional_ai,False,False,Contratación directa,32754000.0,1,1,0,0,0.0,32754000.0,0,0.0
+CO1.PCCNTR.6455023,individual_professional_ai,False,False,Contratación directa,6000000.0,1,1,0,0,0.0,6000000.0,0,0.0
+CO1.PCCNTR.6720414,unclear,False,True,Contratación directa,132268500.0,3,3,0,0,0.0,396805500.0,0,0.0
+CO1.PCCNTR.8899826,individual_professional_ai,False,False,Contratación directa,48915300.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9162209,individual_professional_ai,False,False,Contratación directa,155616935.83,1,1,0,0,0.0,155616935.83,0,0.0
+CO1.PCCNTR.9562287,ai_product_or_platform,False,True,Contratación régimen especial,76000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5119287,incidental,False,True,Contratación Directa (con ofertas),452605970.0,3,3,0,0,0.0,1357817910.0,0,0.0
+CO1.PCCNTR.8355862,individual_professional_ai,False,False,Contratación directa,6000000.0,2,2,0,0,0.0,12000000.0,0,0.0
+CO1.PCCNTR.6191584,incidental,False,True,Mínima cuantía,27140000.0,1,1,0,0,0.0,27140000.0,0,0.0
+CO1.PCCNTR.9715062,incidental,False,True,Selección Abreviada de Menor Cuantía,117801746.12,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8953186,individual_professional_ai,False,False,Contratación directa,72870168.0,2,2,1,1,104.0,145740336.0,0,104.0
+CO1.PCCNTR.8631577,unclear,False,True,Contratación directa,2899046507.82,1,1,1,1,92.0,2899046507.82,0,92.0
+CO1.PCCNTR.7309825,individual_professional_ai,False,False,Contratación régimen especial,119748939.0,1,1,0,0,31.0,119748939.0,0,31.0
+CO1.PCCNTR.7209732,individual_professional_ai,False,False,Contratación régimen especial,106124791.0,1,1,0,0,0.0,106124791.0,0,0.0
+CO1.PCCNTR.9792828,ai_development_service,False,True,Contratación régimen especial,50000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4391708,individual_professional_ai,False,False,Contratación directa,164661000.0,5,5,0,0,0.0,861987266.0,4,0.0
+CO1.PCCNTR.9719175,individual_professional_ai,False,False,Contratación directa,14014000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7396688,individual_professional_ai,False,False,Contratación directa,67047333.0,1,1,0,0,0.0,67047333.0,0,0.0
+CO1.PCCNTR.4542745,individual_professional_ai,False,False,Contratación directa,99000000.0,1,1,0,0,0.0,99000000.0,0,0.0
+CO1.PCCNTR.8484906,ai_product_or_platform,True,True,Contratación directa,27927000.0,3,3,0,0,47.0,83781000.0,2,47.0
+CO1.PCCNTR.9176000,individual_professional_ai,False,False,Contratación directa,56100000.0,3,3,0,0,0.0,168300000.0,0,0.0
+CO1.PCCNTR.8899824,individual_professional_ai,False,False,Contratación directa,103400000.0,1,1,0,0,0.0,103400000.0,0,0.0
+CO1.PCCNTR.9268560,individual_professional_ai,False,False,Contratación directa,24750000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5728919,individual_professional_ai,False,False,Contratación directa,80500000.0,1,1,0,0,0.0,80500000.0,0,0.0
+CO1.PCCNTR.6404553,individual_professional_ai,False,False,Contratación directa,72000000.0,1,1,0,0,0.0,72000000.0,0,0.0
+CO1.PCCNTR.5904319,individual_professional_ai,False,False,Contratación directa,90181600.0,1,1,0,0,0.0,90181600.0,0,0.0
+CO1.PCCNTR.9119288,individual_professional_ai,False,False,Contratación directa,65748800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9219175,incidental,False,False,Contratación directa,66699996.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7881435,individual_professional_ai,False,False,Contratación directa,12500000.0,3,3,0,0,0.0,37500000.0,0,0.0
+CO1.PCCNTR.8740612,incidental,False,True,Mínima cuantía,38043160.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8517315,individual_professional_ai,False,False,Contratación régimen especial,95368898.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6480045,ai_product_or_platform,False,True,Contratación directa,533092728.0,2,2,0,0,126.0,985755612.0,0,63.0
+CO1.PCCNTR.9086351,incidental,False,False,Contratación directa,66699996.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8806874,individual_professional_ai,False,False,Contratación directa,110000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9304598,individual_professional_ai,False,False,Contratación directa,10000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7062218,incidental,False,True,Mínima cuantía,7320728.0,1,1,0,0,0.0,7320728.0,0,0.0
+CO1.PCCNTR.8257009,ai_development_service,False,True,Mínima cuantía,39800000.0,2,2,0,0,0.0,79600000.0,0,0.0
+CO1.PCCNTR.8998946,individual_professional_ai,False,False,Contratación directa,39160515.0,1,1,0,0,0.0,39160515.0,0,0.0
+CO1.PCCNTR.9922808,individual_professional_ai,False,False,Contratación directa,14572184.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9705237,ai_development_service,False,True,Contratación Directa (con ofertas),15000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7826117,unclear,False,True,Contratación directa,100000000.0,1,1,0,0,61.0,100000000.0,0,114.0
+CO1.PCCNTR.9085421,individual_professional_ai,False,False,Contratación directa,108000000.0,1,1,0,1,65.0,108000000.0,0,65.0
+CO1.PCCNTR.5286300,individual_professional_ai,False,False,Contratación directa,38224280.0,1,1,0,0,0.0,38224280.0,0,0.0
+CO1.PCCNTR.7896089,individual_professional_ai,False,False,Contratación directa,22000000.0,2,2,1,1,40.0,44000000.0,0,0.0
+CO1.PCCNTR.8895104,individual_professional_ai,False,False,Contratación directa,146086500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7977144,individual_professional_ai,False,False,Contratación directa,43200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6617836,individual_professional_ai,False,False,Contratación directa,28600000.0,3,3,0,1,34.0,91800000.0,2,0.0
+CO1.PCCNTR.8945198,individual_professional_ai,False,False,Contratación directa,57569280.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9252058,incidental,False,True,Contratación directa,40000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8193521,incidental,False,False,Contratación directa,23010000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8305028,incidental,False,True,Contratación directa,834384400.0,1,1,0,0,0.0,834384400.0,0,0.0
+CO1.PCCNTR.8132922,incidental,False,True,Contratación directa,27820000.0,2,2,0,0,0.0,55640000.0,0,0.0
+CO1.PCCNTR.6944153,incidental,False,True,Contratación directa,62424000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9261364,individual_professional_ai,False,False,Contratación directa,34413600.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7975035,individual_professional_ai,False,False,Contratación directa,57418200.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9139814,individual_professional_ai,False,False,Contratación directa,91640000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9065196,individual_professional_ai,False,False,Contratación directa,84000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9059166,incidental,False,False,Contratación directa,6916667.0,2,2,1,1,26.0,11666667.0,0,26.0
+CO1.PCCNTR.8594018,individual_professional_ai,False,False,Contratación directa,3696000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5942743,individual_professional_ai,False,False,Contratación directa,25272000.0,2,2,0,0,0.0,50544000.0,0,0.0
+CO1.PCCNTR.9675107,ai_product_or_platform,False,True,Mínima cuantía,14657096.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7698619,individual_professional_ai,False,False,Contratación directa,15200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7545543,individual_professional_ai,False,False,Contratación directa,187200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6776698,individual_professional_ai,False,False,Contratación directa,11560000.0,2,2,0,1,12.0,23120000.0,0,0.0
+CO1.PCCNTR.6377449,individual_professional_ai,False,False,Contratación directa,82800000.0,1,1,0,0,0.0,82800000.0,0,0.0
+CO1.PCCNTR.8142578,individual_professional_ai,False,False,Contratación directa,74000000.0,3,3,0,0,14.0,238000000.0,0,0.0
+CO1.PCCNTR.6953440,ai_development_service,False,True,Contratación directa,200000000.0,2,2,0,0,0.0,400000000.0,0,0.0
+CO1.PCCNTR.7673078,individual_professional_ai,False,False,Contratación directa,52826666.0,1,1,0,0,0.0,52826666.0,0,0.0
+CO1.PCCNTR.6594914,individual_professional_ai,False,False,Contratación directa,3600000.0,1,1,0,0,0.0,3600000.0,0,0.0
+CO1.PCCNTR.9680441,incidental,False,True,Contratación Directa (con ofertas),249999913.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6478826,individual_professional_ai,False,False,Contratación directa,36172968.0,1,1,0,0,0.0,36172968.0,0,0.0
+CO1.PCCNTR.8309060,unclear,False,True,Contratación directa,0.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6475838,ai_product_or_platform,True,True,Contratación Directa (con ofertas),589168000.0,2,2,0,0,0.0,1178336000.0,0,0.0
+CO1.PCCNTR.7037705,ai_product_or_platform,False,True,Contratación régimen especial,389102734.0,1,1,0,0,0.0,389102734.0,0,0.0
+CO1.PCCNTR.6492276,individual_professional_ai,False,False,Contratación directa,18900000.0,1,1,0,0,0.0,18900000.0,0,0.0
+CO1.PCCNTR.9770309,individual_professional_ai,False,False,Contratación directa,20435000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7234571,individual_professional_ai,False,False,Contratación directa,98077200.0,1,1,0,0,0.0,98077200.0,0,0.0
+CO1.PCCNTR.8606936,ai_development_service,False,True,Mínima cuantía,60550000.0,3,3,1,0,180.0,181650000.0,0,90.0
+CO1.PCCNTR.7335105,individual_professional_ai,False,False,Contratación directa,122638549.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8896282,individual_professional_ai,False,False,Contratación directa,84818440.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7205039,individual_professional_ai,False,False,Contratación régimen especial,124409816.0,1,1,1,1,31.0,124409816.0,0,31.0
+CO1.PCCNTR.7641399,incidental,False,True,Contratación Directa (con ofertas),129948000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9922584,individual_professional_ai,False,False,Contratación directa,14572184.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6645319,individual_professional_ai,False,False,Contratación directa,25913333.0,2,2,0,0,0.0,51826666.0,0,0.0
+CO1.PCCNTR.7293096,individual_professional_ai,False,False,Contratación directa,132951500.0,1,1,0,0,0.0,132951500.0,0,0.0
+CO1.PCCNTR.4545618,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,1,2,62.0,126535500.0,0,0.0
+CO1.PCCNTR.6958690,incidental,False,False,Contratación directa,7600000.0,1,1,0,0,0.0,7600000.0,0,0.0
+CO1.PCCNTR.8918963,individual_professional_ai,False,False,Contratación directa,93569750.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7489052,individual_professional_ai,False,False,Contratación directa,58800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6084251,individual_professional_ai,False,False,Contratación régimen especial,144249600.0,1,1,0,0,0.0,144249600.0,0,0.0
+CO1.PCCNTR.8887005,individual_professional_ai,False,False,Contratación directa,106894294.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9156485,individual_professional_ai,False,False,Contratación directa,66699996.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9928393,ai_product_or_platform,False,True,Contratación directa,27500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6401081,individual_professional_ai,False,False,Contratación régimen especial,27333333.0,1,1,0,0,0.0,27333333.0,0,0.0
+CO1.PCCNTR.9826380,individual_professional_ai,False,False,Contratación directa,12887673.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8520398,ai_development_service,False,True,Contratación directa,65440000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7313035,incidental,False,False,Contratación régimen especial,119390410.0,1,1,0,0,31.0,119390410.0,0,31.0
+CO1.PCCNTR.8502314,individual_professional_ai,False,False,Contratación directa,2167200.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9011274,individual_professional_ai,False,False,Contratación directa,184000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8143797,individual_professional_ai,False,False,Contratación directa,20240000.0,1,1,0,0,0.0,20240000.0,0,0.0
+CO1.PCCNTR.8335794,ai_development_service,False,True,Contratación directa,388000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9780834,individual_professional_ai,False,False,Contratación directa,10400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7766441,ai_development_service,False,True,Contratación directa,98500000.0,1,1,0,0,0.0,98500000.0,0,0.0
+CO1.PCCNTR.7708646,individual_professional_ai,False,False,Contratación directa,60000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9262188,individual_professional_ai,False,False,Contratación directa,95981580.0,1,1,0,0,0.0,95981580.0,0,0.0
+CO1.PCCNTR.6492473,individual_professional_ai,False,False,Contratación directa,11219181.0,2,2,0,0,0.0,35260283.0,0,0.0
+CO1.PCCNTR.8836602,individual_professional_ai,False,False,Contratación directa,76475000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9291015,incidental,False,True,Contratación directa,40000000.0,3,3,0,0,31.0,120000000.0,0,31.0
+CO1.PCCNTR.7531105,individual_professional_ai,False,False,Contratación directa,32980000.0,3,3,0,2,291.0,98940000.0,0,97.0
+CO1.PCCNTR.8340573,individual_professional_ai,False,False,Contratación directa,42000000.0,1,1,0,0,0.0,42000000.0,0,0.0
+CO1.PCCNTR.9033829,individual_professional_ai,False,False,Contratación directa,66699996.0,1,1,0,0,0.0,66699996.0,0,0.0
+CO1.PCCNTR.7873264,ai_product_or_platform,True,True,Mínima cuantía,7436086.0,1,1,0,0,0.0,7436086.0,0,0.0
+CO1.PCCNTR.4578228,individual_professional_ai,False,False,Contratación directa,4326667.0,2,2,0,0,0.0,8653334.0,0,0.0
+CO1.PCCNTR.7155629,ai_development_service,False,True,Contratación directa,152462800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7437119,ai_product_or_platform,False,True,Contratación directa,558623423.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4583325,individual_professional_ai,False,False,Contratación directa,36153000.0,4,4,0,2,92.0,132561000.0,0,0.0
+CO1.PCCNTR.9089130,individual_professional_ai,False,False,Contratación directa,39727800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4551702,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.8472553,individual_professional_ai,False,False,Contratación directa,2462352.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4551705,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,1,63.0,126535500.0,0,0.0
+CO1.PCCNTR.9186184,individual_professional_ai,False,False,Contratación directa,61617000.0,1,1,1,1,97.0,61617000.0,0,97.0
+CO1.PCCNTR.6178531,ai_development_service,True,True,Contratación directa,460000000.0,4,4,2,1,93.0,1780000000.0,0,0.0
+CO1.PCCNTR.6201801,ai_product_or_platform,False,True,Mínima cuantía,30400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7779264,incidental,False,True,Contratación régimen especial,0.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5413860,individual_professional_ai,False,False,Contratación directa,39583333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6606598,individual_professional_ai,False,False,Contratación directa,70471368.0,1,1,0,0,0.0,70471368.0,0,0.0
+CO1.PCCNTR.9270109,individual_professional_ai,False,False,Contratación régimen especial,178133333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8039242,incidental,False,False,Contratación directa,25470717.0,1,1,0,0,0.0,25470717.0,0,0.0
+CO1.PCCNTR.7593725,individual_professional_ai,False,False,Contratación directa,42713333.0,1,1,0,0,0.0,42713333.0,0,0.0
+CO1.PCCNTR.8840887,individual_professional_ai,False,False,Contratación directa,34256000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8268347,ai_development_service,False,True,Contratación régimen especial,875005810.0,3,3,0,0,178.0,2625017430.0,0,89.0
+CO1.PCCNTR.8190564,unclear,False,True,Contratación directa,14043866056.0,1,1,0,1,0.0,14043866056.0,0,0.0
+CO1.PCCNTR.8461721,unclear,False,True,Concurso de méritos abierto,280155174.0,1,1,0,0,0.0,280155174.0,0,0.0
+CO1.PCCNTR.8985530,individual_professional_ai,False,False,Contratación directa,72000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9063484,individual_professional_ai,False,False,Contratación régimen especial,201055534.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9259151,individual_professional_ai,False,False,Contratación directa,13728000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6446111,individual_professional_ai,False,False,Contratación directa,25751310.0,1,1,0,0,0.0,25751310.0,0,0.0
+CO1.PCCNTR.8350103,individual_professional_ai,False,False,Contratación directa,9600000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8337744,incidental,False,False,Contratación directa,3566667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7310850,individual_professional_ai,False,False,Contratación régimen especial,119748939.0,1,1,0,0,31.0,119748939.0,0,31.0
+CO1.PCCNTR.7457680,individual_professional_ai,False,False,Contratación directa,121900000.0,4,4,0,0,80.0,487600000.0,0,0.0
+CO1.PCCNTR.8168565,individual_professional_ai,False,False,Contratación directa,37500000.0,1,1,0,0,0.0,37500000.0,0,0.0
+CO1.PCCNTR.7601277,individual_professional_ai,False,False,Contratación directa,9000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9719922,unclear,False,True,Contratación directa,100000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9605741,incidental,False,True,Contratación directa,51620000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8204113,unclear,False,True,Contratación Directa (con ofertas),280000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8361074,individual_professional_ai,False,False,Contratación directa,25333333.0,3,3,0,0,0.0,75999999.0,0,0.0
+CO1.PCCNTR.7047594,ai_product_or_platform,False,True,Contratación directa,225019260.0,1,1,0,0,0.0,225019260.0,0,0.0
+CO1.PCCNTR.8910507,individual_professional_ai,False,False,Contratación régimen especial,124051264.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9124654,individual_professional_ai,False,False,Contratación directa,14250000.0,1,1,1,1,29.0,14250000.0,0,29.0
+CO1.PCCNTR.9074888,individual_professional_ai,False,False,Contratación directa,69010000.0,1,1,0,0,0.0,69010000.0,0,0.0
+CO1.PCCNTR.9081214,individual_professional_ai,False,False,Contratación directa,56000002.0,2,2,0,0,0.0,112500005.0,0,0.0
+CO1.PCCNTR.9981535,individual_professional_ai,False,False,Contratación directa,36000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5744775,individual_professional_ai,False,False,Contratación directa,144900000.0,1,1,0,0,0.0,144900000.0,0,0.0
+CO1.PCCNTR.7597292,individual_professional_ai,False,False,Contratación directa,93430064.0,4,4,0,0,0.0,385160672.0,0,0.0
+CO1.PCCNTR.7497493,individual_professional_ai,False,False,Contratación directa,88284000.0,1,1,0,0,0.0,88284000.0,0,0.0
+CO1.PCCNTR.7525821,individual_professional_ai,False,False,Contratación directa,43782750.0,1,1,0,0,0.0,43782750.0,0,0.0
+CO1.PCCNTR.9720626,ai_product_or_platform,False,True,Contratación régimen especial,260000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7699371,individual_professional_ai,False,False,Contratación régimen especial,10000000.0,5,5,2,0,9.0,50000000.0,0,0.0
+CO1.PCCNTR.9011608,individual_professional_ai,False,False,Contratación directa,71500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8472566,individual_professional_ai,False,False,Contratación directa,4309116.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6187756,individual_professional_ai,False,False,Contratación directa,54054000.0,2,2,0,0,0.0,108108000.0,0,0.0
+CO1.PCCNTR.4908442,individual_professional_ai,False,False,Contratación directa,30750000.0,1,1,0,0,0.0,30750000.0,0,0.0
+CO1.PCCNTR.8195276,individual_professional_ai,False,False,Contratación directa,70266667.0,2,2,0,0,0.0,140533334.0,0,0.0
+CO1.PCCNTR.9899701,incidental,False,True,Contratación directa,61592000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8155835,incidental,False,False,Contratación directa,37500000.0,1,1,0,0,0.0,37500000.0,0,0.0
+CO1.PCCNTR.8678234,unclear,False,True,Contratación directa,79525000.0,1,1,0,0,0.0,79525000.0,0,0.0
+CO1.PCCNTR.8255967,individual_professional_ai,False,False,Contratación directa,42392000.0,1,1,0,0,0.0,42392000.0,0,0.0
+CO1.PCCNTR.9932439,individual_professional_ai,False,False,Contratación directa,40000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7478637,individual_professional_ai,False,False,Contratación directa,26568178.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9781673,incidental,False,False,Contratación directa,30000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7340231,individual_professional_ai,False,False,Contratación directa,55337633.0,2,2,1,1,152.0,110675266.0,0,76.0
+CO1.PCCNTR.8339783,unclear,False,True,Licitación pública,2844029092.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4886919,ai_product_or_platform,False,True,Contratación régimen especial (con ofertas),510837089.0,3,3,0,0,0.0,1409017320.0,0,0.0
+CO1.PCCNTR.7556113,individual_professional_ai,False,False,Contratación directa,78825000.0,1,1,0,0,0.0,78825000.0,0,0.0
+CO1.PCCNTR.9259688,individual_professional_ai,False,False,Contratación directa,28424976.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9106460,individual_professional_ai,False,False,Contratación directa,70606666.0,1,1,0,0,0.0,70606666.0,0,0.0
+CO1.PCCNTR.7424524,individual_professional_ai,False,False,Contratación directa,209396000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8573192,incidental,False,True,Contratación régimen especial,5362318841.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6500247,individual_professional_ai,False,False,Contratación directa,36000000.0,1,1,0,0,0.0,36000000.0,0,0.0
+CO1.PCCNTR.7879313,incidental,False,True,Contratación directa,40000000.0,1,1,0,0,0.0,40000000.0,0,0.0
+CO1.PCCNTR.4396521,individual_professional_ai,False,False,Contratación directa,130591125.0,3,3,0,0,0.0,391773375.0,0,0.0
+CO1.PCCNTR.7966543,ai_development_service,False,True,Contratación directa,6035744636.0,5,5,0,2,98.0,30178723180.0,0,0.0
+CO1.PCCNTR.7775631,incidental,False,True,Contratación Directa (con ofertas),129948000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7785678,unclear,False,True,Contratación directa,370205000.0,1,1,0,0,70.0,370205000.0,0,70.0
+CO1.PCCNTR.8466080,incidental,False,True,Mínima cuantía,36509800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5079688,individual_professional_ai,False,False,Contratación directa,62412000.0,2,2,0,2,61.0,104020000.0,0,61.0
+CO1.PCCNTR.9657640,incidental,False,True,Contratación régimen especial,14036000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8336187,individual_professional_ai,False,False,Contratación directa,28000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8919993,individual_professional_ai,False,False,Contratación régimen especial,124051264.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7655924,individual_professional_ai,False,False,Contratación directa,97166667.0,4,4,1,1,36.0,376300001.0,0,0.0
+CO1.PCCNTR.8977457,individual_professional_ai,False,False,Contratación directa,34256000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9591024,ai_product_or_platform,False,True,Contratación directa,29280000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7131695,incidental,False,True,Contratación régimen especial,117941527.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9870296,individual_professional_ai,False,False,Contratación directa,30000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8889678,individual_professional_ai,False,False,Contratación directa,86785242.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6110477,ai_development_service,False,True,Contratación régimen especial,2800000000.0,6,6,2,0,214.0,16800000000.0,0,0.0
+CO1.PCCNTR.9077123,individual_professional_ai,False,False,Contratación directa,105167380.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7878542,individual_professional_ai,False,False,Contratación directa,59200000.0,2,2,0,0,0.0,123200000.0,0,0.0
+CO1.PCCNTR.9972452,ai_development_service,False,True,Contratación Directa (con ofertas),300000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7263824,incidental,False,False,Contratación régimen especial,121900113.0,1,1,0,0,31.0,121900113.0,0,31.0
+CO1.PCCNTR.8765131,individual_professional_ai,False,False,Contratación directa,90000000.0,1,1,0,0,0.0,90000000.0,0,0.0
+CO1.PCCNTR.8575984,individual_professional_ai,False,False,Contratación directa,16366672.0,1,1,0,0,2.0,16366672.0,0,2.0
+CO1.PCCNTR.7673105,individual_professional_ai,False,False,Contratación directa,13626666.0,1,1,0,0,0.0,13626666.0,0,0.0
+CO1.PCCNTR.8536408,ai_development_service,False,True,Contratación directa,150000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9067687,individual_professional_ai,False,False,Contratación directa,108778500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6480641,unclear,False,True,Contratación Directa (con ofertas),99487398.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7677769,individual_professional_ai,False,False,Contratación directa,65000000.0,1,1,0,0,0.0,65000000.0,0,0.0
+CO1.PCCNTR.6379410,individual_professional_ai,False,False,Contratación directa,98432040.0,1,1,0,0,0.0,98432040.0,0,0.0
+CO1.PCCNTR.9070705,individual_professional_ai,False,False,Contratación directa,69628000.0,1,1,0,0,0.0,69628000.0,0,0.0
+CO1.PCCNTR.7377642,individual_professional_ai,True,False,Contratación directa,77160000.0,1,1,0,0,0.0,77160000.0,0,0.0
+CO1.PCCNTR.8302359,ai_product_or_platform,False,True,Contratación directa,11835647.0,1,1,0,0,0.0,11835647.0,0,0.0
+CO1.PCCNTR.6091786,individual_professional_ai,False,False,Contratación directa,115832898.0,1,1,0,0,0.0,115832898.0,0,0.0
+CO1.PCCNTR.9811710,incidental,False,False,Contratación directa,28000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7694459,individual_professional_ai,True,False,Contratación directa,70350000.0,2,2,0,0,0.0,140700000.0,0,0.0
+CO1.PCCNTR.7528545,individual_professional_ai,False,False,Contratación directa,51030000.0,2,2,0,0,2.0,102060000.0,0,2.0
+CO1.PCCNTR.8965020,individual_professional_ai,False,False,Contratación directa,138000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9626849,ai_development_service,False,True,Contratación directa,268838000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6407901,individual_professional_ai,False,False,Contratación directa,70000000.0,1,1,0,0,0.0,70000000.0,0,0.0
+CO1.PCCNTR.7481045,individual_professional_ai,False,False,Contratación directa,54833333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6646895,unclear,False,True,Contratación directa,330000000.0,1,1,0,0,0.0,330000000.0,0,0.0
+CO1.PCCNTR.8616017,incidental,False,True,Contratación Directa (con ofertas),31100000.0,2,2,0,0,0.0,62200000.0,0,0.0
+CO1.PCCNTR.6562067,individual_professional_ai,False,False,Contratación directa,42133333.0,1,1,0,0,0.0,42133333.0,0,0.0
+CO1.PCCNTR.9582352,incidental,False,True,Mínima cuantía,28400000.0,3,3,2,0,42.0,85200000.0,0,29.0
+CO1.PCCNTR.9185704,incidental,False,True,Contratación directa,267750000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7943612,individual_professional_ai,False,False,Contratación directa,41886667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7998442,incidental,False,True,Contratación directa,13500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9310251,individual_professional_ai,False,False,Contratación directa,35169088.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8160537,incidental,False,True,Mínima cuantía,4153576.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7892153,individual_professional_ai,False,False,Contratación directa,30240000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7513791,individual_professional_ai,False,False,Contratación directa,105100000.0,1,1,0,0,0.0,105100000.0,0,0.0
+CO1.PCCNTR.4567019,individual_professional_ai,False,False,Contratación directa,36650652.0,5,5,0,0,123.0,158819492.0,0,0.0
+CO1.PCCNTR.5621629,incidental,False,True,Contratación directa,331765913.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6795741,ai_development_service,False,True,Contratación régimen especial,1540124603.93,4,4,2,0,73.0,8645193329.86,0,10.0
+CO1.PCCNTR.9013679,ai_product_or_platform,False,True,Contratación directa,508264141.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9087497,individual_professional_ai,False,False,Contratación directa,62898000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9045688,individual_professional_ai,False,False,Contratación directa,128418466.0,3,3,0,0,0.0,386364730.0,0,0.0
+CO1.PCCNTR.6478198,individual_professional_ai,False,False,Contratación directa,36172968.0,1,1,0,0,0.0,36172968.0,0,0.0
+CO1.PCCNTR.8921250,individual_professional_ai,False,False,Contratación régimen especial,124051264.0,2,2,0,0,0.0,248102528.0,73,0.0
+CO1.PCCNTR.8523659,individual_professional_ai,False,False,Contratación directa,21470000.0,2,2,0,0,0.0,42940000.0,0,0.0
+CO1.PCCNTR.5748886,individual_professional_ai,False,False,Contratación directa,114000000.0,1,1,0,0,0.0,114000000.0,0,0.0
+CO1.PCCNTR.6020821,ai_product_or_platform,False,True,Contratación régimen especial,20007000.0,2,2,0,0,31.0,40014000.0,0,0.0
+CO1.PCCNTR.8334190,incidental,False,True,Contratación Directa (con ofertas),279996900.0,1,1,0,0,0.0,279996900.0,0,0.0
+CO1.PCCNTR.5060954,individual_professional_ai,False,False,Contratación directa,27743333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8654965,incidental,False,True,Contratación directa,151312140.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8963281,individual_professional_ai,False,False,Contratación directa,18000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5961954,incidental,False,False,Contratación directa,16800000.0,1,1,0,0,0.0,16800000.0,0,0.0
+CO1.PCCNTR.5983270,individual_professional_ai,False,False,Contratación directa,92700000.0,1,1,0,0,0.0,92700000.0,0,0.0
+CO1.PCCNTR.9867345,individual_professional_ai,False,False,Contratación directa,17996000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8548962,incidental,False,True,Contratación directa,4230000.0,1,1,0,0,0.0,4230000.0,0,0.0
+CO1.PCCNTR.8909753,ai_development_service,False,True,Contratación directa,1200000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8166488,individual_professional_ai,False,False,Contratación directa,60000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5700619,incidental,False,True,Contratación directa,1190000000.0,1,1,1,1,31.0,1190000000.0,0,31.0
+CO1.PCCNTR.7148836,incidental,False,True,Contratación régimen especial,311447618.0,6,6,1,0,670.0,1868685708.0,17,0.0
+CO1.PCCNTR.4869972,individual_professional_ai,False,False,Contratación directa,23776000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5526127,ai_product_or_platform,False,True,Selección Abreviada de Menor Cuantía,399500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8365352,individual_professional_ai,False,False,Contratación directa,17783333.0,1,1,0,0,0.0,17783333.0,0,0.0
+CO1.PCCNTR.7879071,ai_product_or_platform,False,True,Contratación directa,4140156.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9975048,ai_development_service,False,True,Contratación directa,715646960.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7819723,individual_professional_ai,False,False,Contratación régimen especial,61069569.0,1,1,0,0,0.0,61069569.0,0,0.0
+CO1.PCCNTR.9919018,individual_professional_ai,False,False,Contratación directa,44000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9886818,incidental,False,True,Contratación directa,120000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5440899,individual_professional_ai,False,False,Contratación directa,17333333.0,2,2,0,0,0.0,34666666.0,0,0.0
+CO1.PCCNTR.8913858,individual_professional_ai,False,False,Contratación directa,138000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4543093,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,1,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.9824046,incidental,False,False,Contratación directa,9378000.0,1,1,0,0,0.0,9378000.0,11,0.0
+CO1.PCCNTR.8528771,incidental,False,True,Contratación directa,35743300.0,3,3,0,0,0.0,107229900.0,0,0.0
+CO1.PCCNTR.4444613,ai_development_service,False,True,Contratación régimen especial,85836855.0,3,3,0,1,91.0,265899855.0,0,0.0
+CO1.PCCNTR.9616603,unclear,False,True,Contratación directa,13000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7779062,individual_professional_ai,False,False,Contratación directa,10000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5445647,individual_professional_ai,False,False,Contratación directa,17333333.0,2,2,0,0,0.0,34666666.0,0,0.0
+CO1.PCCNTR.7371440,individual_professional_ai,False,False,Contratación directa,73774800.0,2,2,0,0,15.0,147549600.0,0,0.0
+CO1.PCCNTR.9898301,incidental,False,True,Selección abreviada subasta inversa,154649249.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7327156,individual_professional_ai,False,False,Contratación directa,111666665.0,1,1,0,0,0.0,111666665.0,0,0.0
+CO1.PCCNTR.6835794,incidental,False,False,Contratación directa,10386666.0,1,1,0,0,0.0,10386666.0,0,0.0
+CO1.PCCNTR.8975592,individual_professional_ai,False,False,Contratación directa,42569370.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9946617,incidental,False,True,Contratación directa,20000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6610632,individual_professional_ai,False,False,Contratación directa,15261246.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8835059,individual_professional_ai,False,False,Contratación directa,116550000.0,1,1,0,0,0.0,116550000.0,0,0.0
+CO1.PCCNTR.9806147,incidental,False,False,Contratación directa,6230000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4547351,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.4575628,ai_development_service,False,True,Contratación Directa (con ofertas),661389000.0,1,1,0,0,103.0,661389000.0,0,103.0
+CO1.PCCNTR.9082667,individual_professional_ai,False,False,Contratación directa,138432000.0,1,1,0,0,0.0,138432000.0,0,0.0
+CO1.PCCNTR.6921826,ai_development_service,False,True,Contratación directa,5400000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6602162,individual_professional_ai,False,False,Contratación directa,58400000.0,2,2,0,0,0.0,116985992.0,0,0.0
+CO1.PCCNTR.6880448,ai_development_service,False,True,Selección Abreviada de Menor Cuantía,407300644.0,2,2,0,0,90.0,814601288.0,0,0.0
+CO1.PCCNTR.8391484,ai_product_or_platform,False,True,Mínima cuantía,43500000.0,2,2,2,0,36.0,87000000.0,0,21.0
+CO1.PCCNTR.5556914,ai_product_or_platform,False,True,Selección abreviada subasta inversa,149900000.0,3,3,0,0,0.0,449700000.0,0,0.0
+CO1.PCCNTR.8914506,individual_professional_ai,False,False,Contratación directa,86534418.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7015963,individual_professional_ai,False,False,Contratación directa,7400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8960580,individual_professional_ai,False,False,Contratación directa,66699996.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8338346,individual_professional_ai,False,False,Contratación directa,8655000.0,1,1,0,0,0.0,8655000.0,0,0.0
+CO1.PCCNTR.5209818,individual_professional_ai,False,False,Contratación directa,42785167.0,2,2,0,2,100.0,85570334.0,0,50.0
+CO1.PCCNTR.9055783,individual_professional_ai,False,False,Contratación régimen especial,122975700.0,2,2,0,0,0.0,245951400.0,22,0.0
+CO1.PCCNTR.5632926,individual_professional_ai,False,False,Contratación régimen especial,4200000.0,5,5,0,0,0.0,21000000.0,0,0.0
+CO1.PCCNTR.8695707,incidental,False,False,Contratación directa,7000000.0,2,2,0,0,0.0,14000000.0,0,0.0
+CO1.PCCNTR.8940570,individual_professional_ai,False,False,Contratación directa,108000000.0,1,1,1,1,60.0,108000000.0,0,60.0
+CO1.PCCNTR.6589967,incidental,False,True,Contratación Directa (con ofertas),686200000.0,2,2,1,0,89.0,1372400000.0,0,89.0
+CO1.PCCNTR.5076496,individual_professional_ai,False,False,Contratación directa,52266672.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8902346,individual_professional_ai,False,False,Contratación directa,48915300.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4549551,individual_professional_ai,False,False,Contratación directa,42178500.0,3,3,0,2,63.0,126535500.0,0,0.0
+CO1.PCCNTR.5580079,unclear,False,True,Contratación directa,190400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9230916,individual_professional_ai,False,False,Contratación directa,81000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8267193,ai_product_or_platform,False,False,Contratación directa,51554220.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9756196,ai_development_service,False,True,Contratación Directa (con ofertas),256300463.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7712763,individual_professional_ai,False,False,Contratación directa,89751924.0,3,3,0,0,5.0,267945525.0,0,0.0
+CO1.PCCNTR.8124279,individual_professional_ai,False,False,Contratación directa,39466666.0,4,4,1,2,15.0,157866664.0,0,0.0
+CO1.PCCNTR.8717292,ai_product_or_platform,False,True,Selección Abreviada de Menor Cuantía,443489200.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8693345,ai_development_service,False,True,Contratación directa,240000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8925307,individual_professional_ai,False,False,Contratación directa,84573300.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8528698,incidental,False,True,Contratación directa,3853623189.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8943018,individual_professional_ai,False,False,Contratación directa,148633329.0,1,1,0,0,0.0,149933328.0,0,0.0
+CO1.PCCNTR.7608890,incidental,False,True,Contratación Directa (con ofertas),129176000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9170335,individual_professional_ai,False,False,Contratación directa,9600000.0,1,1,0,1,0.0,9600000.0,0,0.0
+CO1.PCCNTR.9895928,incidental,False,False,Contratación directa,45000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9868703,ai_development_service,False,True,Contratación directa,149945359.76,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9144786,individual_professional_ai,True,False,Contratación directa,45900000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7263731,individual_professional_ai,False,False,Contratación directa,240000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7932214,individual_professional_ai,False,False,Contratación directa,36468400.0,1,1,0,0,0.0,36468400.0,0,0.0
+CO1.PCCNTR.6343131,individual_professional_ai,False,False,Contratación directa,72000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9808212,individual_professional_ai,False,False,Contratación directa,28000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7516591,individual_professional_ai,False,False,Contratación directa,54504000.0,2,2,0,0,33.0,109008000.0,0,0.0
+CO1.PCCNTR.7686770,individual_professional_ai,False,False,Contratación directa,16480000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7661936,incidental,False,True,Contratación directa,50000000.0,1,1,0,0,0.0,50000000.0,0,0.0
+CO1.PCCNTR.9278321,unclear,False,True,Contratación directa,15672004287.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8934986,ai_development_service,False,True,Contratación directa,142800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8241159,individual_professional_ai,False,False,Contratación directa,3000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6847567,ai_development_service,False,True,Mínima cuantía,35000000.0,1,1,0,0,0.0,35000000.0,0,0.0
+CO1.PCCNTR.5402078,ai_development_service,False,True,Contratación directa,54000000.0,1,1,0,0,0.0,54000000.0,0,0.0
+CO1.PCCNTR.8554684,incidental,False,True,Contratación directa,120000000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7414525,individual_professional_ai,False,False,Contratación directa,11912435.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7550370,individual_professional_ai,False,False,Contratación directa,38356666.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5215218,individual_professional_ai,False,False,Contratación directa,57904467.0,1,1,0,1,48.0,57904467.0,0,48.0
+CO1.PCCNTR.9208637,individual_professional_ai,False,False,Contratación directa,99319500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9866407,individual_professional_ai,False,False,Contratación directa,63060000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8467915,incidental,False,True,Contratación directa,204000000.0,2,2,0,0,0.0,408000000.0,0,0.0
+CO1.PCCNTR.6021088,individual_professional_ai,False,False,Contratación directa,72123306.0,3,3,0,0,120.0,216369918.0,0,0.0
+CO1.PCCNTR.9246301,individual_professional_ai,False,False,Contratación directa,101500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7530468,individual_professional_ai,False,False,Contratación directa,94229181.0,2,2,0,0,4.0,188458362.0,0,2.0
+CO1.PCCNTR.7758695,incidental,False,True,Contratación régimen especial,14252922.0,2,2,0,0,0.0,28505844.0,0,0.0
+CO1.PCCNTR.8983101,individual_professional_ai,False,False,Contratación directa,51000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8435025,ai_product_or_platform,True,True,Mínima cuantía,16046000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7847343,individual_professional_ai,False,False,Contratación directa,64287818.0,1,1,0,0,0.0,64287818.0,0,0.0
+CO1.PCCNTR.7855147,individual_professional_ai,False,False,Contratación directa,13391000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7828307,individual_professional_ai,False,False,Contratación directa,26400000.0,2,2,1,1,121.0,52800000.0,0,61.0
+CO1.PCCNTR.8183600,incidental,False,True,Mínima cuantía,92000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7413804,individual_professional_ai,False,False,Contratación directa,134879360.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6581231,incidental,False,False,Contratación directa,17860000.0,2,2,1,1,21.0,35720000.0,0,0.0
+CO1.PCCNTR.6213741,individual_professional_ai,False,False,Contratación directa,23951266.0,1,1,0,0,0.0,23951266.0,0,0.0
+CO1.PCCNTR.8664613,ai_product_or_platform,False,True,Contratación directa,279996899.98,1,1,0,0,1.0,279996899.98,0,1.0
+CO1.PCCNTR.9128558,individual_professional_ai,False,False,Contratación directa,71920000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6705271,individual_professional_ai,False,False,Contratación directa,18000000.0,1,1,0,0,0.0,18000000.0,0,0.0
+CO1.PCCNTR.5448620,individual_professional_ai,False,False,Contratación directa,8971300.0,1,1,0,0,0.0,8971300.0,0,0.0
+CO1.PCCNTR.9801545,individual_professional_ai,False,False,Contratación directa,27397240.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6751873,individual_professional_ai,False,False,Contratación directa,37500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5394626,incidental,False,False,Contratación directa,4100000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4371332,ai_product_or_platform,False,True,Contratación régimen especial,40781519.0,1,1,0,0,0.0,40781519.0,0,0.0
+CO1.PCCNTR.8517746,individual_professional_ai,False,False,Contratación directa,10266667.0,2,2,0,0,0.0,20533334.0,0,0.0
+CO1.PCCNTR.8610100,incidental,False,True,Contratación directa,146000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8249109,individual_professional_ai,False,False,Contratación directa,35133333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9113487,incidental,False,True,Contratación directa,2000000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9588250,incidental,False,True,Mínima cuantía,15609000.0,1,1,0,0,0.0,15609000.0,0,0.0
+CO1.PCCNTR.8474374,individual_professional_ai,False,False,Contratación directa,22500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7980033,incidental,False,True,Contratación régimen especial,540000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6940765,unclear,False,True,Mínima cuantía,76979305.0,1,1,0,0,0.0,76979305.0,0,0.0
+CO1.PCCNTR.7147301,ai_product_or_platform,False,True,Mínima cuantía,70180000.0,1,1,0,0,0.0,70180000.0,0,0.0
+CO1.PCCNTR.9051322,individual_professional_ai,False,False,Contratación directa,64960000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7903251,unclear,False,True,Contratación directa,53795000.0,1,1,0,0,0.0,53795000.0,0,0.0
+CO1.PCCNTR.6855709,individual_professional_ai,False,False,Contratación directa,18900000.0,2,2,0,0,0.0,37800000.0,0,0.0
+CO1.PCCNTR.9050141,individual_professional_ai,False,False,Contratación régimen especial,122975700.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9153457,individual_professional_ai,False,False,Contratación directa,51511124.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4849465,individual_professional_ai,False,False,Contratación directa,21022300.0,4,4,0,1,38.0,79134900.0,0,0.0
+CO1.PCCNTR.8240386,ai_development_service,False,True,Contratación directa,717991000.0,1,1,0,1,0.0,717991000.0,0,0.0
+CO1.PCCNTR.8764262,individual_professional_ai,False,False,Contratación régimen especial,124051264.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9203788,individual_professional_ai,False,False,Contratación directa,89040000.0,1,1,0,0,244.0,89040000.0,0,244.0
+CO1.PCCNTR.7512974,individual_professional_ai,False,False,Contratación directa,19500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7033250,ai_development_service,False,True,Contratación directa,630509532.0,4,4,1,3,228.0,2235827031.0,0,0.0
+CO1.PCCNTR.7042114,incidental,False,False,Contratación directa,6000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6514478,ai_development_service,False,True,Contratación directa,39270000.0,1,1,0,0,0.0,39270000.0,0,0.0
+CO1.PCCNTR.9257279,individual_professional_ai,False,False,Contratación directa,62533333.0,1,1,0,0,0.0,62533333.0,0,0.0
+CO1.PCCNTR.7671084,individual_professional_ai,False,False,Contratación directa,81833360.0,1,1,0,0,0.0,81833360.0,0,0.0
+CO1.PCCNTR.4648075,individual_professional_ai,False,False,Contratación directa,45869136.0,1,1,0,0,0.0,45869136.0,0,0.0
+CO1.PCCNTR.6060488,incidental,False,False,Contratación directa,44142000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7878502,individual_professional_ai,False,False,Contratación directa,16280000.0,2,2,0,1,42.0,32560000.0,0,0.0
+CO1.PCCNTR.6738853,incidental,False,False,Contratación directa,14700000.0,1,1,0,0,0.0,14700000.0,0,0.0
+CO1.PCCNTR.9097846,individual_professional_ai,False,False,Contratación directa,16380000.0,1,1,1,1,61.0,16380000.0,0,61.0
+CO1.PCCNTR.8488540,incidental,False,True,Contratación directa,12808000.0,1,1,0,0,0.0,12808000.0,0,0.0
+CO1.PCCNTR.7301208,ai_product_or_platform,False,True,Contratación régimen especial,143922240.0,4,4,1,2,100.0,570403680.0,0,13.0
+CO1.PCCNTR.7687666,individual_professional_ai,False,False,Contratación directa,97166667.0,2,2,1,1,36.0,194333334.0,0,0.0
+CO1.PCCNTR.8967716,individual_professional_ai,False,False,Contratación directa,92756100.0,1,1,0,0,0.0,92756100.0,0,0.0
+CO1.PCCNTR.7891789,individual_professional_ai,False,False,Contratación directa,16486076.0,1,1,0,0,0.0,16486076.0,0,0.0
+CO1.PCCNTR.5352348,incidental,False,True,Contratación Directa (con ofertas),4529113449.0,3,3,0,1,850.0,13587340347.0,0,425.0
+CO1.PCCNTR.7713746,individual_professional_ai,False,False,Contratación directa,3400000.0,1,1,0,0,0.0,3400000.0,0,0.0
+CO1.PCCNTR.8440683,individual_professional_ai,False,False,Contratación directa,16059333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7155753,ai_development_service,False,True,Mínima cuantía,67000000.0,1,1,0,0,0.0,67000000.0,0,0.0
+CO1.PCCNTR.7365267,individual_professional_ai,False,False,Contratación directa,171000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9020845,individual_professional_ai,False,False,Contratación directa,127282100.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5317426,incidental,False,False,Contratación régimen especial,80000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4396925,incidental,False,False,Contratación directa,129854175.0,1,1,0,0,0.0,129854175.0,0,0.0
+CO1.PCCNTR.6435732,incidental,False,False,Contratación directa,15724000.0,2,2,0,1,13.0,31448000.0,0,0.0
+CO1.PCCNTR.8929670,individual_professional_ai,False,False,Contratación directa,115474015.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8638878,ai_product_or_platform,False,True,Mínima cuantía,31139000.0,1,1,0,0,1.0,31139000.0,0,1.0
+CO1.PCCNTR.6634081,individual_professional_ai,False,False,Contratación directa,48492036.0,1,1,0,0,0.0,48492036.0,0,0.0
+CO1.PCCNTR.6435534,incidental,False,False,Contratación directa,15724000.0,2,2,0,1,13.0,31448000.0,0,0.0
+CO1.PCCNTR.5141515,ai_product_or_platform,False,True,Contratación directa,196028669.0,2,2,1,0,0.0,392057338.0,0,0.0
+CO1.PCCNTR.8467126,ai_product_or_platform,False,True,Contratación Directa (con ofertas),50133800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7662917,incidental,False,False,Contratación directa,92499489.0,4,4,0,1,92.0,369997956.0,0,0.0
+CO1.PCCNTR.6303133,incidental,False,False,Contratación directa,15826400.0,2,2,0,1,28.0,31652800.0,0,14.0
+CO1.PCCNTR.6414329,incidental,False,False,Contratación directa,16397600.0,2,2,0,1,21.0,32795200.0,0,0.0
+CO1.PCCNTR.6407164,incidental,False,False,Contratación directa,14684000.0,2,2,0,0,0.0,29368000.0,0,0.0
+CO1.PCCNTR.6435728,incidental,False,False,Contratación directa,15724000.0,2,2,0,1,13.0,31448000.0,0,0.0
+CO1.PCCNTR.6420507,incidental,False,False,Contratación directa,15744800.0,2,2,0,1,12.0,31489600.0,0,0.0
+CO1.PCCNTR.6419262,incidental,False,False,Contratación directa,15744800.0,2,2,0,1,12.0,31489600.0,0,0.0
+CO1.PCCNTR.6304340,ai_product_or_platform,False,True,Contratación directa,21880009.24,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6347388,incidental,False,False,Contratación directa,15826400.0,3,3,1,1,28.0,46336800.0,0,14.0
+CO1.PCCNTR.8870152,individual_professional_ai,False,False,Contratación directa,69000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4558538,incidental,False,False,Contratación directa,13706000.0,2,2,0,1,59.0,27412000.0,0,0.0
+CO1.PCCNTR.6479807,individual_professional_ai,False,False,Contratación directa,57120000.0,1,1,0,0,0.0,57120000.0,0,0.0
+CO1.PCCNTR.6512579,incidental,False,False,Contratación directa,14684000.0,1,1,0,0,0.0,14684000.0,0,0.0
+CO1.PCCNTR.7204372,ai_product_or_platform,False,True,Contratación régimen especial,367690545.0,2,2,1,1,77.0,735381090.0,0,0.0
+CO1.PCCNTR.6420328,incidental,False,False,Contratación directa,16416000.0,2,2,1,1,21.0,32832000.0,0,0.0
+CO1.PCCNTR.6428415,incidental,False,False,Contratación directa,15744800.0,2,2,0,1,12.0,31489600.0,0,0.0
+CO1.PCCNTR.6838928,ai_product_or_platform,False,True,Contratación directa,87802825.0,2,2,0,0,0.0,175605650.0,0,0.0
+CO1.PCCNTR.8117117,ai_product_or_platform,False,True,Contratación directa,41138000.0,1,1,0,0,0.0,41138000.0,0,0.0
+CO1.PCCNTR.8961182,individual_professional_ai,False,False,Contratación directa,37500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4523674,individual_professional_ai,False,False,Contratación directa,35280000.0,2,2,0,0,0.0,70560000.0,0,0.0
+CO1.PCCNTR.8056283,ai_product_or_platform,False,True,Mínima cuantía,32200000.0,1,1,0,0,0.0,32200000.0,0,0.0
+CO1.PCCNTR.6420250,incidental,False,False,Contratación directa,14684000.0,1,1,0,0,0.0,14684000.0,0,0.0
+CO1.PCCNTR.4398138,incidental,False,False,Contratación directa,103807841.0,3,3,0,1,89.0,278274801.0,0,28.0
+CO1.PCCNTR.9834548,unclear,False,False,Contratación directa,11448000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8435919,ai_product_or_platform,False,True,Contratación régimen especial,14301420.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6356575,incidental,False,False,Contratación directa,14684000.0,1,1,0,0,0.0,14684000.0,0,0.0
+CO1.PCCNTR.8619164,incidental,False,True,Contratación directa,26408097.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6654452,ai_product_or_platform,False,True,Contratación régimen especial,180434903.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8251912,ai_development_service,False,True,Contratación directa,500000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6435729,incidental,False,False,Contratación directa,15724000.0,3,3,0,1,13.0,46132000.0,0,0.0
+CO1.PCCNTR.4392144,incidental,False,False,Contratación directa,100318502.0,1,1,0,0,0.0,100318502.0,0,0.0
+CO1.PCCNTR.8767299,cloud_or_software_nonAI,False,True,Contratación régimen especial,566258778.0,1,1,1,1,0.0,377505852.0,0,92.0
+CO1.PCCNTR.8952576,individual_professional_ai,False,False,Contratación directa,98862720.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6336678,ai_product_or_platform,False,True,Contratación régimen especial,101198509.0,3,3,0,3,0.0,298164089.0,0,0.0
+CO1.PCCNTR.6583693,cloud_or_software_nonAI,False,True,Contratación Directa (con ofertas),319974540.0,3,3,2,0,152.0,959923620.0,0,0.0
+CO1.PCCNTR.6435927,incidental,False,False,Contratación directa,15724000.0,2,2,0,1,13.0,31448000.0,0,0.0
+CO1.PCCNTR.6370846,ai_product_or_platform,False,True,Mínima cuantía,10850000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8508729,individual_professional_ai,False,False,Contratación directa,6930000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7015205,ai_product_or_platform,False,True,Mínima cuantía,3977500.0,1,1,0,0,0.0,3977500.0,0,0.0
+CO1.PCCNTR.7776267,ai_product_or_platform,False,True,Contratación directa,89885151.0,1,1,1,1,150.0,89885151.0,0,150.0
+CO1.PCCNTR.8807250,individual_professional_ai,False,False,Contratación directa,150033600.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8236117,ai_product_or_platform,False,True,Selección abreviada subasta inversa,53015000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7175342,ai_development_service,False,True,Mínima cuantía,95000000.0,3,3,0,0,0.0,285000000.0,3,0.0
+CO1.PCCNTR.7355304,incidental,False,True,Contratación régimen especial,13387500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5874491,incidental,False,False,Contratación directa,17970096.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6674510,individual_professional_ai,False,False,Contratación directa,38336205.0,2,2,0,0,0.0,76672410.0,0,0.0
+CO1.PCCNTR.6380956,ai_product_or_platform,False,True,Contratación Directa (con ofertas),229551311.0,2,2,0,2,0.0,459102622.0,0,0.0
+CO1.PCCNTR.6891279,individual_professional_ai,False,False,Contratación directa,38799074.0,2,2,0,0,19.0,77598148.0,0,0.0
+CO1.PCCNTR.9159410,incidental,False,False,Contratación régimen especial,33000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6332834,incidental,False,False,Contratación directa,15826400.0,2,2,0,1,14.0,31652800.0,0,0.0
+CO1.PCCNTR.7654051,ai_product_or_platform,False,True,Contratación régimen especial,45000000.0,1,1,0,0,0.0,45000000.0,0,0.0
+CO1.PCCNTR.6662679,individual_professional_ai,False,False,Contratación directa,53266632.0,1,1,0,0,0.0,53266632.0,0,0.0
+CO1.PCCNTR.8961446,individual_professional_ai,False,False,Contratación directa,15000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6172528,incidental,False,False,Contratación directa,34742186.0,1,1,1,1,31.0,34742186.0,0,31.0
+CO1.PCCNTR.6684143,individual_professional_ai,False,False,Contratación directa,38336205.0,1,1,0,0,0.0,38336205.0,0,0.0
+CO1.PCCNTR.7809378,ai_development_service,True,True,Contratación directa,70999949.0,1,1,0,1,0.0,70999949.0,0,0.0
+CO1.PCCNTR.7248934,incidental,False,False,Contratación directa,35007633.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6435535,incidental,False,False,Contratación directa,15724000.0,2,2,0,1,13.0,31448000.0,0,0.0
+CO1.PCCNTR.5527224,unclear,False,True,Mínima cuantía,34548820.0,1,1,0,0,0.0,34548820.0,0,0.0
+CO1.PCCNTR.6415742,incidental,False,False,Contratación directa,16316000.0,3,3,0,1,21.0,47316000.0,0,0.0
+CO1.PCCNTR.5035318,individual_professional_ai,False,False,Contratación directa,61446000.0,1,1,0,1,0.0,61446000.0,0,0.0
+CO1.PCCNTR.8557152,unclear,False,True,Contratación directa,420219196.37,2,2,0,1,270.0,840438392.74,0,150.0
+CO1.PCCNTR.6443612,incidental,False,False,Contratación directa,15826400.0,2,2,0,1,14.0,31652800.0,0,0.0
+CO1.PCCNTR.5592951,ai_product_or_platform,False,True,Contratación directa,22601529.0,1,1,0,0,0.0,22601529.0,0,0.0
+CO1.PCCNTR.4397364,incidental,False,False,Contratación directa,118214591.0,1,1,0,0,0.0,118214591.0,0,0.0
+CO1.PCCNTR.6420601,incidental,False,False,Contratación directa,16416000.0,3,3,1,1,21.0,49248000.0,0,0.0
+CO1.PCCNTR.4977857,incidental,False,True,Contratación directa,59990000.0,2,2,0,0,0.0,119980000.0,0,0.0
+CO1.PCCNTR.8524713,individual_professional_ai,False,False,Contratación directa,8880174.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8675363,incidental,False,True,Contratación directa,30000000.0,4,4,1,0,246.0,120000000.0,7,96.0
+CO1.PCCNTR.6379777,incidental,False,False,Contratación directa,14684000.0,1,1,0,0,0.0,14684000.0,0,0.0
+CO1.PCCNTR.5806274,incidental,False,True,Contratación directa,85348700.0,2,2,0,0,0.0,170697400.0,0,0.0
+CO1.PCCNTR.4409579,incidental,False,False,Contratación directa,108211816.0,1,1,1,1,25.0,108211816.0,0,25.0
+CO1.PCCNTR.5286748,incidental,False,False,Contratación directa,10857000.0,2,2,0,1,21.0,21714000.0,0,0.0
+CO1.PCCNTR.4850424,ai_product_or_platform,False,True,Contratación directa,1440000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6392167,incidental,False,False,Contratación directa,14684000.0,1,1,0,0,0.0,14684000.0,0,0.0
+CO1.PCCNTR.7436354,incidental,False,True,Contratación directa,44000000.0,1,1,0,0,0.0,44000000.0,0,0.0
+CO1.PCCNTR.6580687,individual_professional_ai,False,False,Contratación directa,72901415.0,3,3,0,0,0.0,218704245.0,0,0.0
+CO1.PCCNTR.6406966,incidental,False,False,Contratación directa,15744800.0,3,3,0,1,12.0,46173600.0,0,0.0
+CO1.PCCNTR.5528464,unclear,False,True,Mínima cuantía,28667500.0,1,1,0,0,0.0,28667500.0,0,0.0
+CO1.PCCNTR.6420602,incidental,False,False,Contratación directa,16416000.0,2,2,1,1,21.0,32832000.0,0,0.0
+CO1.PCCNTR.8512972,individual_professional_ai,False,False,Contratación directa,19530000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7582812,individual_professional_ai,False,False,Contratación directa,83474820.0,3,3,0,0,0.0,251267640.0,0,0.0
+CO1.PCCNTR.6302940,incidental,False,False,Contratación directa,15826400.0,3,3,1,1,26.0,47479200.0,0,13.0
+CO1.PCCNTR.9177755,unclear,False,True,Contratación régimen especial,4179000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5263616,ai_product_or_platform,False,True,Contratación directa,16234986.48,1,1,0,0,0.0,16234986.48,0,0.0
+CO1.PCCNTR.6415650,incidental,False,False,Contratación directa,16397600.0,2,2,0,1,21.0,32795200.0,0,0.0
+CO1.PCCNTR.6412147,incidental,False,False,Contratación directa,14684000.0,1,1,0,0,0.0,14684000.0,0,0.0
+CO1.PCCNTR.6347182,incidental,False,False,Contratación directa,15826400.0,2,2,1,1,26.0,31652800.0,0,13.0
+CO1.PCCNTR.8464467,incidental,False,False,Contratación directa,8950000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8746014,ai_product_or_platform,False,True,Selección abreviada subasta inversa,876000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6420258,incidental,False,False,Contratación directa,16416000.0,3,3,1,1,21.0,47516000.0,0,0.0
+CO1.PCCNTR.6415737,incidental,False,False,Contratación directa,16397600.0,2,2,0,1,21.0,32795200.0,0,0.0
+CO1.PCCNTR.6468941,unclear,False,True,Contratación régimen especial,13594500.0,2,2,0,0,0.0,27189000.0,0,0.0
+CO1.PCCNTR.7377422,individual_professional_ai,False,False,Contratación directa,64137892.0,5,5,0,1,95.0,302982680.0,0,0.0
+CO1.PCCNTR.6572316,individual_professional_ai,False,False,Contratación directa,53461035.0,1,1,0,0,0.0,53461035.0,0,0.0
+CO1.PCCNTR.6993304,ai_product_or_platform,False,True,Mínima cuantía,16399500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9339266,ai_product_or_platform,False,True,Contratación régimen especial,200000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8603421,incidental,False,True,Contratación directa,26000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6411876,incidental,False,False,Contratación directa,19484000.0,1,1,0,0,0.0,19484000.0,0,0.0
+CO1.PCCNTR.6567370,individual_professional_ai,False,False,Contratación directa,75331462.0,2,2,0,0,0.0,150662924.0,0,0.0
+CO1.PCCNTR.6682735,individual_professional_ai,False,False,Contratación directa,30385803.0,1,1,0,0,0.0,30385803.0,0,0.0
+CO1.PCCNTR.9595033,ai_product_or_platform,False,True,Contratación régimen especial,4179000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8631274,ai_product_or_platform,False,True,Contratación directa,48696000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4387325,incidental,False,False,Contratación directa,162789573.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7293154,individual_professional_ai,False,False,Contratación directa,142919010.0,2,2,0,1,92.0,247894920.0,0,0.0
+CO1.PCCNTR.8365521,ai_product_or_platform,False,True,Selección abreviada subasta inversa,66900000.0,1,1,0,0,0.0,66900000.0,0,0.0
+CO1.PCCNTR.6578494,incidental,False,False,Contratación directa,80191557.0,2,2,1,1,14.0,160383114.0,0,0.0
+CO1.PCCNTR.8581531,individual_professional_ai,False,False,Contratación directa,82503456.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7933818,ai_product_or_platform,False,True,Contratación Directa (con ofertas),678787965.0,4,4,0,0,610.0,2715151860.0,0,184.0
+CO1.PCCNTR.7088793,ai_development_service,False,True,Contratación directa,25085351.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6038716,incidental,False,False,Contratación directa,56765899.0,1,1,1,1,30.0,56765899.0,0,30.0
+CO1.PCCNTR.9691250,ai_product_or_platform,False,True,Contratación directa,40027257.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8331679,ai_product_or_platform,False,True,Contratación régimen especial,153786132.0,1,1,1,1,11.0,153786132.0,0,11.0
+CO1.PCCNTR.6809379,cloud_or_software_nonAI,True,True,Contratación régimen especial,58243422.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9381067,cloud_or_software_nonAI,True,True,Mínima cuantía,48829827.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8378899,cloud_or_software_nonAI,True,True,Contratación régimen especial (con ofertas),5295486907.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8172401,cloud_or_software_nonAI,True,False,Contratación régimen especial,75000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7945312,cloud_or_software_nonAI,True,False,Contratación directa,60000000.0,1,1,0,0,0.0,60000000.0,0,0.0
+CO1.PCCNTR.4607113,cloud_or_software_nonAI,True,False,Contratación directa,105733333.0,2,2,0,0,0.0,211466666.0,0,0.0
+CO1.PCCNTR.6578792,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7401731,cloud_or_software_nonAI,True,False,Contratación directa,143478841.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5029502,cloud_or_software_nonAI,True,False,Contratación directa,68355000.0,1,1,0,0,0.0,68355000.0,0,0.0
+CO1.PCCNTR.6585501,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5433290,cloud_or_software_nonAI,False,False,Contratación directa,7500000.0,3,3,0,0,0.0,22500000.0,0,0.0
+CO1.PCCNTR.5214041,incidental,False,True,Contratación directa,1519188000.0,3,3,0,0,0.0,4557564000.0,0,0.0
+CO1.PCCNTR.5615097,incidental,True,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.6576720,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7031901,cloud_or_software_nonAI,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.8554186,cloud_or_software_nonAI,True,True,Mínima cuantía,122364415.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6015048,cloud_or_software_nonAI,True,False,Contratación régimen especial,149050000.0,1,1,0,0,0.0,149050000.0,0,0.0
+CO1.PCCNTR.7646546,cloud_or_software_nonAI,True,True,Contratación directa,58703301.0,3,3,0,0,237.0,176109903.0,0,79.0
+CO1.PCCNTR.6576628,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8805840,cloud_or_software_nonAI,True,False,Contratación directa,106950000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6579627,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7358406,cloud_or_software_nonAI,True,False,Contratación directa,87664500.0,1,1,0,0,0.0,87664500.0,0,0.0
+CO1.PCCNTR.9053264,incidental,False,False,Contratación régimen especial,111263734.0,1,1,0,0,0.0,111263734.0,0,0.0
+CO1.PCCNTR.8700221,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,1114000000.0,1,1,0,0,0.0,1114000000.0,0,0.0
+CO1.PCCNTR.5896160,cloud_or_software_nonAI,True,True,Contratación directa,21500000.0,2,2,0,0,0.0,43000000.0,0,0.0
+CO1.PCCNTR.7030865,cloud_or_software_nonAI,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.5615364,incidental,False,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.5487441,incidental,False,False,Contratación directa,6000000.0,1,1,0,0,0.0,6000000.0,0,0.0
+CO1.PCCNTR.8954217,cloud_or_software_nonAI,True,False,Contratación directa,65631447.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8746327,cloud_or_software_nonAI,True,True,Contratación régimen especial,9256456.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8744209,cloud_or_software_nonAI,True,True,Contratación Directa (con ofertas),1737859464.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8038916,cloud_or_software_nonAI,True,False,Contratación directa,22500000.0,4,4,0,0,26.0,85000000.0,0,0.0
+CO1.PCCNTR.6576604,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8510928,cloud_or_software_nonAI,True,False,Contratación directa,19304000.0,1,1,0,0,0.0,19304000.0,0,0.0
+CO1.PCCNTR.8716585,cloud_or_software_nonAI,True,True,Contratación régimen especial,1336271997.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4445693,cloud_or_software_nonAI,True,False,Contratación directa,125298968.0,1,1,0,0,0.0,125298968.0,0,0.0
+CO1.PCCNTR.7031083,cloud_or_software_nonAI,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.8676336,incidental,False,True,Mínima cuantía,42260470.0,1,1,1,1,128.0,42260470.0,0,129.0
+CO1.PCCNTR.5399007,incidental,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.5575801,cloud_or_software_nonAI,True,True,Contratación directa,851926948.0,1,1,1,0,30.0,851926948.0,0,30.0
+CO1.PCCNTR.6576722,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5433594,cloud_or_software_nonAI,False,False,Contratación directa,7500000.0,1,1,0,0,0.0,7500000.0,0,0.0
+CO1.PCCNTR.8124266,cloud_or_software_nonAI,True,True,Contratación directa,131486220.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7734611,cloud_or_software_nonAI,True,True,Mínima cuantía,7100000.0,2,2,0,0,0.0,14200000.0,0,0.0
+CO1.PCCNTR.9745425,cloud_or_software_nonAI,True,False,Contratación directa,10266667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8844489,cloud_or_software_nonAI,True,False,Contratación directa,41663088.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7342164,cloud_or_software_nonAI,True,False,Contratación directa,87600000.0,2,2,1,1,31.0,167900000.0,0,31.0
+CO1.PCCNTR.6576606,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5991091,cloud_or_software_nonAI,True,False,Contratación directa,28000000.0,2,2,0,0,0.0,56000000.0,0,0.0
+CO1.PCCNTR.8731545,cloud_or_software_nonAI,True,True,Contratación directa,283958351.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4465581,cloud_or_software_nonAI,True,False,Contratación directa,39060000.0,3,3,0,1,0.0,117180000.0,0,0.0
+CO1.PCCNTR.8481684,cloud_or_software_nonAI,True,True,Contratación directa,24904320.0,1,1,0,0,0.0,24904320.0,0,0.0
+CO1.PCCNTR.8596460,cloud_or_software_nonAI,True,True,Mínima cuantía,100513770.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5487370,incidental,False,False,Contratación directa,6000000.0,1,1,0,0,0.0,6000000.0,0,0.0
+CO1.PCCNTR.6582433,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6576409,cloud_or_software_nonAI,False,False,Contratación directa,6750000.0,5,5,0,0,0.0,60750000.0,0,0.0
+CO1.PCCNTR.6585502,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7880624,cloud_or_software_nonAI,True,True,Contratación Directa (con ofertas),2741606770.0,2,2,1,1,218.0,5179462315.0,0,38.0
+CO1.PCCNTR.8871449,cloud_or_software_nonAI,True,True,Contratación directa,42738863.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6576610,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7367907,cloud_or_software_nonAI,True,False,Contratación directa,60242667.0,2,2,0,0,0.0,120485334.0,0,0.0
+CO1.PCCNTR.6578607,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7059571,cloud_or_software_nonAI,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.5899964,cloud_or_software_nonAI,True,False,Contratación directa,106420600.0,1,1,0,0,0.0,106420600.0,0,0.0
+CO1.PCCNTR.5991105,cloud_or_software_nonAI,True,True,Contratación directa,81064845.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5797116,cloud_or_software_nonAI,True,False,Contratación directa,90465000.0,1,1,0,0,0.0,90465000.0,0,0.0
+CO1.PCCNTR.7359996,cloud_or_software_nonAI,True,False,Contratación directa,177066666.0,2,2,0,1,92.0,306133332.0,0,92.0
+CO1.PCCNTR.5567647,cloud_or_software_nonAI,True,False,Contratación directa,6088857.0,2,2,0,0,0.0,12177714.0,0,0.0
+CO1.PCCNTR.5355548,incidental,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.8851504,cloud_or_software_nonAI,True,False,Contratación directa,196170661.0,1,1,0,0,0.0,196170661.0,0,0.0
+CO1.PCCNTR.4442347,cloud_or_software_nonAI,True,False,Contratación directa,26167768.0,2,2,0,0,0.0,52335536.0,0,0.0
+CO1.PCCNTR.7031007,incidental,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.8695969,cloud_or_software_nonAI,True,True,Contratación régimen especial,5396104.0,1,1,0,0,0.0,5396104.0,0,0.0
+CO1.PCCNTR.5615168,incidental,True,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.7059677,cloud_or_software_nonAI,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.7639238,cloud_or_software_nonAI,True,True,Contratación directa,92002906.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8762205,cloud_or_software_nonAI,True,False,Contratación directa,95711000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8887691,cloud_or_software_nonAI,True,False,Contratación directa,162866666.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9192235,cloud_or_software_nonAI,True,False,Contratación directa,105814116.17,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6576608,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6576408,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.9280896,cloud_or_software_nonAI,True,False,Contratación directa,150445817.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6576611,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6582079,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6249619,cloud_or_software_nonAI,True,True,Contratación régimen especial,44000000.0,2,2,0,0,0.0,88000000.0,0,0.0
+CO1.PCCNTR.9901259,cloud_or_software_nonAI,True,True,Contratación directa,53000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5615616,incidental,False,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.7942636,cloud_or_software_nonAI,True,True,Contratación Directa (con ofertas),3406841100.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9919923,cloud_or_software_nonAI,True,False,Contratación directa,41433333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5548833,cloud_or_software_nonAI,True,True,Contratación directa,9868125.0,1,1,0,0,0.0,9868125.0,0,0.0
+CO1.PCCNTR.8726127,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,52327197000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6096931,cloud_or_software_nonAI,True,False,Contratación directa,61464000.0,3,3,0,0,34.0,184392000.0,0,0.0
+CO1.PCCNTR.9067330,cloud_or_software_nonAI,True,True,Contratación directa,97983093.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8783350,cloud_or_software_nonAI,True,False,Contratación régimen especial,180000000.0,1,1,0,1,122.0,180000000.0,0,122.0
+CO1.PCCNTR.5780339,cloud_or_software_nonAI,True,False,Contratación directa,138552000.0,1,1,0,0,0.0,138552000.0,0,0.0
+CO1.PCCNTR.6576507,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5615099,incidental,False,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.6454444,cloud_or_software_nonAI,True,True,Contratación Directa (con ofertas),96762100.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5354755,cloud_or_software_nonAI,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.9366801,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,494669703.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6578700,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7031222,cloud_or_software_nonAI,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.6576410,cloud_or_software_nonAI,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5761626,cloud_or_software_nonAI,True,False,Contratación directa,45491253.0,1,1,0,0,0.0,45491253.0,0,0.0
+CO1.PCCNTR.6576524,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6576418,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8481200,cloud_or_software_nonAI,True,True,Contratación régimen especial,4627700.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5848156,cloud_or_software_nonAI,True,False,Contratación directa,88533333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9031061,cloud_or_software_nonAI,True,False,Contratación directa,110495000.0,1,1,0,0,5.0,110495000.0,0,5.0
+CO1.PCCNTR.7316325,cloud_or_software_nonAI,True,True,Contratación régimen especial,26140500.0,1,1,0,0,0.0,26140500.0,0,0.0
+CO1.PCCNTR.5682929,cloud_or_software_nonAI,True,True,Contratación régimen especial,2573856000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7816614,cloud_or_software_nonAI,True,True,Contratación Directa (con ofertas),285077008.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9385300,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,407802544.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5366029,incidental,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.8976781,cloud_or_software_nonAI,True,True,Contratación directa,242557700.0,1,1,0,1,120.0,242557700.0,0,120.0
+CO1.PCCNTR.7093531,cloud_or_software_nonAI,True,False,Contratación directa,15000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8826379,cloud_or_software_nonAI,True,False,Contratación directa,114371533.0,1,1,1,1,92.0,114371533.0,0,92.0
+CO1.PCCNTR.6585601,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6577853,cloud_or_software_nonAI,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6807867,cloud_or_software_nonAI,True,True,Contratación directa,17020835.0,1,1,0,0,0.0,17020835.0,0,0.0
+CO1.PCCNTR.6653830,cloud_or_software_nonAI,True,False,Contratación directa,17116667.0,1,1,0,0,0.0,17116667.0,0,0.0
+CO1.PCCNTR.7832217,cloud_or_software_nonAI,True,False,Contratación directa,63591075.0,1,1,0,0,0.0,63591075.0,0,0.0
+CO1.PCCNTR.9278801,cloud_or_software_nonAI,True,False,Contratación directa,121000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9254315,cloud_or_software_nonAI,True,True,Contratación régimen especial,199990210.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5911192,cloud_or_software_nonAI,True,False,Contratación directa,126672000.0,1,1,0,0,0.0,126672000.0,0,0.0
+CO1.PCCNTR.6576417,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6578512,incidental,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6576630,cloud_or_software_nonAI,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6566486,cloud_or_software_nonAI,True,False,Contratación directa,5000000.0,1,1,0,0,0.0,5000000.0,0,0.0
+CO1.PCCNTR.7243642,cloud_or_software_nonAI,True,False,Contratación directa,49044841.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6576622,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5433278,cloud_or_software_nonAI,False,False,Contratación directa,7500000.0,1,1,0,0,0.0,7500000.0,0,0.0
+CO1.PCCNTR.6578087,incidental,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5166751,cloud_or_software_nonAI,True,True,Contratación directa,0.0,2,2,0,0,0.0,0.0,0,0.0
+CO1.PCCNTR.6238129,cloud_or_software_nonAI,False,True,Mínima cuantía,44635770.0,3,3,1,1,92.0,137188384.0,0,0.0
+CO1.PCCNTR.6429189,cloud_or_software_nonAI,True,True,Mínima cuantía,59992500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6930063,cloud_or_software_nonAI,True,False,Contratación directa,61800000.0,1,1,1,1,61.0,61800000.0,0,61.0
+CO1.PCCNTR.8734732,cloud_or_software_nonAI,True,True,Contratación directa,2824418490.0,2,2,0,0,0.0,5648836980.0,0,0.0
+CO1.PCCNTR.6576728,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5305309,cloud_or_software_nonAI,True,False,Contratación directa,40956020.0,2,2,0,0,15.0,82527920.0,0,0.0
+CO1.PCCNTR.6805703,cloud_or_software_nonAI,True,False,Contratación directa,36000000.0,2,2,1,1,47.0,72000000.0,0,0.0
+CO1.PCCNTR.7322412,cloud_or_software_nonAI,True,False,Contratación directa,82500000.0,1,1,0,0,0.0,82500000.0,0,0.0
+CO1.PCCNTR.6578459,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8689774,cloud_or_software_nonAI,True,True,Mínima cuantía,4000000.0,2,2,0,1,16.0,8000000.0,0,8.0
+CO1.PCCNTR.7424943,cloud_or_software_nonAI,False,True,Mínima cuantía,22332311.0,3,3,0,0,93.0,67743861.0,0,31.0
+CO1.PCCNTR.5311392,cloud_or_software_nonAI,True,False,Contratación régimen especial,67750000.0,1,1,0,0,0.0,67750000.0,0,0.0
+CO1.PCCNTR.6576509,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5369118,incidental,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.7030684,cloud_or_software_nonAI,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.6578076,cloud_or_software_nonAI,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5851474,cloud_or_software_nonAI,True,False,Contratación directa,136052224.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6983149,cloud_or_software_nonAI,True,True,Contratación régimen especial,25000000.0,1,1,0,0,0.0,25000000.0,0,0.0
+CO1.PCCNTR.9389012,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,1597984628.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5355541,incidental,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.8920628,cloud_or_software_nonAI,True,True,Contratación régimen especial,27070000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7006322,incidental,True,False,Contratación directa,9774000.0,1,1,0,0,0.0,9774000.0,0,0.0
+CO1.PCCNTR.8637231,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,197267054.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7925807,cloud_or_software_nonAI,True,True,Contratación régimen especial,54000000.0,1,1,0,0,0.0,54000000.0,0,0.0
+CO1.PCCNTR.7517386,cloud_or_software_nonAI,True,False,Contratación directa,80000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5381876,cloud_or_software_nonAI,True,False,Contratación directa,26279994.0,1,1,0,0,0.0,26279994.0,0,0.0
+CO1.PCCNTR.9537536,cloud_or_software_nonAI,True,True,Contratación régimen especial,20000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5615242,cloud_or_software_nonAI,True,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.6094752,cloud_or_software_nonAI,True,False,Contratación régimen especial,110000000.0,1,1,0,0,0.0,110000000.0,0,0.0
+CO1.PCCNTR.6576419,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8671279,cloud_or_software_nonAI,True,True,Contratación régimen especial,4627700.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6576807,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7551960,cloud_or_software_nonAI,True,False,Contratación directa,71459220.0,1,1,0,0,0.0,71459220.0,0,0.0
+CO1.PCCNTR.8931947,cloud_or_software_nonAI,True,False,Contratación directa,54750000.0,2,2,0,1,76.0,126046667.0,0,0.0
+CO1.PCCNTR.7071883,incidental,True,False,Contratación directa,6154000.0,1,1,0,0,0.0,6154000.0,0,0.0
+CO1.PCCNTR.6576701,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5413434,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,550893478.0,2,2,0,1,184.0,982046180.0,0,184.0
+CO1.PCCNTR.4510829,cloud_or_software_nonAI,True,False,Contratación directa,101143397.0,1,1,0,0,0.0,101143397.0,0,0.0
+CO1.PCCNTR.6576727,cloud_or_software_nonAI,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5976879,cloud_or_software_nonAI,True,False,Contratación directa,48495000.0,1,1,0,1,0.0,48495000.0,0,0.0
+CO1.PCCNTR.6579266,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5355188,incidental,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.6576626,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5433137,cloud_or_software_nonAI,False,False,Contratación directa,7500000.0,1,1,0,0,0.0,7500000.0,0,0.0
+CO1.PCCNTR.8222166,cloud_or_software_nonAI,True,False,Contratación directa,43200000.0,1,1,0,0,0.0,43200000.0,0,0.0
+CO1.PCCNTR.7161432,cloud_or_software_nonAI,True,True,Contratación directa,1206834542.0,1,1,0,0,0.0,1206834542.0,0,0.0
+CO1.PCCNTR.7008205,cloud_or_software_nonAI,True,False,Contratación directa,10860000.0,2,2,0,0,0.0,21720000.0,0,0.0
+CO1.PCCNTR.4564908,cloud_or_software_nonAI,True,False,Contratación directa,55429746.0,2,2,0,0,61.0,110859492.0,0,0.0
+CO1.PCCNTR.8456805,cloud_or_software_nonAI,True,False,Contratación directa,16000000.0,1,1,0,0,0.0,16000000.0,0,0.0
+CO1.PCCNTR.5355409,cloud_or_software_nonAI,True,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.6578755,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8727120,cloud_or_software_nonAI,True,True,Contratación Directa (con ofertas),7974731750.0,1,1,0,0,0.0,7974731750.0,0,0.0
+CO1.PCCNTR.4381809,cloud_or_software_nonAI,True,False,Contratación directa,80987400.0,3,3,0,0,0.0,242962200.0,0,0.0
+CO1.PCCNTR.8190807,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,2898369000.0,1,1,1,1,122.0,2898369000.0,0,122.0
+CO1.PCCNTR.6831124,cloud_or_software_nonAI,True,False,Licitación pública,1453824309.0,1,1,0,0,90.0,1453824309.0,0,90.0
+CO1.PCCNTR.5615085,incidental,True,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.8622661,cloud_or_software_nonAI,True,True,Contratación régimen especial,999999409.98,1,1,0,0,0.0,999999409.98,0,0.0
+CO1.PCCNTR.6576627,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7808019,cloud_or_software_nonAI,True,False,Contratación directa,64000000.0,1,1,0,0,0.0,64000000.0,0,0.0
+CO1.PCCNTR.5814520,cloud_or_software_nonAI,True,True,Contratación régimen especial,22997000.0,1,1,0,0,0.0,22997000.0,0,0.0
+CO1.PCCNTR.4377474,cloud_or_software_nonAI,True,False,Contratación régimen especial,34000000.0,2,2,0,0,0.0,68000000.0,0,0.0
+CO1.PCCNTR.5778076,cloud_or_software_nonAI,True,False,Contratación directa,128416667.0,2,2,0,0,4.0,256833334.0,0,0.0
+CO1.PCCNTR.5615520,incidental,False,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.7450035,cloud_or_software_nonAI,True,False,Contratación directa,87847200.0,1,1,0,0,0.0,87847200.0,0,0.0
+CO1.PCCNTR.4404937,incidental,True,False,Contratación directa,42111771.0,2,2,0,0,110.0,84223542.0,0,110.0
+CO1.PCCNTR.5998251,cloud_or_software_nonAI,True,False,Contratación directa,45105000.0,1,1,0,0,0.0,45105000.0,0,0.0
+CO1.PCCNTR.7059251,cloud_or_software_nonAI,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.7269859,cloud_or_software_nonAI,True,False,Contratación directa,44000000.0,1,1,0,0,0.0,44000000.0,0,0.0
+CO1.PCCNTR.8726853,cloud_or_software_nonAI,True,False,Contratación directa,140400000.0,2,2,0,0,0.0,280800000.0,0,0.0
+CO1.PCCNTR.6576609,cloud_or_software_nonAI,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6576525,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8489104,cloud_or_software_nonAI,True,False,Contratación directa,163163385.0,3,3,1,1,123.0,403128495.0,0,123.0
+CO1.PCCNTR.6094326,cloud_or_software_nonAI,True,True,Licitación pública,1017163499.0,2,2,1,1,120.0,2034326998.0,0,0.0
+CO1.PCCNTR.8894847,cloud_or_software_nonAI,True,True,Contratación régimen especial,45951092.0,1,1,0,1,5.0,45951092.0,0,5.0
+CO1.PCCNTR.6576415,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.7783630,cloud_or_software_nonAI,True,False,Contratación directa,85333334.0,2,2,0,0,0.0,170666668.0,0,0.0
+CO1.PCCNTR.5615513,incidental,False,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.6576521,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8841872,cloud_or_software_nonAI,True,False,Contratación directa,114786360.0,1,1,0,0,129.0,114786360.0,0,129.0
+CO1.PCCNTR.4990212,cloud_or_software_nonAI,True,False,Contratación régimen especial,68400000.0,4,4,0,0,0.0,273600000.0,0,0.0
+CO1.PCCNTR.4397047,cloud_or_software_nonAI,True,False,Contratación directa,127233333.0,3,3,0,0,0.0,381699999.0,0,0.0
+CO1.PCCNTR.5615128,incidental,False,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.5615266,cloud_or_software_nonAI,True,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.6578352,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6576430,incidental,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5115372,cloud_or_software_nonAI,True,False,Contratación directa,41358000.0,1,1,0,1,33.0,41358000.0,0,33.0
+CO1.PCCNTR.6576605,cloud_or_software_nonAI,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6852707,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,1722936843.0,1,1,0,0,0.0,1722936843.0,0,0.0
+CO1.PCCNTR.5219734,cloud_or_software_nonAI,True,False,Selección abreviada subasta inversa,4258127811.06,4,4,2,2,92.0,16600570273.039999,0,0.0
+CO1.PCCNTR.9196101,cloud_or_software_nonAI,True,False,Contratación directa,60550000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9603456,cloud_or_software_nonAI,True,False,Contratación directa,47733333.33,1,1,0,0,0.0,47733333.33,0,0.0
+CO1.PCCNTR.5233312,cloud_or_software_nonAI,True,True,Contratación directa,233035092.0,3,3,0,1,0.0,656555580.0,0,0.0
+CO1.PCCNTR.5615291,cloud_or_software_nonAI,True,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.6673519,cloud_or_software_nonAI,True,False,Contratación directa,40920000.0,2,2,0,0,0.0,81840000.0,0,0.0
+CO1.PCCNTR.7855132,cloud_or_software_nonAI,True,False,Contratación régimen especial,139565000.0,1,1,0,0,0.0,139565000.0,0,0.0
+CO1.PCCNTR.6581555,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6582347,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.8593452,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,1028787781.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4522362,cloud_or_software_nonAI,True,False,Contratación directa,10000000.0,3,3,0,0,0.0,72500000.0,0,0.0
+CO1.PCCNTR.6585503,cloud_or_software_nonAI,True,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.6409239,cloud_or_software_nonAI,True,True,Contratación directa,16125000.0,1,1,0,0,0.0,16125000.0,0,0.0
+CO1.PCCNTR.8696859,cloud_or_software_nonAI,True,True,Contratación Directa (con ofertas),4418617560.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5365613,incidental,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.4630999,cloud_or_software_nonAI,True,True,Contratación directa,49340625.0,3,3,0,0,0.0,131575000.0,0,0.0
+CO1.PCCNTR.5615137,incidental,True,False,Contratación directa,3000000.0,1,1,0,0,0.0,3000000.0,0,0.0
+CO1.PCCNTR.4579340,cloud_or_software_nonAI,True,True,Contratación directa,73031392.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5433334,cloud_or_software_nonAI,False,False,Contratación directa,7500000.0,1,1,0,0,0.0,7500000.0,0,0.0
+CO1.PCCNTR.6576725,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5898446,cloud_or_software_nonAI,True,False,Contratación directa,49117200.0,3,3,0,0,0.0,147351600.0,0,0.0
+CO1.PCCNTR.6576413,cloud_or_software_nonAI,False,False,Contratación directa,20250000.0,1,1,0,0,0.0,20250000.0,0,0.0
+CO1.PCCNTR.5432890,cloud_or_software_nonAI,False,False,Contratación directa,7500000.0,1,1,0,0,0.0,7500000.0,0,0.0
+CO1.PCCNTR.8690412,cloud_or_software_nonAI,True,True,Selección abreviada subasta inversa,898140000.0,1,1,0,0,0.0,898140000.0,0,0.0
+CO1.PCCNTR.6643078,ai_development_service,False,True,Contratación directa,35000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7495003,individual_professional_ai,False,False,Contratación directa,59467200.0,3,3,1,1,13.0,176114400.0,0,12.0
+CO1.PCCNTR.6161311,individual_professional_ai,False,False,Contratación directa,62300000.0,2,2,1,0,27.0,124600000.0,0,0.0
+CO1.PCCNTR.4806666,individual_professional_ai,False,False,Contratación directa,6565740.0,2,2,0,0,0.0,13131480.0,0,0.0
+CO1.PCCNTR.8664719,incidental,False,True,Contratación régimen especial,49943389.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7543686,incidental,False,True,Contratación directa,101281205.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8696842,individual_professional_ai,True,False,Contratación directa,7390000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8894635,individual_professional_ai,False,False,Contratación directa,51825760.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5368767,ai_development_service,False,True,Contratación directa,557373984.0,3,3,0,0,0.0,1672121952.0,0,0.0
+CO1.PCCNTR.4533186,individual_professional_ai,False,False,Contratación directa,6994359.0,2,2,0,0,0.0,13988718.0,0,0.0
+CO1.PCCNTR.7702148,individual_professional_ai,False,False,Contratación directa,61620000.0,1,1,0,0,0.0,61620000.0,0,0.0
+CO1.PCCNTR.8675078,incidental,False,True,Mínima cuantía,29186892.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8442280,individual_professional_ai,False,False,Contratación directa,96000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7496571,individual_professional_ai,False,False,Contratación directa,67662036.0,1,1,0,0,0.0,67662036.0,0,0.0
+CO1.PCCNTR.6596522,individual_professional_ai,False,False,Contratación directa,67410000.0,2,2,1,1,58.0,134820000.0,0,0.0
+CO1.PCCNTR.8236027,individual_professional_ai,False,False,Contratación directa,31500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6117669,individual_professional_ai,False,False,Contratación directa,60129504.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4762459,individual_professional_ai,False,False,Contratación directa,52500000.0,2,2,0,1,75.0,105000000.0,0,0.0
+CO1.PCCNTR.5635514,incidental,False,True,Contratación directa,450000000.0,2,2,0,0,0.0,900000000.0,0,0.0
+CO1.PCCNTR.5431116,individual_professional_ai,False,False,Contratación directa,4838652.0,2,2,0,0,0.0,9677304.0,0,0.0
+CO1.PCCNTR.5046103,individual_professional_ai,False,False,Contratación directa,34931997.0,1,1,0,0,0.0,34931997.0,0,0.0
+CO1.PCCNTR.6429305,incidental,False,True,Contratación régimen especial,197731590.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5395919,individual_professional_ai,False,False,Contratación directa,11433425.0,1,1,0,0,0.0,11433425.0,0,0.0
+CO1.PCCNTR.5382537,individual_professional_ai,False,False,Contratación directa,24775200.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7506235,individual_professional_ai,False,False,Contratación directa,95680000.0,2,2,0,0,0.0,191360000.0,0,0.0
+CO1.PCCNTR.5798287,individual_professional_ai,False,False,Contratación directa,34200000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8973620,individual_professional_ai,False,False,Contratación directa,59216667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4751624,individual_professional_ai,False,False,Contratación directa,39360000.0,1,1,0,0,0.0,39360000.0,0,0.0
+CO1.PCCNTR.5350651,individual_professional_ai,False,False,Contratación directa,6315000.0,1,1,0,0,0.0,6315000.0,0,0.0
+CO1.PCCNTR.8800267,individual_professional_ai,False,False,Contratación directa,61050000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7877923,incidental,False,True,Contratación régimen especial (con ofertas),5099800.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5373508,individual_professional_ai,False,False,Contratación directa,23796660.0,1,1,0,0,0.0,23796660.0,0,0.0
+CO1.PCCNTR.5212267,individual_professional_ai,False,False,Contratación directa,10395755.0,2,2,0,0,0.0,20791510.0,0,0.0
+CO1.PCCNTR.5457814,incidental,False,True,Mínima cuantía,84500000.0,3,3,2,2,29.0,253500000.0,0,14.0
+CO1.PCCNTR.5617095,individual_professional_ai,False,False,Contratación directa,4152955.0,1,1,0,0,0.0,4152955.0,0,0.0
+CO1.PCCNTR.8216992,individual_professional_ai,False,False,Contratación directa,66495000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5296335,incidental,False,False,Mínima cuantía,5172399.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8047428,individual_professional_ai,False,False,Contratación directa,27689490.0,1,1,0,0,0.0,27689490.0,0,0.0
+CO1.PCCNTR.4806848,individual_professional_ai,False,False,Contratación directa,39893000.0,2,2,0,0,0.0,79786000.0,0,0.0
+CO1.PCCNTR.8854496,individual_professional_ai,False,False,Contratación directa,98700000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4806954,individual_professional_ai,False,False,Contratación directa,37993333.0,2,2,0,0,0.0,75986666.0,0,0.0
+CO1.PCCNTR.4752217,individual_professional_ai,False,False,Contratación directa,38950000.0,1,1,0,0,0.0,38950000.0,0,0.0
+CO1.PCCNTR.9733861,individual_professional_ai,False,False,Contratación directa,14799999.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7610430,individual_professional_ai,False,False,Contratación directa,93950000.0,1,1,0,0,0.0,93950000.0,0,0.0
+CO1.PCCNTR.5352136,individual_professional_ai,False,False,Contratación directa,6315000.0,1,1,0,0,0.0,6315000.0,0,0.0
+CO1.PCCNTR.5869364,individual_professional_ai,False,False,Contratación directa,57140000.0,1,1,0,0,0.0,57140000.0,0,0.0
+CO1.PCCNTR.8296206,incidental,False,True,Contratación régimen especial,18319393.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4713578,individual_professional_ai,False,False,Contratación directa,20983077.0,1,1,0,0,0.0,20983077.0,0,0.0
+CO1.PCCNTR.6534433,individual_professional_ai,False,False,Contratación directa,42000000.0,1,1,0,0,0.0,42000000.0,0,0.0
+CO1.PCCNTR.8973733,individual_professional_ai,False,False,Contratación directa,173349000.0,1,1,0,0,5.0,173349000.0,0,5.0
+CO1.PCCNTR.9106902,individual_professional_ai,False,False,Contratación directa,42000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5309732,individual_professional_ai,False,False,Contratación directa,26136000.0,2,2,0,0,62.0,47625600.0,0,33.0
+CO1.PCCNTR.5086318,individual_professional_ai,False,False,Contratación directa,24600000.0,2,2,1,1,61.0,49200000.0,0,0.0
+CO1.PCCNTR.5187020,individual_professional_ai,False,False,Contratación directa,30014386.0,1,1,0,0,0.0,30014386.0,0,0.0
+CO1.PCCNTR.6207902,individual_professional_ai,False,False,Contratación directa,48166020.0,3,3,0,1,60.0,144498060.0,0,0.0
+CO1.PCCNTR.6523650,incidental,False,True,Contratación directa,87306750.0,1,1,0,0,4.0,87306750.0,0,4.0
+CO1.PCCNTR.6097049,individual_professional_ai,False,False,Contratación directa,46332000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5170857,incidental,False,True,Contratación directa,1139391000.0,1,1,0,0,0.0,1139391000.0,0,0.0
+CO1.PCCNTR.5204673,incidental,False,False,Mínima cuantía,7994800.0,2,2,0,0,15.0,15989600.0,0,15.0
+CO1.PCCNTR.5364181,unclear,False,True,Contratación Directa (con ofertas),899657995.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7062424,incidental,False,True,Contratación directa,202256410.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7221633,individual_professional_ai,False,False,Contratación directa,42066385.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8959469,individual_professional_ai,False,False,Contratación directa,79000000.0,2,2,0,0,0.0,158000000.0,26,0.0
+CO1.PCCNTR.8604761,individual_professional_ai,False,False,Contratación directa,10633333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6059734,individual_professional_ai,False,False,Contratación directa,57780000.0,3,3,0,1,62.0,154080000.0,0,0.0
+CO1.PCCNTR.5515266,individual_professional_ai,False,False,Contratación directa,18600000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5244449,individual_professional_ai,False,False,Contratación directa,20440000.0,1,1,0,1,26.0,20440000.0,0,26.0
+CO1.PCCNTR.8805474,individual_professional_ai,False,False,Contratación directa,130000000.0,1,1,0,0,2.0,130000000.0,0,2.0
+CO1.PCCNTR.8554914,individual_professional_ai,False,False,Contratación régimen especial,21511786.0,1,1,0,0,0.0,21511786.0,0,0.0
+CO1.PCCNTR.8554701,individual_professional_ai,False,False,Contratación régimen especial,21511786.0,1,1,0,0,0.0,21511786.0,0,0.0
+CO1.PCCNTR.8773072,individual_professional_ai,False,False,Contratación régimen especial,127995106.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4493759,individual_professional_ai,False,False,Contratación directa,16808000.0,2,2,0,0,0.0,33616000.0,0,0.0
+CO1.PCCNTR.7463824,individual_professional_ai,False,False,Contratación directa,112713334.0,5,5,2,1,81.0,451913334.0,2,81.0
+CO1.PCCNTR.6083907,individual_professional_ai,False,False,Contratación directa,60000000.0,1,1,0,0,0.0,60000000.0,0,0.0
+CO1.PCCNTR.5020632,individual_professional_ai,False,False,Contratación directa,29554067.0,1,1,0,0,0.0,29554067.0,0,0.0
+CO1.PCCNTR.7424304,individual_professional_ai,False,False,Contratación directa,106333327.0,1,1,0,0,0.0,106333327.0,0,0.0
+CO1.PCCNTR.5362518,individual_professional_ai,False,False,Contratación directa,35410433.0,1,1,0,0,0.0,35410433.0,0,0.0
+CO1.PCCNTR.6070623,individual_professional_ai,False,False,Contratación directa,22708585.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5017368,individual_professional_ai,False,False,Contratación directa,29694134.0,2,2,0,1,0.0,59388268.0,0,0.0
+CO1.PCCNTR.6913901,individual_professional_ai,False,False,Contratación directa,13756000.0,1,1,0,0,0.0,13756000.0,0,0.0
+CO1.PCCNTR.8235850,individual_professional_ai,False,False,Contratación régimen especial,107880000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8958093,individual_professional_ai,False,False,Contratación directa,32000000.0,1,1,0,0,5.0,32000000.0,0,5.0
+CO1.PCCNTR.4719732,individual_professional_ai,False,False,Contratación directa,16808000.0,1,1,0,1,0.0,16808000.0,0,0.0
+CO1.PCCNTR.5781846,individual_professional_ai,False,False,Contratación directa,48000000.0,2,2,0,0,0.0,96000000.0,0,0.0
+CO1.PCCNTR.5180789,individual_professional_ai,False,False,Contratación directa,24791809.0,1,1,0,0,0.0,24791809.0,0,0.0
+CO1.PCCNTR.7542120,individual_professional_ai,False,False,Contratación directa,33295500.0,1,1,0,0,0.0,33295500.0,0,0.0
+CO1.PCCNTR.6390402,individual_professional_ai,False,False,Contratación directa,21720000.0,4,4,0,0,0.0,86880000.0,0,0.0
+CO1.PCCNTR.7081215,individual_professional_ai,False,False,Contratación directa,7600000.0,1,1,0,0,0.0,7600000.0,0,0.0
+CO1.PCCNTR.4473042,individual_professional_ai,False,False,Contratación directa,23540000.0,2,2,0,0,0.0,47080000.0,0,0.0
+CO1.PCCNTR.5495833,individual_professional_ai,False,False,Contratación directa,18802000.0,1,1,0,0,0.0,18802000.0,0,0.0
+CO1.PCCNTR.8856629,individual_professional_ai,False,False,Contratación directa,132447000.0,1,1,1,1,61.0,132447000.0,0,61.0
+CO1.PCCNTR.5020323,individual_professional_ai,False,False,Contratación directa,36601467.0,1,1,0,0,0.0,36601467.0,0,0.0
+CO1.PCCNTR.8774124,individual_professional_ai,False,False,Contratación régimen especial,124051287.0,1,1,0,0,0.0,124051287.0,0,0.0
+CO1.PCCNTR.5854326,individual_professional_ai,False,False,Contratación directa,53155300.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6875359,individual_professional_ai,False,False,Contratación directa,15023000.0,2,2,0,0,0.0,30046000.0,0,0.0
+CO1.PCCNTR.5846106,individual_professional_ai,False,False,Contratación directa,65162544.0,2,2,1,1,122.0,130325088.0,0,0.0
+CO1.PCCNTR.5841073,individual_professional_ai,False,False,Contratación directa,54282832.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6390852,individual_professional_ai,False,False,Contratación directa,21720000.0,1,1,0,0,0.0,21720000.0,0,0.0
+CO1.PCCNTR.5854341,individual_professional_ai,False,False,Contratación directa,53155300.0,1,1,0,0,0.0,53155300.0,0,0.0
+CO1.PCCNTR.5531967,individual_professional_ai,False,False,Contratación directa,36000000.0,1,1,0,0,0.0,36000000.0,0,0.0
+CO1.PCCNTR.6870895,individual_professional_ai,False,False,Contratación directa,16290000.0,1,1,0,0,0.0,16290000.0,0,0.0
+CO1.PCCNTR.7551299,individual_professional_ai,False,False,Contratación directa,101000000.0,2,2,0,0,0.0,202000000.0,0,0.0
+CO1.PCCNTR.5828297,individual_professional_ai,False,False,Contratación directa,72934764.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8142442,individual_professional_ai,False,False,Contratación directa,75684000.0,1,1,0,0,0.0,75684000.0,0,0.0
+CO1.PCCNTR.6654713,individual_professional_ai,False,False,Contratación directa,54400000.0,1,1,0,0,0.0,54400000.0,0,0.0
+CO1.PCCNTR.8424053,individual_professional_ai,False,False,Contratación régimen especial,27248250.0,1,1,0,0,0.0,27248250.0,0,0.0
+CO1.PCCNTR.5362510,individual_professional_ai,False,False,Contratación directa,35410433.0,1,1,0,0,0.0,35410433.0,0,0.0
+CO1.PCCNTR.7141735,incidental,False,False,Contratación directa,18000000.0,1,1,0,0,0.0,18000000.0,0,0.0
+CO1.PCCNTR.7463934,individual_professional_ai,False,False,Contratación directa,112360000.0,4,4,0,1,80.0,394320000.0,0,0.0
+CO1.PCCNTR.5111002,individual_professional_ai,False,False,Contratación directa,37075503.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6618456,individual_professional_ai,False,False,Contratación directa,50000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8992980,individual_professional_ai,False,False,Contratación directa,72919440.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9177981,individual_professional_ai,False,False,Contratación directa,77711200.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6675445,individual_professional_ai,False,False,Contratación directa,38700000.0,1,1,0,0,0.0,38700000.0,0,0.0
+CO1.PCCNTR.7463915,individual_professional_ai,False,False,Contratación directa,112713334.0,6,6,2,1,81.0,564626668.0,2,0.0
+CO1.PCCNTR.7307679,individual_professional_ai,False,False,Contratación directa,51714000.0,1,1,0,0,0.0,51714000.0,0,0.0
+CO1.PCCNTR.7558186,individual_professional_ai,False,False,Contratación directa,11400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6390948,individual_professional_ai,False,False,Contratación directa,21720000.0,2,2,0,0,0.0,43440000.0,0,0.0
+CO1.PCCNTR.7423672,individual_professional_ai,False,False,Contratación directa,132916673.0,1,1,0,0,0.0,132916673.0,0,0.0
+CO1.PCCNTR.8778725,individual_professional_ai,False,False,Contratación régimen especial,127995106.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4493486,individual_professional_ai,False,False,Contratación directa,16808000.0,2,2,0,1,0.0,33616000.0,0,0.0
+CO1.PCCNTR.5828561,individual_professional_ai,False,False,Contratación directa,70358080.0,1,1,0,0,0.0,70358080.0,0,0.0
+CO1.PCCNTR.5520037,individual_professional_ai,False,False,Contratación directa,22500000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8853946,individual_professional_ai,False,False,Contratación directa,89040000.0,1,1,0,0,0.0,89040000.0,0,0.0
+CO1.PCCNTR.8866349,individual_professional_ai,False,False,Contratación directa,74095560.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9093231,individual_professional_ai,False,False,Contratación directa,111300000.0,2,2,0,1,124.0,222600000.0,0,62.0
+CO1.PCCNTR.7285073,individual_professional_ai,False,False,Contratación directa,125033333.0,1,1,0,0,0.0,125033333.0,0,0.0
+CO1.PCCNTR.6444799,individual_professional_ai,False,False,Contratación directa,70000000.0,1,1,0,0,0.0,70000000.0,0,0.0
+CO1.PCCNTR.8142273,individual_professional_ai,False,False,Contratación directa,53000000.0,3,3,0,0,0.0,181684000.0,0,0.0
+CO1.PCCNTR.8879698,individual_professional_ai,False,False,Contratación directa,89040000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8987921,individual_professional_ai,False,False,Contratación directa,84909000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4494014,individual_professional_ai,False,False,Contratación directa,20816000.0,1,1,0,1,0.0,20816000.0,0,0.0
+CO1.PCCNTR.7168882,ai_product_or_platform,True,True,Mínima cuantía,34890000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7682632,individual_professional_ai,False,False,Contratación directa,4500000.0,1,1,0,0,0.0,4500000.0,0,0.0
+CO1.PCCNTR.8251703,incidental,False,True,Contratación Directa (con ofertas),300000000.0,1,1,0,0,0.0,300000000.0,0,0.0
+CO1.PCCNTR.8502760,ai_product_or_platform,True,True,Mínima cuantía,15010000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8386549,ai_product_or_platform,True,True,Mínima cuantía,21229149.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6363631,incidental,False,False,Contratación directa,43106667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4782676,incidental,False,False,Contratación directa,34797520.0,1,1,0,0,0.0,34797520.0,0,0.0
+CO1.PCCNTR.6018960,incidental,False,True,Mínima cuantía,59899480.0,2,2,0,0,0.0,119798960.0,0,0.0
+CO1.PCCNTR.7759377,incidental,False,False,Contratación directa,92700000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9278847,ai_product_or_platform,True,True,Contratación régimen especial,74618166.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4874561,incidental,False,True,Contratación directa,93000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8728024,ai_product_or_platform,True,True,Mínima cuantía,27487680.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4933955,incidental,False,False,Contratación directa,58404380.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8184190,incidental,False,True,Mínima cuantía,56456500.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7733436,incidental,False,False,Contratación directa,50400000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4933409,incidental,False,False,Contratación directa,58404380.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7135967,ai_product_or_platform,True,True,Mínima cuantía,110397200.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9490553,incidental,False,True,Mínima cuantía,59168750.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9163718,incidental,False,False,Contratación directa,65972667.0,1,1,0,0,0.0,65972667.0,0,0.0
+CO1.PCCNTR.7142021,ai_product_or_platform,True,True,Selección abreviada subasta inversa,157000000.0,1,1,0,0,0.0,157000000.0,0,0.0
+CO1.PCCNTR.7030880,ai_product_or_platform,True,True,Contratación régimen especial,80843200.0,1,1,0,0,0.0,80843200.0,0,0.0
+CO1.PCCNTR.6117476,incidental,False,True,Contratación régimen especial,20706000.0,3,3,0,0,0.0,62118000.0,0,0.0
+CO1.PCCNTR.5239683,incidental,False,False,Contratación directa,51906301.0,3,3,0,0,60.0,149049378.0,0,0.0
+CO1.PCCNTR.7161717,ai_product_or_platform,True,True,Selección abreviada subasta inversa,1309268704.0,1,1,0,0,0.0,1309268704.0,0,0.0
+CO1.PCCNTR.9985078,ai_product_or_platform,True,True,Contratación régimen especial,131670000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8982811,incidental,False,False,Contratación directa,78291000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6379635,incidental,False,False,Contratación directa,43106667.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9430743,cloud_or_software_nonAI,True,True,Mínima cuantía,69915880.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5551757,cloud_or_software_nonAI,True,False,Contratación directa,29556360.0,2,2,0,0,0.0,59112720.0,0,0.0
+CO1.PCCNTR.5108243,cloud_or_software_nonAI,True,True,Contratación régimen especial,65731562.0,1,1,0,0,0.0,65731562.0,0,0.0
+CO1.PCCNTR.6362224,cloud_or_software_nonAI,True,False,Contratación directa,53831980.0,2,2,0,0,0.0,107663960.0,0,0.0
+CO1.PCCNTR.4565058,cloud_or_software_nonAI,True,False,Contratación directa,157464000.0,2,2,1,1,15.0,314928000.0,0,0.0
+CO1.PCCNTR.5221145,incidental,False,True,Contratación Directa (con ofertas),1242972000.0,2,2,0,0,0.0,2485944000.0,0,0.0
+CO1.PCCNTR.9494118,cloud_or_software_nonAI,True,True,Contratación régimen especial (con ofertas),22185140000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8850623,cloud_or_software_nonAI,True,False,Contratación directa,86965604.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7769371,incidental,True,False,Contratación régimen especial,31850000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.5350844,cloud_or_software_nonAI,True,True,Contratación régimen especial,15000000.0,1,1,0,0,0.0,15000000.0,0,0.0
+CO1.PCCNTR.8586508,cloud_or_software_nonAI,True,False,Contratación régimen especial,16683333.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9577604,cloud_or_software_nonAI,True,True,Mínima cuantía,25380000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.8437338,cloud_or_software_nonAI,True,True,Contratación directa,7626312548.79,4,4,2,3,382.0,25990201856.58,0,168.0
+CO1.PCCNTR.6500190,cloud_or_software_nonAI,True,True,Contratación régimen especial,7092078.0,2,2,0,0,0.0,8338776.0,0,0.0
+CO1.PCCNTR.8729873,cloud_or_software_nonAI,True,True,Mínima cuantía,34322395.0,3,3,0,1,0.0,96210327.0,0,0.0
+CO1.PCCNTR.6359265,cloud_or_software_nonAI,True,True,Contratación régimen especial,474241428.0,1,1,0,0,30.0,474241428.0,0,30.0
+CO1.PCCNTR.8474365,incidental,False,True,Contratación directa,11800000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6849995,cloud_or_software_nonAI,True,True,Contratación régimen especial (con ofertas),48060960.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9187741,cloud_or_software_nonAI,True,True,Contratación directa,22000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7119131,cloud_or_software_nonAI,True,True,Contratación Directa (con ofertas),999978966.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.4521922,cloud_or_software_nonAI,True,True,Contratación régimen especial,74057850.0,4,4,0,3,184.0,271545450.0,0,0.0
+CO1.PCCNTR.4863585,cloud_or_software_nonAI,True,True,Contratación régimen especial,397843319.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9256824,cloud_or_software_nonAI,True,True,Contratación directa,120000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6232841,cloud_or_software_nonAI,True,True,Mínima cuantía,1701639.0,2,2,0,0,0.0,3403278.0,0,0.0
+CO1.PCCNTR.9726981,cloud_or_software_nonAI,True,True,Contratación directa,280000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.7713503,cloud_or_software_nonAI,True,True,Contratación directa,66000000.0,1,1,0,0,0.0,66000000.0,0,0.0
+CO1.PCCNTR.9259801,cloud_or_software_nonAI,True,True,Contratación directa,60000000.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.9377910,cloud_or_software_nonAI,True,True,Mínima cuantía,21911646.0,0,0,0,0,0,0,0,0.0
+CO1.PCCNTR.6232842,cloud_or_software_nonAI,True,True,Mínima cuantía,2356200.0,2,2,0,0,0.0,4712400.0,0,0.0
