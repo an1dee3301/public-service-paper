@@ -5,84 +5,86 @@
     {
       "file": "closed_form/characterise.py",
       "exit_code": 0,
-      "seconds": 45.416,
+      "seconds": 38.598,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "closed_form/classification.py",
       "exit_code": 0,
-      "seconds": 34.943,
+      "seconds": 29.485,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "independent/solver.py",
       "exit_code": 0,
-      "seconds": 1.676,
+      "seconds": 1.286,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "independent/audit.py",
       "exit_code": 0,
-      "seconds": 7.935,
+      "seconds": 7.068,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "independent/boundaries.py",
       "exit_code": 0,
-      "seconds": 0.067,
+      "seconds": 0.095,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "general/check_theory.py",
       "exit_code": 0,
-      "seconds": 30.998,
+      "seconds": 26.478,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "extensions/check_extensions.py",
       "exit_code": 0,
-      "seconds": 5.015,
+      "seconds": 4.309,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "institutions/solver.py",
       "exit_code": 0,
-      "seconds": 7.046,
+      "seconds": 5.867,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "historical/model_extensions.py",
       "exit_code": 0,
-      "seconds": 22.543,
+      "seconds": 44.788,
       "diagnostic": "",
-      "warnings": []
+      "warnings": [
+        "Matplotlib is building the font cache; this may take a moment."
+      ]
     },
     {
       "file": "historical/reserve_checks.py",
       "exit_code": 0,
-      "seconds": 39.458,
+      "seconds": 34.911,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "historical/consolidation.py",
       "exit_code": 0,
-      "seconds": 29.299,
+      "seconds": 25.841,
       "diagnostic": "",
       "warnings": []
     },
     {
       "file": "phase/fig_cases.py",
       "exit_code": 0,
-      "seconds": 35.662,
+      "seconds": 28.873,
       "diagnostic": "",
       "warnings": [
         "Matplotlib is building the font cache; this may take a moment."
@@ -91,9 +93,11 @@
     {
       "file": "region/fig_region.py",
       "exit_code": 0,
-      "seconds": 1.073,
+      "seconds": 23.23,
       "diagnostic": "",
-      "warnings": []
+      "warnings": [
+        "Matplotlib is building the font cache; this may take a moment."
+      ]
     }
   ],
   "comparison": {
@@ -106,7 +110,7 @@
         "printed": [
           "5"
         ],
-        "line": 218,
+        "line": 222,
         "status": "MATCH"
       },
       {
@@ -117,7 +121,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 218,
+        "line": 222,
         "status": "MATCH"
       },
       {
@@ -128,7 +132,7 @@
         "printed": [
           "4"
         ],
-        "line": 218,
+        "line": 222,
         "status": "MATCH"
       },
       {
@@ -139,7 +143,7 @@
         "printed": [
           "2"
         ],
-        "line": 218,
+        "line": 222,
         "status": "MATCH"
       },
       {
@@ -150,7 +154,7 @@
         "printed": [
           "2"
         ],
-        "line": 218,
+        "line": 222,
         "status": "MATCH"
       },
       {
@@ -161,7 +165,7 @@
         "printed": [
           "2"
         ],
-        "line": 218,
+        "line": 222,
         "status": "MATCH"
       },
       {
@@ -172,7 +176,7 @@
         "printed": [
           "7/2"
         ],
-        "line": 218,
+        "line": 222,
         "status": "MATCH"
       },
       {
@@ -183,7 +187,7 @@
         "printed": [
           "8"
         ],
-        "line": 219,
+        "line": 223,
         "status": "MATCH"
       },
       {
@@ -194,7 +198,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 219,
+        "line": 223,
         "status": "MATCH"
       },
       {
@@ -205,7 +209,7 @@
         "printed": [
           "13/4"
         ],
-        "line": 219,
+        "line": 223,
         "status": "MATCH"
       },
       {
@@ -216,7 +220,7 @@
         "printed": [
           "-1/4"
         ],
-        "line": 219,
+        "line": 223,
         "status": "MATCH"
       },
       {
@@ -227,7 +231,7 @@
         "printed": [
           "-1/4"
         ],
-        "line": 219,
+        "line": 223,
         "status": "MATCH"
       },
       {
@@ -238,7 +242,7 @@
         "printed": [
           "0"
         ],
-        "line": 219,
+        "line": 223,
         "status": "MATCH"
       },
       {
@@ -249,7 +253,7 @@
         "printed": [
           "11/4"
         ],
-        "line": 219,
+        "line": 223,
         "status": "MATCH"
       },
       {
@@ -260,7 +264,7 @@
         "printed": [
           "19/2"
         ],
-        "line": 220,
+        "line": 224,
         "status": "MATCH"
       },
       {
@@ -271,7 +275,7 @@
         "printed": [
           "1"
         ],
-        "line": 220,
+        "line": 224,
         "status": "MATCH"
       },
       {
@@ -282,7 +286,7 @@
         "printed": [
           "1/4"
         ],
-        "line": 220,
+        "line": 224,
         "status": "MATCH"
       },
       {
@@ -293,7 +297,7 @@
         "printed": [
           "-5/2"
         ],
-        "line": 220,
+        "line": 224,
         "status": "MATCH"
       },
       {
@@ -304,7 +308,7 @@
         "printed": [
           "-5/2"
         ],
-        "line": 220,
+        "line": 224,
         "status": "MATCH"
       },
       {
@@ -315,7 +319,7 @@
         "printed": [
           "-3/4"
         ],
-        "line": 220,
+        "line": 224,
         "status": "MATCH"
       },
       {
@@ -326,7 +330,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 220,
+        "line": 224,
         "status": "MATCH"
       },
       {
@@ -337,7 +341,7 @@
         "printed": [
           "0"
         ],
-        "line": 248,
+        "line": 252,
         "status": "MATCH"
       },
       {
@@ -348,7 +352,7 @@
         "printed": [
           "7/2"
         ],
-        "line": 248,
+        "line": 252,
         "status": "MATCH"
       },
       {
@@ -359,7 +363,7 @@
         "printed": [
           "0"
         ],
-        "line": 249,
+        "line": 253,
         "status": "MATCH"
       },
       {
@@ -370,7 +374,7 @@
         "printed": [
           "4"
         ],
-        "line": 249,
+        "line": 253,
         "status": "MATCH"
       },
       {
@@ -381,7 +385,7 @@
         "printed": [
           "0"
         ],
-        "line": 250,
+        "line": 254,
         "status": "MATCH"
       },
       {
@@ -392,7 +396,7 @@
         "printed": [
           "7/2"
         ],
-        "line": 250,
+        "line": 254,
         "status": "MATCH"
       },
       {
@@ -403,7 +407,7 @@
         "printed": [
           "0"
         ],
-        "line": 251,
+        "line": 255,
         "status": "MATCH"
       },
       {
@@ -414,7 +418,7 @@
         "printed": [
           "4"
         ],
-        "line": 251,
+        "line": 255,
         "status": "MATCH"
       },
       {
@@ -425,7 +429,7 @@
         "printed": [
           "0"
         ],
-        "line": 252,
+        "line": 256,
         "status": "MATCH"
       },
       {
@@ -436,7 +440,7 @@
         "printed": [
           "7/2"
         ],
-        "line": 252,
+        "line": 256,
         "status": "MATCH"
       },
       {
@@ -447,7 +451,7 @@
         "printed": [
           "1"
         ],
-        "line": 253,
+        "line": 257,
         "status": "MATCH"
       },
       {
@@ -458,7 +462,7 @@
         "printed": [
           "2"
         ],
-        "line": 253,
+        "line": 257,
         "status": "MATCH"
       },
       {
@@ -471,7 +475,7 @@
           "4",
           "6"
         ],
-        "line": 491,
+        "line": 495,
         "status": "MATCH"
       },
       {
@@ -484,7 +488,7 @@
           "0",
           "8"
         ],
-        "line": 491,
+        "line": 495,
         "status": "MATCH"
       },
       {
@@ -495,7 +499,7 @@
         "printed": [
           "1/4"
         ],
-        "line": 491,
+        "line": 495,
         "status": "MATCH"
       },
       {
@@ -510,7 +514,7 @@
           "9",
           "33"
         ],
-        "line": 491,
+        "line": 495,
         "status": "MATCH"
       },
       {
@@ -521,7 +525,7 @@
         "printed": [
           "40"
         ],
-        "line": 491,
+        "line": 495,
         "status": "MATCH"
       },
       {
@@ -534,7 +538,7 @@
           "3",
           "8"
         ],
-        "line": 492,
+        "line": 496,
         "status": "MATCH"
       },
       {
@@ -547,7 +551,7 @@
           "0",
           "9"
         ],
-        "line": 492,
+        "line": 496,
         "status": "MATCH"
       },
       {
@@ -558,7 +562,7 @@
         "printed": [
           "1/8"
         ],
-        "line": 492,
+        "line": 496,
         "status": "MATCH"
       },
       {
@@ -573,7 +577,7 @@
           "41",
           "73"
         ],
-        "line": 492,
+        "line": 496,
         "status": "MATCH"
       },
       {
@@ -584,7 +588,7 @@
         "printed": [
           "187"
         ],
-        "line": 492,
+        "line": 496,
         "status": "MATCH"
       },
       {
@@ -595,7 +599,7 @@
         "printed": [
           "69"
         ],
-        "line": 504,
+        "line": 510,
         "status": "MATCH"
       },
       {
@@ -606,7 +610,7 @@
         "printed": [
           "0"
         ],
-        "line": 504,
+        "line": 510,
         "status": "MATCH"
       },
       {
@@ -617,7 +621,7 @@
         "printed": [
           "24"
         ],
-        "line": 505,
+        "line": 511,
         "status": "MATCH"
       },
       {
@@ -628,7 +632,7 @@
         "printed": [
           "0"
         ],
-        "line": 505,
+        "line": 511,
         "status": "MATCH"
       },
       {
@@ -639,7 +643,7 @@
         "printed": [
           "21"
         ],
-        "line": 506,
+        "line": 512,
         "status": "MATCH"
       },
       {
@@ -650,7 +654,7 @@
         "printed": [
           "0"
         ],
-        "line": 506,
+        "line": 512,
         "status": "MATCH"
       },
       {
@@ -661,7 +665,7 @@
         "printed": [
           "63"
         ],
-        "line": 507,
+        "line": 513,
         "status": "MATCH"
       },
       {
@@ -672,7 +676,7 @@
         "printed": [
           "40"
         ],
-        "line": 507,
+        "line": 513,
         "status": "MATCH"
       },
       {
@@ -683,7 +687,7 @@
         "printed": [
           "120"
         ],
-        "line": 508,
+        "line": 514,
         "status": "MATCH"
       },
       {
@@ -694,7 +698,7 @@
         "printed": [
           "0"
         ],
-        "line": 508,
+        "line": 514,
         "status": "MATCH"
       },
       {
@@ -705,7 +709,7 @@
         "printed": [
           "1791"
         ],
-        "line": 509,
+        "line": 515,
         "status": "MATCH"
       },
       {
@@ -716,7 +720,7 @@
         "printed": [
           "0"
         ],
-        "line": 509,
+        "line": 515,
         "status": "MATCH"
       },
       {
@@ -727,7 +731,7 @@
         "printed": [
           "96"
         ],
-        "line": 510,
+        "line": 516,
         "status": "MATCH"
       },
       {
@@ -738,7 +742,7 @@
         "printed": [
           "0"
         ],
-        "line": 510,
+        "line": 516,
         "status": "MATCH"
       },
       {
@@ -749,7 +753,7 @@
         "printed": [
           "689"
         ],
-        "line": 511,
+        "line": 517,
         "status": "MATCH"
       },
       {
@@ -760,7 +764,7 @@
         "printed": [
           "0"
         ],
-        "line": 511,
+        "line": 517,
         "status": "MATCH"
       },
       {
@@ -771,7 +775,7 @@
         "printed": [
           "0"
         ],
-        "line": 512,
+        "line": 518,
         "status": "MATCH"
       },
       {
@@ -782,7 +786,7 @@
         "printed": [
           "0"
         ],
-        "line": 512,
+        "line": 518,
         "status": "MATCH"
       },
       {
@@ -793,7 +797,7 @@
         "printed": [
           "417"
         ],
-        "line": 513,
+        "line": 519,
         "status": "MATCH"
       },
       {
@@ -804,7 +808,7 @@
         "printed": [
           "187"
         ],
-        "line": 513,
+        "line": 519,
         "status": "MATCH"
       },
       {
@@ -815,7 +819,7 @@
         "printed": [
           "40"
         ],
-        "line": 531,
+        "line": 537,
         "status": "MATCH"
       },
       {
@@ -826,7 +830,7 @@
         "printed": [
           "5"
         ],
-        "line": 531,
+        "line": 537,
         "status": "MATCH"
       },
       {
@@ -837,7 +841,7 @@
         "printed": [
           "25/2"
         ],
-        "line": 531,
+        "line": 537,
         "status": "MATCH"
       },
       {
@@ -848,7 +852,7 @@
         "printed": [
           "187"
         ],
-        "line": 532,
+        "line": 538,
         "status": "MATCH"
       },
       {
@@ -859,7 +863,7 @@
         "printed": [
           "33"
         ],
-        "line": 532,
+        "line": 538,
         "status": "MATCH"
       },
       {
@@ -870,7 +874,7 @@
         "printed": [
           "88/5"
         ],
-        "line": 532,
+        "line": 538,
         "status": "MATCH"
       },
       {
@@ -881,7 +885,7 @@
         "printed": [
           "20"
         ],
-        "line": 533,
+        "line": 539,
         "status": "MATCH"
       },
       {
@@ -892,7 +896,7 @@
         "printed": [
           "5296"
         ],
-        "line": 534,
+        "line": 540,
         "status": "MATCH"
       },
       {
@@ -903,7 +907,7 @@
         "printed": [
           "1684"
         ],
-        "line": 534,
+        "line": 540,
         "status": "MATCH"
       },
       {
@@ -914,7 +918,7 @@
         "printed": [
           "159/5"
         ],
-        "line": 534,
+        "line": 540,
         "status": "MATCH"
       },
       {
@@ -925,7 +929,7 @@
         "printed": [
           "20000"
         ],
-        "line": 535,
+        "line": 541,
         "status": "MATCH"
       },
       {
@@ -936,7 +940,7 @@
         "printed": [
           "9714"
         ],
-        "line": 535,
+        "line": 541,
         "status": "MATCH"
       },
       {
@@ -947,7 +951,7 @@
         "printed": [
           "243/5"
         ],
-        "line": 535,
+        "line": 541,
         "status": "MATCH"
       },
       {
@@ -958,7 +962,7 @@
         "printed": [
           "1"
         ],
-        "line": 547,
+        "line": 555,
         "status": "MATCH"
       },
       {
@@ -969,7 +973,7 @@
         "printed": [
           "2"
         ],
-        "line": 547,
+        "line": 555,
         "status": "MATCH"
       },
       {
@@ -980,7 +984,7 @@
         "printed": [
           "1"
         ],
-        "line": 547,
+        "line": 555,
         "status": "MATCH"
       },
       {
@@ -991,7 +995,7 @@
         "printed": [
           "3"
         ],
-        "line": 547,
+        "line": 555,
         "status": "MATCH"
       },
       {
@@ -1002,7 +1006,7 @@
         "printed": [
           "0"
         ],
-        "line": 547,
+        "line": 555,
         "status": "MATCH"
       },
       {
@@ -1013,7 +1017,7 @@
         "printed": [
           "1"
         ],
-        "line": 548,
+        "line": 556,
         "status": "MATCH"
       },
       {
@@ -1024,7 +1028,7 @@
         "printed": [
           "2"
         ],
-        "line": 548,
+        "line": 556,
         "status": "MATCH"
       },
       {
@@ -1035,7 +1039,7 @@
         "printed": [
           "1"
         ],
-        "line": 548,
+        "line": 556,
         "status": "MATCH"
       },
       {
@@ -1046,7 +1050,7 @@
         "printed": [
           "3"
         ],
-        "line": 548,
+        "line": 556,
         "status": "MATCH"
       },
       {
@@ -1057,7 +1061,7 @@
         "printed": [
           "0"
         ],
-        "line": 548,
+        "line": 556,
         "status": "MATCH"
       },
       {
@@ -1068,7 +1072,7 @@
         "printed": [
           "1"
         ],
-        "line": 549,
+        "line": 557,
         "status": "MATCH"
       },
       {
@@ -1079,7 +1083,7 @@
         "printed": [
           "2"
         ],
-        "line": 549,
+        "line": 557,
         "status": "MATCH"
       },
       {
@@ -1090,7 +1094,7 @@
         "printed": [
           "1"
         ],
-        "line": 549,
+        "line": 557,
         "status": "MATCH"
       },
       {
@@ -1101,7 +1105,7 @@
         "printed": [
           "3"
         ],
-        "line": 549,
+        "line": 557,
         "status": "MATCH"
       },
       {
@@ -1112,7 +1116,7 @@
         "printed": [
           "0"
         ],
-        "line": 549,
+        "line": 557,
         "status": "MATCH"
       },
       {
@@ -1123,7 +1127,7 @@
         "printed": [
           "0"
         ],
-        "line": 550,
+        "line": 558,
         "status": "MATCH"
       },
       {
@@ -1134,7 +1138,7 @@
         "printed": [
           "7/2"
         ],
-        "line": 550,
+        "line": 558,
         "status": "MATCH"
       },
       {
@@ -1145,7 +1149,7 @@
         "printed": [
           "0"
         ],
-        "line": 550,
+        "line": 558,
         "status": "MATCH"
       },
       {
@@ -1156,7 +1160,7 @@
         "printed": [
           "7/2"
         ],
-        "line": 550,
+        "line": 558,
         "status": "MATCH"
       },
       {
@@ -1167,7 +1171,7 @@
         "printed": [
           "0"
         ],
-        "line": 550,
+        "line": 558,
         "status": "MATCH"
       },
       {
@@ -1178,7 +1182,7 @@
         "printed": [
           "0"
         ],
-        "line": 551,
+        "line": 559,
         "status": "MATCH"
       },
       {
@@ -1189,7 +1193,7 @@
         "printed": [
           "4"
         ],
-        "line": 551,
+        "line": 559,
         "status": "MATCH"
       },
       {
@@ -1200,7 +1204,7 @@
         "printed": [
           "0"
         ],
-        "line": 551,
+        "line": 559,
         "status": "MATCH"
       },
       {
@@ -1211,7 +1215,7 @@
         "printed": [
           "4"
         ],
-        "line": 551,
+        "line": 559,
         "status": "MATCH"
       },
       {
@@ -1222,7 +1226,7 @@
         "printed": [
           "1"
         ],
-        "line": 551,
+        "line": 559,
         "status": "MATCH"
       },
       {
@@ -1233,7 +1237,7 @@
         "printed": [
           "1"
         ],
-        "line": 552,
+        "line": 560,
         "status": "MATCH"
       },
       {
@@ -1244,7 +1248,7 @@
         "printed": [
           "2"
         ],
-        "line": 552,
+        "line": 560,
         "status": "MATCH"
       },
       {
@@ -1255,7 +1259,7 @@
         "printed": [
           "1"
         ],
-        "line": 552,
+        "line": 560,
         "status": "MATCH"
       },
       {
@@ -1266,7 +1270,7 @@
         "printed": [
           "5/2"
         ],
-        "line": 552,
+        "line": 560,
         "status": "MATCH"
       },
       {
@@ -1277,7 +1281,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 552,
+        "line": 560,
         "status": "MATCH"
       },
       {
@@ -1288,7 +1292,7 @@
         "printed": [
           "0"
         ],
-        "line": 553,
+        "line": 561,
         "status": "MATCH"
       },
       {
@@ -1299,7 +1303,7 @@
         "printed": [
           "4"
         ],
-        "line": 553,
+        "line": 561,
         "status": "MATCH"
       },
       {
@@ -1310,7 +1314,7 @@
         "printed": [
           "0"
         ],
-        "line": 553,
+        "line": 561,
         "status": "MATCH"
       },
       {
@@ -1321,7 +1325,7 @@
         "printed": [
           "7/2"
         ],
-        "line": 553,
+        "line": 561,
         "status": "MATCH"
       },
       {
@@ -1332,7 +1336,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 553,
+        "line": 561,
         "status": "MATCH"
       },
       {
@@ -1343,7 +1347,7 @@
         "printed": [
           "3/2"
         ],
-        "line": 559,
+        "line": 567,
         "status": "MATCH"
       },
       {
@@ -1354,7 +1358,7 @@
         "printed": [
           "-1"
         ],
-        "line": 559,
+        "line": 567,
         "status": "MATCH"
       },
       {
@@ -1365,7 +1369,7 @@
         "printed": [
           "0"
         ],
-        "line": 559,
+        "line": 567,
         "status": "MATCH"
       },
       {
@@ -1376,7 +1380,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 559,
+        "line": 567,
         "status": "MATCH"
       },
       {
@@ -1387,7 +1391,7 @@
         "printed": [
           "3/2"
         ],
-        "line": 560,
+        "line": 568,
         "status": "MATCH"
       },
       {
@@ -1398,7 +1402,7 @@
         "printed": [
           "-1/2"
         ],
-        "line": 560,
+        "line": 568,
         "status": "MATCH"
       },
       {
@@ -1409,7 +1413,7 @@
         "printed": [
           "0"
         ],
-        "line": 560,
+        "line": 568,
         "status": "MATCH"
       },
       {
@@ -1420,7 +1424,7 @@
         "printed": [
           "1"
         ],
-        "line": 560,
+        "line": 568,
         "status": "MATCH"
       },
       {
@@ -1431,7 +1435,7 @@
         "printed": [
           "3/2"
         ],
-        "line": 561,
+        "line": 569,
         "status": "MATCH"
       },
       {
@@ -1442,7 +1446,7 @@
         "printed": [
           "-1"
         ],
-        "line": 561,
+        "line": 569,
         "status": "MATCH"
       },
       {
@@ -1453,7 +1457,7 @@
         "printed": [
           "0"
         ],
-        "line": 561,
+        "line": 569,
         "status": "MATCH"
       },
       {
@@ -1464,7 +1468,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 561,
+        "line": 569,
         "status": "MATCH"
       },
       {
@@ -1475,7 +1479,7 @@
         "printed": [
           "2"
         ],
-        "line": 562,
+        "line": 570,
         "status": "MATCH"
       },
       {
@@ -1486,7 +1490,7 @@
         "printed": [
           "-1"
         ],
-        "line": 562,
+        "line": 570,
         "status": "MATCH"
       },
       {
@@ -1497,7 +1501,7 @@
         "printed": [
           "0"
         ],
-        "line": 562,
+        "line": 570,
         "status": "MATCH"
       },
       {
@@ -1508,7 +1512,7 @@
         "printed": [
           "1"
         ],
-        "line": 562,
+        "line": 570,
         "status": "MATCH"
       },
       {
@@ -1519,7 +1523,7 @@
         "printed": [
           "3"
         ],
-        "line": 563,
+        "line": 571,
         "status": "MATCH"
       },
       {
@@ -1530,7 +1534,7 @@
         "printed": [
           "-1"
         ],
-        "line": 563,
+        "line": 571,
         "status": "MATCH"
       },
       {
@@ -1541,7 +1545,7 @@
         "printed": [
           "-1"
         ],
-        "line": 563,
+        "line": 571,
         "status": "MATCH"
       },
       {
@@ -1552,7 +1556,7 @@
         "printed": [
           "1"
         ],
-        "line": 563,
+        "line": 571,
         "status": "MATCH"
       },
       {
@@ -1563,7 +1567,7 @@
         "printed": [
           "2"
         ],
-        "line": 564,
+        "line": 572,
         "status": "MATCH"
       },
       {
@@ -1574,7 +1578,7 @@
         "printed": [
           "-1"
         ],
-        "line": 564,
+        "line": 572,
         "status": "MATCH"
       },
       {
@@ -1585,7 +1589,7 @@
         "printed": [
           "-1/2"
         ],
-        "line": 564,
+        "line": 572,
         "status": "MATCH"
       },
       {
@@ -1596,7 +1600,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 564,
+        "line": 572,
         "status": "MATCH"
       },
       {
@@ -1607,7 +1611,7 @@
         "printed": [
           "1/2"
         ],
-        "line": 565,
+        "line": 573,
         "status": "MATCH"
       },
       {
@@ -1618,7 +1622,7 @@
         "printed": [
           "-1/2"
         ],
-        "line": 565,
+        "line": 573,
         "status": "MATCH"
       },
       {
@@ -1629,7 +1633,7 @@
         "printed": [
           "0"
         ],
-        "line": 565,
+        "line": 573,
         "status": "MATCH"
       },
       {
@@ -1640,7 +1644,7 @@
         "printed": [
           "0"
         ],
-        "line": 565,
+        "line": 573,
         "status": "MATCH"
       },
       {
@@ -1653,7 +1657,7 @@
           "1",
           "2"
         ],
-        "line": 579,
+        "line": 587,
         "status": "MATCH"
       },
       {
@@ -1666,7 +1670,7 @@
           "1",
           "2"
         ],
-        "line": 579,
+        "line": 587,
         "status": "MATCH"
       },
       {
@@ -1679,7 +1683,7 @@
           "1",
           "2"
         ],
-        "line": 579,
+        "line": 587,
         "status": "MATCH"
       },
       {
@@ -1692,7 +1696,7 @@
           "0",
           "7/2"
         ],
-        "line": 579,
+        "line": 587,
         "status": "MATCH"
       },
       {
@@ -1705,7 +1709,7 @@
           "1",
           "2"
         ],
-        "line": 580,
+        "line": 588,
         "status": "MATCH"
       },
       {
@@ -1718,7 +1722,7 @@
           "1",
           "2"
         ],
-        "line": 580,
+        "line": 588,
         "status": "MATCH"
       },
       {
@@ -1731,7 +1735,7 @@
           "1",
           "2"
         ],
-        "line": 580,
+        "line": 588,
         "status": "MATCH"
       },
       {
@@ -1744,7 +1748,7 @@
           "0",
           "7/2"
         ],
-        "line": 580,
+        "line": 588,
         "status": "MATCH"
       },
       {
@@ -1757,7 +1761,7 @@
           "1",
           "2"
         ],
-        "line": 581,
+        "line": 589,
         "status": "MATCH"
       },
       {
@@ -1770,7 +1774,7 @@
           "1",
           "2"
         ],
-        "line": 581,
+        "line": 589,
         "status": "MATCH"
       },
       {
@@ -1783,7 +1787,7 @@
           "1",
           "2"
         ],
-        "line": 581,
+        "line": 589,
         "status": "MATCH"
       },
       {
@@ -1796,7 +1800,7 @@
           "0",
           "7/2"
         ],
-        "line": 581,
+        "line": 589,
         "status": "MATCH"
       },
       {
@@ -1809,7 +1813,7 @@
           "1",
           "5/2"
         ],
-        "line": 582,
+        "line": 590,
         "status": "MATCH"
       },
       {
@@ -1822,7 +1826,7 @@
           "1",
           "5/2"
         ],
-        "line": 582,
+        "line": 590,
         "status": "MATCH"
       },
       {
@@ -1835,7 +1839,7 @@
           "1",
           "5/2"
         ],
-        "line": 582,
+        "line": 590,
         "status": "MATCH"
       },
       {
@@ -1848,7 +1852,7 @@
           "0",
           "7/2"
         ],
-        "line": 582,
+        "line": 590,
         "status": "MATCH"
       },
       {
@@ -1861,7 +1865,7 @@
           "1",
           "3"
         ],
-        "line": 583,
+        "line": 591,
         "status": "MATCH"
       },
       {
@@ -1874,7 +1878,7 @@
           "1",
           "3"
         ],
-        "line": 583,
+        "line": 591,
         "status": "MATCH"
       },
       {
@@ -1887,7 +1891,7 @@
           "1",
           "3"
         ],
-        "line": 583,
+        "line": 591,
         "status": "MATCH"
       },
       {
@@ -1900,7 +1904,7 @@
           "0",
           "7/2"
         ],
-        "line": 583,
+        "line": 591,
         "status": "MATCH"
       },
       {
@@ -1913,7 +1917,7 @@
           "1",
           "2"
         ],
-        "line": 584,
+        "line": 592,
         "status": "MATCH"
       },
       {
@@ -1926,7 +1930,7 @@
           "1",
           "2"
         ],
-        "line": 584,
+        "line": 592,
         "status": "MATCH"
       },
       {
@@ -1939,7 +1943,7 @@
           "0",
           "7/2"
         ],
-        "line": 584,
+        "line": 592,
         "status": "MATCH"
       },
       {
@@ -1952,7 +1956,7 @@
           "0",
           "7/2"
         ],
-        "line": 584,
+        "line": 592,
         "status": "MATCH"
       },
       {
@@ -1963,7 +1967,7 @@
         "printed": [
           "61583"
         ],
-        "line": 269,
+        "line": 273,
         "status": "MATCH"
       },
       {
@@ -1978,7 +1982,7 @@
           "9/4",
           "2"
         ],
-        "line": 309,
+        "line": 313,
         "status": "MATCH"
       },
       {
@@ -1991,7 +1995,7 @@
           "2674",
           "319"
         ],
-        "line": 515,
+        "line": 521,
         "status": "MATCH"
       },
       {
@@ -2004,7 +2008,7 @@
           "297",
           "21"
         ],
-        "line": 515,
+        "line": 521,
         "status": "MATCH"
       },
       {
@@ -2019,7 +2023,7 @@
           "11",
           "143"
         ],
-        "line": 519,
+        "line": 525,
         "status": "MATCH"
       },
       {
@@ -2032,7 +2036,7 @@
           "66",
           "121"
         ],
-        "line": 569,
+        "line": 577,
         "status": "MATCH"
       },
       {
@@ -2043,7 +2047,7 @@
         "printed": [
           "55"
         ],
-        "line": 569,
+        "line": 577,
         "status": "MATCH"
       },
       {
@@ -2054,7 +2058,7 @@
         "printed": [
           "121"
         ],
-        "line": 586,
+        "line": 594,
         "status": "MATCH"
       },
       {
@@ -2065,7 +2069,7 @@
         "printed": [
           "12000"
         ],
-        "line": 485,
+        "line": 489,
         "status": "MATCH"
       }
     ],
@@ -2148,8 +2152,8 @@
     },
     "scope": "Model arithmetic, figures and synthetic tables. Documentary counts and literature dates are not solver outputs and are excluded."
   },
-  "reference_sha256": "8da73976b8849682422d58538a2598e1cfc360d5d6b86ba0e4c327cd2410dd20",
-  "seconds": 99.66,
+  "reference_sha256": "38bf4ea5e02d2ddb02194d091ecd2b157b7ea87609fd8651e63df7c45ffa5689",
+  "seconds": 97.366,
   "software": {
     "python": "3.11.17",
     "numpy": "2.2.6",

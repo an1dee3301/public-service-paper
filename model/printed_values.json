@@ -1,11 +1,11 @@
 {
-  "sha256": "8da73976b8849682422d58538a2598e1cfc360d5d6b86ba0e4c327cd2410dd20",
+  "sha256": "38bf4ea5e02d2ddb02194d091ecd2b157b7ea87609fd8651e63df7c45ffa5689",
   "tables": {
     "1A": {
       "status": "PRESENT",
       "rows": [
         {
-          "line": 218,
+          "line": 222,
           "cells": [
             [],
             [
@@ -32,7 +32,7 @@
           ]
         },
         {
-          "line": 219,
+          "line": 223,
           "cells": [
             [],
             [
@@ -59,7 +59,7 @@
           ]
         },
         {
-          "line": 220,
+          "line": 224,
           "cells": [
             [],
             [
@@ -91,7 +91,7 @@
       "status": "PRESENT",
       "rows": [
         {
-          "line": 248,
+          "line": 252,
           "cells": [
             [],
             [],
@@ -106,7 +106,7 @@
           ]
         },
         {
-          "line": 249,
+          "line": 253,
           "cells": [
             [],
             [],
@@ -123,7 +123,7 @@
           ]
         },
         {
-          "line": 250,
+          "line": 254,
           "cells": [
             [],
             [],
@@ -138,7 +138,7 @@
           ]
         },
         {
-          "line": 251,
+          "line": 255,
           "cells": [
             [],
             [],
@@ -155,7 +155,7 @@
           ]
         },
         {
-          "line": 252,
+          "line": 256,
           "cells": [
             [],
             [],
@@ -172,7 +172,7 @@
           ]
         },
         {
-          "line": 253,
+          "line": 257,
           "cells": [
             [],
             [],
@@ -192,7 +192,7 @@
       "status": "PRESENT",
       "rows": [
         {
-          "line": 491,
+          "line": 495,
           "cells": [
             [],
             [
@@ -217,7 +217,7 @@
           ]
         },
         {
-          "line": 492,
+          "line": 496,
           "cells": [
             [],
             [
@@ -247,7 +247,7 @@
       "status": "PRESENT",
       "rows": [
         {
-          "line": 504,
+          "line": 510,
           "cells": [
             [],
             [
@@ -262,7 +262,7 @@
           ]
         },
         {
-          "line": 505,
+          "line": 511,
           "cells": [
             [],
             [],
@@ -275,7 +275,7 @@
           ]
         },
         {
-          "line": 506,
+          "line": 512,
           "cells": [
             [],
             [],
@@ -288,7 +288,7 @@
           ]
         },
         {
-          "line": 507,
+          "line": 513,
           "cells": [
             [],
             [],
@@ -301,7 +301,7 @@
           ]
         },
         {
-          "line": 508,
+          "line": 514,
           "cells": [
             [],
             [
@@ -316,7 +316,7 @@
           ]
         },
         {
-          "line": 509,
+          "line": 515,
           "cells": [
             [],
             [],
@@ -329,7 +329,7 @@
           ]
         },
         {
-          "line": 510,
+          "line": 516,
           "cells": [
             [],
             [],
@@ -342,7 +342,7 @@
           ]
         },
         {
-          "line": 511,
+          "line": 517,
           "cells": [
             [],
             [],
@@ -355,7 +355,7 @@
           ]
         },
         {
-          "line": 512,
+          "line": 518,
           "cells": [
             [],
             [],
@@ -368,7 +368,7 @@
           ]
         },
         {
-          "line": 513,
+          "line": 519,
           "cells": [
             [],
             [],
@@ -386,7 +386,7 @@
       "status": "PRESENT",
       "rows": [
         {
-          "line": 531,
+          "line": 537,
           "cells": [
             [],
             [
@@ -401,7 +401,7 @@
           ]
         },
         {
-          "line": 532,
+          "line": 538,
           "cells": [
             [],
             [
@@ -416,7 +416,7 @@
           ]
         },
         {
-          "line": 533,
+          "line": 539,
           "cells": [
             [
               "5"
@@ -429,7 +429,7 @@
           ]
         },
         {
-          "line": 534,
+          "line": 540,
           "cells": [
             [],
             [
@@ -444,7 +444,7 @@
           ]
         },
         {
-          "line": 535,
+          "line": 541,
           "cells": [
             [],
             [
@@ -464,7 +464,7 @@
       "status": "PRESENT",
       "rows": [
         {
-          "line": 547,
+          "line": 555,
           "cells": [
             [],
             [
@@ -485,7 +485,7 @@
           ]
         },
         {
-          "line": 548,
+          "line": 556,
           "cells": [
             [],
             [
@@ -506,7 +506,7 @@
           ]
         },
         {
-          "line": 549,
+          "line": 557,
           "cells": [
             [],
             [
@@ -527,7 +527,7 @@
           ]
         },
         {
-          "line": 550,
+          "line": 558,
           "cells": [
             [],
             [
@@ -548,7 +548,7 @@
           ]
         },
         {
-          "line": 551,
+          "line": 559,
           "cells": [
             [],
             [
@@ -569,7 +569,7 @@
           ]
         },
         {
-          "line": 552,
+          "line": 560,
           "cells": [
             [],
             [
@@ -590,7 +590,7 @@
           ]
         },
         {
-          "line": 553,
+          "line": 561,
           "cells": [
             [],
             [
@@ -616,7 +616,7 @@
       "status": "PRESENT",
       "rows": [
         {
-          "line": 559,
+          "line": 567,
           "cells": [
             [],
             [
@@ -634,7 +634,7 @@
           ]
         },
         {
-          "line": 560,
+          "line": 568,
           "cells": [
             [
               "2",
@@ -655,7 +655,7 @@
           ]
         },
         {
-          "line": 561,
+          "line": 569,
           "cells": [
             [],
             [
@@ -673,7 +673,7 @@
           ]
         },
         {
-          "line": 562,
+          "line": 570,
           "cells": [
             [],
             [
@@ -691,7 +691,7 @@
           ]
         },
         {
-          "line": 563,
+          "line": 571,
           "cells": [
             [],
             [
@@ -709,7 +709,7 @@
           ]
         },
         {
-          "line": 564,
+          "line": 572,
           "cells": [
             [],
             [
@@ -727,7 +727,7 @@
           ]
         },
         {
-          "line": 565,
+          "line": 573,
           "cells": [
             [
               "27/5"
@@ -752,7 +752,7 @@
       "status": "PRESENT",
       "rows": [
         {
-          "line": 579,
+          "line": 587,
           "cells": [
             [],
             [
@@ -774,7 +774,7 @@
           ]
         },
         {
-          "line": 580,
+          "line": 588,
           "cells": [
             [
               "1/2"
@@ -798,7 +798,7 @@
           ]
         },
         {
-          "line": 581,
+          "line": 589,
           "cells": [
             [
               "4/5"
@@ -822,7 +822,7 @@
           ]
         },
         {
-          "line": 582,
+          "line": 590,
           "cells": [
             [
               "9/2"
@@ -846,7 +846,7 @@
           ]
         },
         {
-          "line": 583,
+          "line": 591,
           "cells": [
             [
               "4"
@@ -870,7 +870,7 @@
           ]
         },
         {
-          "line": 584,
+          "line": 592,
           "cells": [
             [],
             [
@@ -897,27 +897,27 @@
   "statements": {
     "Lemma 1": {
       "status": "PRESENT",
-      "line": 183,
+      "line": 187,
       "statement_line_sha256": "74e9d00403398caad1418995af467f155e635e900d085b3ec0a651181be27ee5"
     },
     "Theorem 1": {
       "status": "PRESENT",
-      "line": 189,
+      "line": 193,
       "statement_line_sha256": "832e0e66f8f909cbaddc24d112c7e603a5c94a7325123db74b0bbafd24cb85cc"
     },
     "Corollary 1": {
       "status": "PRESENT",
-      "line": 212,
+      "line": 216,
       "statement_line_sha256": "12dbce90ff3d1534a4cd9437046dac7544428090e1db81f7ff3852396c64a1b6"
     },
     "Theorem 2": {
       "status": "PRESENT",
-      "line": 206,
+      "line": 210,
       "statement_line_sha256": "eb236334e494959ca041b33293f0dadba8bd080d1b6f8725c49972e7f743d210"
     },
     "Proposition 1": {
       "status": "PRESENT",
-      "line": 313,
+      "line": 317,
       "statement_line_sha256": "677e13ef3f6399a6a2b600ad9c8d3b5996c47d46064f713b7b4f0878dd8574e3"
     }
   },
@@ -929,7 +929,7 @@
         "9/4",
         "2"
       ],
-      "line": 309
+      "line": 313
     },
     "criteria_II": {
       "status": "PRESENT",
@@ -937,7 +937,7 @@
         "2674",
         "319"
       ],
-      "line": 515
+      "line": 521
     },
     "criteria_I": {
       "status": "PRESENT",
@@ -945,7 +945,7 @@
         "297",
         "21"
       ],
-      "line": 515
+      "line": 521
     },
     "region_surplus": {
       "status": "PRESENT",
@@ -954,7 +954,7 @@
         "11",
         "143"
       ],
-      "line": 519
+      "line": 525
     },
     "topup_equal_higher": {
       "status": "PRESENT",
@@ -962,28 +962,28 @@
         "66",
         "121"
       ],
-      "line": 569
+      "line": 577
     },
     "topup_nofallback_below": {
       "status": "PRESENT",
       "values": [
         "55"
       ],
-      "line": 569
+      "line": 577
     },
     "transfer_points": {
       "status": "PRESENT",
       "values": [
         "121"
       ],
-      "line": 586
+      "line": 594
     },
     "reserve_sample_points": {
       "status": "PRESENT",
       "values": [
         "61583"
       ],
-      "line": 269
+      "line": 273
     },
     "consolidation_comparisons": {
       "status": "ABSENT",
@@ -995,7 +995,7 @@
       "values": [
         "12000"
       ],
-      "line": 485
+      "line": 489
     }
   },
   "phase_figure_in_reference": true

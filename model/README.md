@@ -46,12 +46,12 @@ Folders use descriptive names; dependency paths have been updated. Original math
 
 ## Scope and interpretation
 
-The 6 October 2026 numerical reference includes Lemma 1, Theorems 1 and 2, Corollary 1, Proposition 1 and the phase diagram. Table 1a corresponds to internal comparison key 1A; Table 1 to key 1B; Table A4 to A4A and Table A4 panel b to A4B. These internal keys preserve the comparison algorithm.
+The 7 October 2026 numerical reference includes Lemma 1, Theorems 1 and 2, Corollary 1, Proposition 1 and the phase diagram. In the working paper, Table 1a corresponds to internal comparison key 1A; Table 1 to key 1B; Table A4 to A4A and Table A4 panel b to A4B. The article uses Table 1 panels A/B and Table A4 panels A/B for the same tables; the extractor accepts both heading conventions. These internal keys preserve the comparison algorithm.
 
-Finite exact grids verify implementations and do not replace proofs. Documentary counts and citation claims are outside this runner. The phase diagram's threat example uses O1=3; Table 1a uses O1=13/4. These are distinct calculations. Historical figure labels are preserved where they do not denote current manuscript numbering.
+Finite exact grids verify implementations and do not replace proofs. Documentary counts and citation claims are outside this runner. The phase diagram's threat example uses O1=3; Table 1a uses O1=13/4. These are distinct calculations. Historical computations retain their original numerical definitions; figure labels use current result numbering.
 
 Software is licensed under MIT; documentation, compiled data and generated figures under CC BY 4.0. See the root licence files.
 
 ## Additional historical checks
 
-Run `python3 model/timing/timing_extension.py` and `python3 model/legacy_check/independent_solver.py model/econ/scripts` from the repository root. These preserve the original mathematical functions; the timing script has only a package-relative import path. Their outputs are separate from `run_all.py`. Historical proposition numbering in these scripts refers to their original derivations.
+Run `python3 model/timing/timing_extension.py` and `python3 model/legacy_check/independent_solver.py model/econ/scripts` from the repository root. These preserve the original mathematical functions; the timing script has only a package-relative import path. Their outputs are separate from `run_all.py`. The liquidity-gap region is labelled Corollary 1; historical internal identifiers are retained.

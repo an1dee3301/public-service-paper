@@ -27,7 +27,7 @@ def solve(V,c,b,h,B,k,O1,mode):
         out[(inv,d)]=(x,)+res[x]
     return out
 
-# ---- (2) grid over Proposition 2 region
+# ---- (2) grid over Corollary 1 region
 n=tot=holds_sh=holds_em=pred_ok=0
 lost=[]
 rng=[Fr(i,4) for i in range(0,49)]

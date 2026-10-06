@@ -6,7 +6,7 @@ arithmetic (fractions.Fraction). Standard library only.
 Usage:
     python3 independent_solver.py [path/to/dir/containing/check_ai_dependence_model.py]
 
-Without a path it runs the self-contained checks (worked example, Proposition 2,
+Without a path it runs the self-contained checks (worked example, Corollary 1,
 surplus sign). With a path it also compares against the program under review and
 writes disagreements.csv and results.json next to this file.
 
@@ -181,7 +181,7 @@ def draw_general(rng):
 
 
 def draw_region(rng):
-    """Constructive draw strictly inside the Proposition 2 region (incl. r1 <= B-k)."""
+    """Constructive draw strictly inside the Corollary 1 region (incl. r1 <= B-k)."""
     C = rat_open(rng, Fr(0), Fr(8)) if rng.random() < 0.9 else ZERO
     h = rat_open(rng, Fr(0), Fr(10))
     m = rat_open(rng, C, C + h)                       # m = B - k, C < m < C + h

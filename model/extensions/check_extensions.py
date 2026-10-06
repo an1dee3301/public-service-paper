@@ -155,7 +155,7 @@ def run():
                               [Z,Q(3),Q(4),Q(12)]):
             if F<=B: yield (10,6,2,3,B,k,F,0,0,O,0)
     check_family('overhead',overhead_rows())
-    # Independent closed-form Table 2 row 3, row 6 and reserve bounds in Prop 2.
+    # Independent closed-form Table 2 row 3, row 6 and reserve bounds in Corollary 1.
     ct=Counter()
     for B,k,O,h,b in product([Q(n,4) for n in range(17,24)],
                             [Q(n,4) for n in range(1,8)],

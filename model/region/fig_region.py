@@ -1,6 +1,6 @@
 """Figure R1: where joint resident rights remove the harm, in (k, O1) space, at the worked values.
 Bounds are those printed in Sections 5.3, 5.4 and 5.7 of candidate C; nothing new is derived here.
-V=10, c=6, b=2, h=3, B=5 -> C=4, H=V-h-C=3. Region of Proposition 2: 0<k<B-C, H<O1<V-(B-k).
+V=10, c=6, b=2, h=3, B=5 -> C=4, H=V-h-C=3. Region of Corollary 1: 0<k<B-C, H<O1<V-(B-k).
 """
 from fractions import Fraction as F
 import numpy as np, matplotlib
@@ -19,7 +19,7 @@ ax.text(0.02,5.1,r"upper bound $O_1=V-(B-k)$",fontsize=8,rotation=13)
 ax.text(0.02,2.84,r"lower bound, shared account: $O_1=V-h-C$",fontsize=8)
 ax.annotate("two suppliers pricing at cost:\nprotection needs $O_1>V-h-C+k$",(0.3,3.3),xytext=(0.05,3.75),fontsize=8,arrowprops=dict(arrowstyle="-",lw=.6))
 ax.annotate("separate fallback account:\nprotection needs\n$O_1>\\max\\{V-h-C,\\;V-h-B+2k\\}$\n(dark band is lost)",(0.85,3.7),xytext=(0.55,4.5),fontsize=8,arrowprops=dict(arrowstyle="-",lw=.6))
-ax.text(0.5,5.9,"joint resident rights remove the harm (Proposition 2)",fontsize=8.5,ha="center")
+ax.text(0.5,5.9,"joint resident rights remove the harm (Corollary 1)",fontsize=8.5,ha="center")
 ax.set_xlim(0,B-C); ax.set_ylim(2.6,6.2)
 ax.set_xlabel(r"fallback investment $k$   (cash constraint $k<B-C$)"); ax.set_ylabel(r"value of the fallback, $O_1=a_1-r_1$")
 for sp in ("top","right"): ax.spines[sp].set_visible(False)

@@ -329,10 +329,10 @@ def main():
         ax.annotate(text, xy=target, xytext=pos, weight='bold', fontsize=12,
                     bbox=dict(facecolor='white', edgecolor='none', pad=1.5),
                     arrowprops=dict(arrowstyle='->', color='black', lw=0.9), zorder=6)
-    # Closure of Proposition 2: the actual theorem region is its strict interior.
+    # Closure of Corollary 1: the actual corollary region is its strict interior.
     p2 = [(4.5, 3), (6, 3), (6, 4.5), (4.5, 6), (4.5, 3)]
     ax.plot(*zip(*p2), color='black', linewidth=1.9, linestyle=(0, (2.5, 1.8)), zorder=4)
-    ax.annotate('Proposition 2\n(strict interior)', xy=(5.95, 4.1), xytext=(6.45, 6.55),
+    ax.annotate('Corollary 1\n(strict interior)', xy=(5.95, 4.1), xytext=(6.45, 6.55),
                 fontsize=9, ha='left', va='center', bbox=dict(facecolor='white', edgecolor='none', pad=2),
                 arrowprops=dict(arrowstyle='->', lw=0.8, color='black'), zorder=6)
     ax.plot(5, 4, 'k*', markersize=12, zorder=7)
@@ -357,7 +357,7 @@ def main():
     fig.legend(handles=handles, loc='lower center', bbox_to_anchor=(0.51, 0.065), ncol=2,
                frameon=False, fontsize=9, handlelength=2.2, handleheight=1.4, columnspacing=2.1)
     fig.text(0.06, 0.025, r'$V=10,\ c=6,\ b=2,\ h=3$; $F=O_0=0$; affordable alternative; region tie rules. '
-             'Exact line boundaries; equality ownership in BOUNDARIES.md.', fontsize=9)
+             'Exact line boundaries; tie rules follow the reference.', fontsize=9)
     for suffix in ('pdf', 'eps', 'png'):
         fig.savefig(HERE/f'fig_cases.{suffix}', facecolor='white', metadata=({'Creator': 'phase fig_cases.py'} if suffix in ('pdf', 'eps') else None))
     plt.close(fig)

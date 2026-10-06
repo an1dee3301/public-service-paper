@@ -232,14 +232,14 @@ def run():
             assert res['protect'] == (delta>0)
             boundaries.append(dict(label=label,bound=bound,delta=delta,result=res))
 
-    # Stress witnesses INSIDE the base Proposition 2 region, changing protocol.
+    # Stress witnesses INSIDE the base Corollary 1 region, changing protocol.
     # Continuous intensity: binary lemma false even with rho=1 for another base point.
     gc = replace(g,h=Q(4),a=Q(13,4))  # O1=9/4 > H=2; Hc=5/2
     assert gc.region()
     cont_false = joint(gc,continuous=True)
     assert predicted(gc,cont_false) and not cont_false['protect']
 
-    # Partial clause theta=1/10; keep base parameters in Prop 2 region.
+    # Partial clause theta=1/10; keep base parameters in Corollary 1 region.
     gp = replace(g,b=Q(9,5),h=Q(27,10))
     partial = joint(gp,rho=Q(81,100))  # Oe=61/20; actual H'=31/10
     original_H_prediction = partial['Oe'] > max(g.H,partial['W0']+g.k)

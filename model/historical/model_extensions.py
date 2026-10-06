@@ -261,7 +261,7 @@ def make_figures(rows, base):
     b.imshow(S, origin='lower', extent=ext, aspect='auto', cmap=cm, vmin=-1.5, vmax=1.5, interpolation='nearest')
     b.contour(Bs, O1s, reg.astype(float), levels=[.5], colors='k', linewidths=1.3)
     b.plot(float(base.B), float(base.O1), marker='*', ms=15, mfc='white', mec='k')
-    b.set_xlabel('Budget B'); b.set_ylabel('O1'); b.set_title('Total surplus: joint rights vs no rights\n(black outline = Proposition 2 region)', fontsize=11)
+    b.set_xlabel('Budget B'); b.set_ylabel('O1'); b.set_title('Total surplus: joint rights vs no rights\n(black outline = Corollary 1 region)', fontsize=11)
     b.legend(handles=[Patch(fc='#D55E00', label='joint rights lower total surplus'), Patch(fc='#f5f5f5', ec='k', lw=.4, label='no change'),
                       Patch(fc='#56B4E9', label='joint rights raise total surplus')], loc='upper right', fontsize=8, framealpha=.95)
     fig.text(0.01, 0.005, 'Synthetic parameters V=10, c=6, b=2, h=3, k=0.5, r1=1, F=0, no legacy service. Exact enumeration, grid step 0.125.', fontsize=8)

@@ -230,7 +230,7 @@ def run_checks():
                 for f in ("q", "price", "profit", "agency", "resident", "global_welfare", "mode"):
                     assert s[f] == t[f], (p, x, d, f)
                 n += 1
-    # 2. Analytic statements at every Prop. 2 grid point (renewal capital).
+    # 2. Analytic statements at every Corollary 1 grid point (renewal capital).
     Bs = [Q(3) + Q(i, 8) for i in range(41)]
     O1s = [Q(i, 8) for i in range(73)]
     region = [(B, O1) for B, O1 in product(Bs, O1s) if in_prop2(point(B, O1))]
@@ -262,7 +262,7 @@ def run_checks():
             alt = solve_timing(p, "both", r, pi, Q(0))
             assert (alt["q"], alt["build"]) == (res[r]["both"]["q"], res[r]["both"]["build"])
         n += 1
-    # 3. Pattern region in the Prop. 2 budget band (C < B-k < B < c, V-h > B,
+    # 3. Pattern region in the Corollary 1 budget band (C < B-k < B < c, V-h > B,
     #    r1+k <= B, F=0, O0=0) for every O1 on the grid: the four-cell pattern holds iff
     #      static : V-h-C < O1 <= V-B+k
     #      L>N    : max(V-h-C, V-h-B+k/pi) < O1 <= min(V-C, V-B+k/pi)
@@ -294,7 +294,7 @@ def example():
                              build=s["build"], q=s["q"], price=str(s["price"]), mode=s["mode"],
                              W_shock=str(s["resident"]), profit=str(s["profit"]),
                              G_shock=str(s["global_welfare"]), expected_investor=str(s["expected"])))
-    # band point O1 = 3.25 (inside Prop. 2, inside the surplus-reducing band)
+    # band point O1 = 3.25 (inside Corollary 1, inside the surplus-reducing band)
     band = point(Q(5), Q(13, 4))
     for regime in ("static", "L>N", "L<=N"):
         s = solve_timing(band, "both", regime, Q(1, 2) if regime != "static" else Q(1), p0, verify=True)

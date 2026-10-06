@@ -2,7 +2,7 @@
 """Exact, synthetic finite-game checks; no empirical calibration or estimation.
 
 Run from any directory. Standard library only. Writes the named model outputs;
-never reads or modifies raw research data. See theory/FINITE_HORIZON_PROTOTYPE.md.
+never reads or modifies raw research data. See model/MANIFEST.md for the released checking map.
 """
 from __future__ import annotations
 

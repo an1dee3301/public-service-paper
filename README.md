@@ -1,6 +1,6 @@
 # Working-paper replication files
 
-Local replication materials for the working-paper build of 6 October 2026. The manuscript is posted separately.
+Local replication materials for the working-paper build of 7 October 2026. The manuscript is posted separately.
 
 ## Reproduce the model
 
@@ -18,7 +18,7 @@ The runner uses the supplied numerical-only reference snapshot, regenerates mode
 - `coding/`: codebooks, blind human coding sheets as CSV, automated codes and comparison readouts.
 - `episodes/`: original episode banks, source-check codes, coding limits and frozen transition design.
 - `sources/`: public-document metadata and captured-byte hashes, with unavailable fields explicit.
-- `POINTERS.md`: every replication-package pointer in the three reference files, mapped to released files or an explicit exclusion.
+- `POINTERS.md`: historical 6 October pointer register for the three reference files, mapped to released files or an explicit exclusion.
 - `PROVENANCE.md`: hash-only mapping to local origins; no private paths.
 
 The model run passed 172 printed-number comparisons with no mismatch. Documentary files preserve historical coding; the episode banks have not been silently rewritten to match later manuscript corrections. See their folder notes and the pointer exclusions. Missing documentary hashes and access dates are explicitly recorded; they have not been invented.

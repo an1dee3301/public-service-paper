@@ -30,8 +30,10 @@ def number(s):
 def extract(path):
     text=Path(path).read_text();lines=text.splitlines();out={'sha256':hashlib.sha256(text.encode()).hexdigest(),'tables':{},'statements':{},'scalars':{}}
     titles={'1A':'**Table 1a.','1B':'**Table 1.','A1':'**Table A1.','A2':'**Table A2.','A3':'**Table A3.','A4A':'**Table A4.','A4B':'**Table A4, panel b.','A5':'**Table A5.'}
+    aliases={'1B':('**Table 1, panel B.',), 'A4A':('**Table A4, panel A.',), 'A4B':('**Table A4, panel B.',)}
     for name,prefix in titles.items():
-        start=next((i for i,l in enumerate(lines) if l.startswith(prefix)),None)
+        prefixes=(prefix,)+aliases.get(name,())
+        start=next((i for i,l in enumerate(lines) if l.startswith(prefixes)),None)
         if start is None:out['tables'][name]=dict(status='ABSENT');continue
         rows=[];begun=False
         for i in range(start+1,len(lines)):
