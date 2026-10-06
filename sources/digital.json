@@ -135,12 +135,21 @@
     "source_id": "S12",
     "full_citation": "Nwabufo, Fredrick (9 December 2015). “We know nothing about 1% TSA charge”, says Emefiele. TheCable.",
     "url": "https://www.thecable.ng/know-nothing-1-tsa-charge-says-emefiele/",
-    "sha256": "",
-    "hash_status": "not available in inspected capture register",
-    "capture_date": "",
-    "access_date": "2026-10-04 (original register)",
+    "sha256": "b2318c9b82e9ae13a9af6b2c609d8bed3455ed58c8fb244c48f56c06c0404186",
+    "hash_status": "recorded saved visible-text capture bytes; not HTTP response bytes",
+    "capture_date": "2026-10-06T11:36:10.158Z",
+    "access_date": "2026-10-06T11:36:10.158Z",
     "issuer_or_publication": "Nwabufo, Fredrick (9 December 2015)",
-    "issuer_status": "citation attribution; see full citation"
+    "issuer_status": "citation attribution; see full citation",
+    "previous_capture_metadata": {
+      "url": "https://www.thecable.ng/know-nothing-1-tsa-charge-says-emefiele/",
+      "sha256": "",
+      "hash_status": "not available in inspected capture register",
+      "capture_date": "",
+      "access_date": "2026-10-04 (original register)"
+    },
+    "capture_format": "visible-text capture",
+    "capture_reading_scope": "Passage scope is recorded in the current episode source-check file; capture alone is not claim verification."
   },
   {
     "source_id": "S13",
@@ -398,13 +407,22 @@
   {
     "source_id": "S36",
     "full_citation": "IRIS Corporation Berhad (20 September 2023). Minutes of the Twenty-Ninth Annual General Meeting.",
-    "url": "https://www.iris.com.my/wp-content/uploads/2023/10/Minutes-of-29th-AGM.pdf",
-    "sha256": "",
-    "hash_status": "not available in inspected capture register",
-    "capture_date": "",
-    "access_date": "2026-10-04 (original register)",
+    "url": "https://www.iris.com.my/wp-content/uploads/2025/08/Minutes-of-29th-AGM.pdf",
+    "sha256": "09e8452b07625c11e832b4249b212e4f3516d22b4458f3903803974654492c6d",
+    "hash_status": "recorded saved original PDF bytes",
+    "capture_date": "2026-10-06T11:34:06.956Z",
+    "access_date": "2026-10-06T11:34:06.956Z",
     "issuer_or_publication": "IRIS Corporation Berhad (20 September 2023)",
-    "issuer_status": "citation attribution; see full citation"
+    "issuer_status": "citation attribution; see full citation",
+    "previous_capture_metadata": {
+      "url": "https://www.iris.com.my/wp-content/uploads/2023/10/Minutes-of-29th-AGM.pdf",
+      "sha256": "",
+      "hash_status": "not available in inspected capture register",
+      "capture_date": "",
+      "access_date": "2026-10-04 (original register)"
+    },
+    "capture_format": "original PDF",
+    "capture_reading_scope": "Passage scope is recorded in the current episode source-check file; capture alone is not claim verification."
   },
   {
     "source_id": "S37",

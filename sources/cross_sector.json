@@ -18,12 +18,21 @@
     "url": "https://www.gasum.com/en/news-and-customer-stories/news-and-press-releases/2022/natural-gas-imports-from-russia-under-gasums-supply-contract-will-be-halted-on-saturday-21-may-at-07.00/",
     "reading_depth": "Full release read; company account",
     "claim_locators": "Notice, Balticconnector replacement and filling-station paragraphs",
-    "access_date": "2026-10-04",
-    "sha256": "",
-    "hash_status": "not available in inspected capture register",
-    "capture_date": "",
+    "access_date": "2026-10-06T11:37:48.389Z",
+    "sha256": "6eb720731e10144dbb9329685b4815959947f679a6a2ee3bc86b10355326883d",
+    "hash_status": "recorded saved visible-text capture bytes; not HTTP response bytes",
+    "capture_date": "2026-10-06T11:37:48.389Z",
     "issuer_or_publication": "Gasum",
-    "issuer_status": "citation attribution; see full citation"
+    "issuer_status": "citation attribution; see full citation",
+    "previous_capture_metadata": {
+      "url": "https://www.gasum.com/en/news-and-customer-stories/news-and-press-releases/2022/natural-gas-imports-from-russia-under-gasums-supply-contract-will-be-halted-on-saturday-21-may-at-07.00/",
+      "sha256": "",
+      "hash_status": "not available in inspected capture register",
+      "capture_date": "",
+      "access_date": "2026-10-04"
+    },
+    "capture_format": "visible-text capture",
+    "capture_reading_scope": "Passage scope is recorded in the current episode source-check file; capture alone is not claim verification."
   },
   {
     "source_id": "S03",
@@ -343,12 +352,21 @@
     "url": "https://www.investing.com/news/world-news/pentagon-buys-starlink-for-ukraine--statement-3096439",
     "reading_depth": "Secondary account; full article body read",
     "claim_locators": "Pentagon procurement, October financing claim and undisclosed terms paragraphs",
-    "access_date": "2026-10-04",
-    "sha256": "",
-    "hash_status": "not available in inspected capture register",
-    "capture_date": "",
+    "access_date": "2026-10-06T11:36:47.223Z",
+    "sha256": "8864568e5da9a5d3fc3182691b90855b85eb5719cb3f17e8c22b425e7ed55c3f",
+    "hash_status": "recorded saved visible-text capture bytes; not HTTP response bytes",
+    "capture_date": "2026-10-06T11:36:47.223Z",
     "issuer_or_publication": "Stone, Mike, and Joey Roulette",
-    "issuer_status": "citation attribution; see full citation"
+    "issuer_status": "citation attribution; see full citation",
+    "previous_capture_metadata": {
+      "url": "https://www.investing.com/news/world-news/pentagon-buys-starlink-for-ukraine--statement-3096439",
+      "sha256": "",
+      "hash_status": "not available in inspected capture register",
+      "capture_date": "",
+      "access_date": "2026-10-04"
+    },
+    "capture_format": "visible-text capture",
+    "capture_reading_scope": "Passage scope is recorded in the current episode source-check file; capture alone is not claim verification."
   },
   {
     "source_id": "S28",
@@ -551,12 +569,21 @@
     "url": "https://www.iisd.org/itn/2015/11/26/tribunal-largely-adopts-independent-experts-damages-findings-in-usd-405-million-award-to-previous-owners-of-an-argentine-public-utility-company-suez-sociedad-general-de-aguas-de-barcelona-sa-interagua/",
     "reading_depth": "Secondary account; full article read",
     "claim_locators": "Background and compensation sections; page’s case heading conflicts with linked primary award, which controls identification",
-    "access_date": "2026-10-04",
-    "sha256": "",
-    "hash_status": "not available in inspected capture register",
-    "capture_date": "",
+    "access_date": "2026-10-06T11:37:17.908Z",
+    "sha256": "8b2c415fba39832fe75bfec84e22fa167e4888f102a7fe4888511d19f5cd37f4",
+    "hash_status": "recorded saved visible-text capture bytes; not HTTP response bytes",
+    "capture_date": "2026-10-06T11:37:17.908Z",
     "issuer_or_publication": "Davis, Marquita",
-    "issuer_status": "citation attribution; see full citation"
+    "issuer_status": "citation attribution; see full citation",
+    "previous_capture_metadata": {
+      "url": "https://www.iisd.org/itn/2015/11/26/tribunal-largely-adopts-independent-experts-damages-findings-in-usd-405-million-award-to-previous-owners-of-an-argentine-public-utility-company-suez-sociedad-general-de-aguas-de-barcelona-sa-interagua/",
+      "sha256": "",
+      "hash_status": "not available in inspected capture register",
+      "capture_date": "",
+      "access_date": "2026-10-04"
+    },
+    "capture_format": "visible-text capture",
+    "capture_reading_scope": "Passage scope is recorded in the current episode source-check file; capture alone is not claim verification."
   },
   {
     "source_id": "S44",
